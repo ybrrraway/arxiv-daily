@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
   'LoRA':
-    filters: []
+    filters: ['LoRA']
   'prompt':
-    filters: []
+    filters: ['prompt']
