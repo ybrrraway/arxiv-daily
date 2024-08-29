@@ -26,3 +26,5 @@ keywords:
     filters: ['LoRA']
   'prompt':
     filters: ['prompt']
+  'finetune':
+    filters: ['finetune']
