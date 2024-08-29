@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
+|**2024-08-28**|**StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements**|Jillian Fisher et.al.|[2408.15666](http://arxiv.org/abs/2408.15666)|**[link](https://github.com/jfisher52/StyleRemix)**|
+|**2024-08-28**|**TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**|Junbao Zhou et.al.|[2408.15657](http://arxiv.org/abs/2408.15657)|**[link](https://github.com/junbao-zhou/track-no-forgetting)**|
 |**2024-08-28**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739](http://arxiv.org/abs/2408.14739)|null|
 |**2024-08-27**|**PAT: Pruning-Aware Tuning for Large Language Models**|Yijiang Liu et.al.|[2408.14721](http://arxiv.org/abs/2408.14721)|**[link](https://github.com/kriskrisliu/pat_pruning-aware-tuning)**|
 |**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|null|
@@ -33,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
+|**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980](http://arxiv.org/abs/2408.15980)|null|
+|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914](http://arxiv.org/abs/2408.15914)|null|
+|**2024-08-28**|**Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models**|Sebastian Vallejo Vera et.al.|[2408.15895](http://arxiv.org/abs/2408.15895)|null|
+|**2024-08-28**|**Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation**|Shaofei Huang et.al.|[2408.15876](http://arxiv.org/abs/2408.15876)|null|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
+|**2024-08-28**|**Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature**|Uri Katz et.al.|[2408.15836](http://arxiv.org/abs/2408.15836)|null|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
 |**2024-08-27**|**SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images**|Zafer Yildiz et.al.|[2408.15224](http://arxiv.org/abs/2408.15224)|**[link](https://github.com/mazurowski-lab/slicersegmentwithsam)**|
 |**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
 |**2024-08-27**|**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**|Jian Hu et.al.|[2408.15205](http://arxiv.org/abs/2408.15205)|null|
@@ -58,12 +71,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts**|Nikolas Gritsch et.al.|[2408.15901](http://arxiv.org/abs/2408.15901)|null|
+|**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
+|**2024-08-28**|**AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models**|Fanglong Yao et.al.|[2408.15511](http://arxiv.org/abs/2408.15511)|null|
+|**2024-08-27**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
 |**2024-08-27**|**PAT: Pruning-Aware Tuning for Large Language Models**|Yijiang Liu et.al.|[2408.14721](http://arxiv.org/abs/2408.14721)|**[link](https://github.com/kriskrisliu/pat_pruning-aware-tuning)**|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568](http://arxiv.org/abs/2408.14568)|null|
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
-|**2024-08-26**|**Reducing the Cost: Cross-Prompt Pre-Finetuning for Short Answer Scoring**|Hiroaki Funayama et.al.|[2408.13966](http://arxiv.org/abs/2408.13966)|null|
+|**2024-08-26**|**Reducing the Cost: Cross-Prompt Pre-Finetuning for Short Answer Scoring**|Hiroaki Funayama et.al.|[2408.13966](http://arxiv.org/abs/2408.13966)|**[link](https://github.com/hiro819/Reducing-the-cost-cross-prompt-prefinetuning-for-SAS)**|
 |**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[2408.13890](http://arxiv.org/abs/2408.13890)|null|
 |**2024-08-24**|**Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic**|Yifei He et.al.|[2408.13656](http://arxiv.org/abs/2408.13656)|**[link](https://github.com/yifei-he/localize-and-stitch)**|
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
