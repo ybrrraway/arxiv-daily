@@ -100,6 +100,21 @@ layout: default
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
 |**2024-08-23**|**Instruct-DeBERTa: A Hybrid Approach for Aspect-based Sentiment Analysis on Textual Reviews**|Dineth Jayakody et.al.|[2408.13202](http://arxiv.org/abs/2408.13202)|null|
 
+## multimodal
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**|Kian Behzad et.al.|[2408.16703](http://arxiv.org/abs/2408.16703)|null|
+|**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng et.al.|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
+|**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|
+|**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564](http://arxiv.org/abs/2408.16564)|null|
+|**2024-08-29**|**Illuminating the Diversity-Fitness Trade-Off in Black-Box Optimization**|Maria Laura Santoni et.al.|[2408.16393](http://arxiv.org/abs/2408.16393)|**[link](https://github.com/marialaurasantoni/diversity-fitness)**|
+|**2024-08-29**|**Exploiting temporal information to detect conversational groups in videos and predict the next speaker**|Lucrezia Tosato et.al.|[2408.16380](http://arxiv.org/abs/2408.16380)|null|
+|**2024-08-29**|**Law of Vision Representation in MLLMs**|Shijia Yang et.al.|[2408.16357](http://arxiv.org/abs/2408.16357)|null|
+|**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343](http://arxiv.org/abs/2408.16343)|**[link](https://github.com/justlfc03/mstnet)**|
+|**2024-08-29**|**MQRLD: A Multimodal Data Retrieval Platform with Query-aware Feature Representation and Learned Index Based on Data Lake**|Ming Sheng et.al.|[2408.16237](http://arxiv.org/abs/2408.16237)|null|
+|**2024-08-28**|**EPO: Hierarchical LLM Agents with Environment Preference Optimization**|Qi Zhao et.al.|[2408.16090](http://arxiv.org/abs/2408.16090)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
