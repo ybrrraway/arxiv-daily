@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
+|**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383](http://arxiv.org/abs/2408.17383)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
+|**2024-08-30**|**Wireless Integrated Authenticated Communication System (WIA-Comm)**|Amith N Bharadwaj et.al.|[2408.17112](http://arxiv.org/abs/2408.17112)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
+|**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
 |**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
 |**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
 |**2024-08-28**|**StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements**|Jillian Fisher et.al.|[2408.15666](http://arxiv.org/abs/2408.15666)|**[link](https://github.com/jfisher52/StyleRemix)**|
@@ -37,6 +42,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
+|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
+|**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
+|**2024-08-30**|**NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2408.17207](http://arxiv.org/abs/2408.17207)|null|
+|**2024-08-30**|**Reasoning AI Performance Degradation in 6G Networks with Large Language Models**|Liming Huang et.al.|[2408.17097](http://arxiv.org/abs/2408.17097)|null|
+|**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
+|**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
+|**2024-08-29**|**LLaVA-Chef: A Multi-modal Generative Model for Food Recipes**|Fnu Mohbat et.al.|[2408.16889](http://arxiv.org/abs/2408.16889)|**[link](https://github.com/mohbattharani/LLaVA-Chef)**|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768](http://arxiv.org/abs/2408.16768)|**[link](https://github.com/ziyuguo99/sam2point)**|
 |**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749](http://arxiv.org/abs/2408.16749)|null|
@@ -82,8 +95,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Look, Learn and Leverage (L $^3$ ): Mitigating Visual-Domain Shift and Discovering Intrinsic Relations via Symbolic Alignment**|Hanchen Xie et.al.|[2408.17363](http://arxiv.org/abs/2408.17363)|null|
+|**2024-08-30**|**Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer**|Jinghan Yao et.al.|[2408.16978](http://arxiv.org/abs/2408.16978)|**[link](https://github.com/microsoft/DeepSpeed)**|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
-|**2024-08-29**|**Law of Vision Representation in MLLMs**|Shijia Yang et.al.|[2408.16357](http://arxiv.org/abs/2408.16357)|null|
+|**2024-08-29**|**Law of Vision Representation in MLLMs**|Shijia Yang et.al.|[2408.16357](http://arxiv.org/abs/2408.16357)|**[link](https://github.com/bronyayang/law_of_vision_representation_in_mllms)**|
 |**2024-08-29**|**Making the Most of your Model: Methods for Finetuning and Applying Pretrained Transformers**|Davis Yoshida et.al.|[2408.16241](http://arxiv.org/abs/2408.16241)|null|
 |**2024-08-28**|**Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts**|Nikolas Gritsch et.al.|[2408.15901](http://arxiv.org/abs/2408.15901)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
@@ -104,6 +119,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Baichuan Zhou et.al.|[2408.17267](http://arxiv.org/abs/2408.17267)|null|
+|**2024-08-30**|**A methodological framework for Resilience as a Service (RaaS) in multimodal urban transportation networks**|Sara Jaber et.al.|[2408.17233](http://arxiv.org/abs/2408.17233)|null|
+|**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**Generative Modeling Perspective for Control and Reasoning in Robotics**|Takuma Yoneda et.al.|[2408.17041](http://arxiv.org/abs/2408.17041)|null|
+|**2024-08-30**|**AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding**|Yonghui Wang et.al.|[2408.16986](http://arxiv.org/abs/2408.16986)|**[link](https://github.com/harrytea/adaptvision)**|
+|**2024-08-30**|**Synthetic Lunar Terrain: A Multimodal Open Dataset for Training and Evaluating Neuromorphic Vision Algorithms**|Marcus Märtens et.al.|[2408.16971](http://arxiv.org/abs/2408.16971)|null|
+|**2024-08-29**|**Revising Multimodal VAEs with Diffusion Decoders**|Daniel Wesego et.al.|[2408.16883](http://arxiv.org/abs/2408.16883)|null|
+|**2024-08-29**|**MPADA: Open source framework for multimodal time series antenna array measurements**|Yuyi Chang et.al.|[2408.16850](http://arxiv.org/abs/2408.16850)|null|
+|**2024-08-29**|**Maven: A Multimodal Foundation Model for Supernova Science**|Gemma Zhang et.al.|[2408.16829](http://arxiv.org/abs/2408.16829)|**[link](https://github.com/thomashelfer/multimodal-supernovae)**|
 |**2024-08-29**|**RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**|Kian Behzad et.al.|[2408.16703](http://arxiv.org/abs/2408.16703)|null|
 |**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng et.al.|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|
