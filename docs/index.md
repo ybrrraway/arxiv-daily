@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Fast Forwarding Low-Rank Training**|Adir Rahamim et.al.|[2409.04206](http://arxiv.org/abs/2409.04206)|null|
 |**2024-09-05**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
 |**2024-09-04**|**Non-Orthogonal Multiple-Access Strategies for Direct-to-Satellite IoT Networks**|Felipe Augusto Tondo et.al.|[2409.02748](http://arxiv.org/abs/2409.02748)|null|
 |**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
@@ -50,6 +51,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**J/ $ψ$-hadron correlations at midrapidity in pp collisions at $\sqrt{s}$ = 13 TeV**|ALICE Collaboration et.al.|[2409.04364](http://arxiv.org/abs/2409.04364)|null|
+|**2024-09-06**|**First studies on cascaded dual-phase liquid hole-multipliers in xenon**|G. Martinez-Lema et.al.|[2409.04338](http://arxiv.org/abs/2409.04338)|null|
+|**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
+|**2024-09-06**|**FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298](http://arxiv.org/abs/2409.04298)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
+|**2024-09-06**|**An overview of domain-specific foundation model: key technologies, applications and challenges**|Haolong Chen et.al.|[2409.04267](http://arxiv.org/abs/2409.04267)|null|
+|**2024-09-06**|**FPT Algorithms using Minimal Parameters for a Generalized Version of Maximin Shares**|Klaus Jansen et.al.|[2409.04225](http://arxiv.org/abs/2409.04225)|null|
+|**2024-09-06**|**Residual Stream Analysis with Multi-Layer SAEs**|Tim Lawson et.al.|[2409.04185](http://arxiv.org/abs/2409.04185)|**[link](https://github.com/tim-lawson/mlsae)**|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
+|**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
+|**2024-09-06**|**Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language Models for Text-to-Code Generation**|Luis Mayer et.al.|[2409.04164](http://arxiv.org/abs/2409.04164)|null|
 |**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735](http://arxiv.org/abs/2409.03735)|null|
 |**2024-09-06**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
 |**2024-09-05**|**Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers**|Amit Ben Artzy et.al.|[2409.03621](http://arxiv.org/abs/2409.03621)|null|
@@ -123,6 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Fast Forwarding Low-Rank Training**|Adir Rahamim et.al.|[2409.04206](http://arxiv.org/abs/2409.04206)|null|
+|**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183](http://arxiv.org/abs/2409.04183)|null|
+|**2024-09-06**|**UNIT: Unifying Image and Text Recognition in One Vision Encoder**|Yi Zhu et.al.|[2409.04095](http://arxiv.org/abs/2409.04095)|null|
+|**2024-09-05**|**Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**|Isaac Ray et.al.|[2409.03938](http://arxiv.org/abs/2409.03938)|null|
+|**2024-09-05**|**How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data**|Yejie Wang et.al.|[2409.03810](http://arxiv.org/abs/2409.03810)|null|
 |**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
 |**2024-09-05**|**Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles**|Miao Fan et.al.|[2409.03445](http://arxiv.org/abs/2409.03445)|null|
 |**2024-09-05**|**mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**|Anwen Hu et.al.|[2409.03420](http://arxiv.org/abs/2409.03420)|**[link](https://github.com/x-plug/mplug-docowl)**|
@@ -159,6 +175,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388](http://arxiv.org/abs/2409.04388)|null|
+|**2024-09-06**|**Firefly Algorithm for Movable Antenna Arrays**|Manh Kha Hoang et.al.|[2409.04228](http://arxiv.org/abs/2409.04228)|null|
+|**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123](http://arxiv.org/abs/2409.04123)|null|
+|**2024-09-06**|**UI-JEPA: Towards Active Perception of User Intent through Onscreen User Activity**|Yicheng Fu et.al.|[2409.04081](http://arxiv.org/abs/2409.04081)|null|
+|**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|null|
+|**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
+|**2024-09-05**|**CALM: Cognitive Assessment using Light-insensitive Model**|Akhil Meethal et.al.|[2409.03888](http://arxiv.org/abs/2409.03888)|null|
+|**2024-09-05**|**Users' Perspectives on Multimodal Menstrual Tracking Using Consumer Health Devices**|Georgianna Lin et.al.|[2409.03853](http://arxiv.org/abs/2409.03853)|null|
 |**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
 |**2024-09-05**|**ScreenMark: Watermarking Arbitrary Visual Content on Screen**|Xiujian Liang et.al.|[2409.03487](http://arxiv.org/abs/2409.03487)|null|
 |**2024-09-05**|**Purification of Gaussian States by Photon Subtraction**|Kun Zhang et.al.|[2409.03473](http://arxiv.org/abs/2409.03473)|null|
