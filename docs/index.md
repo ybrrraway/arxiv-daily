@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation**|Zhe Cao et.al.|[2409.05224](http://arxiv.org/abs/2409.05224)|**[link](https://github.com/spike0924/lslo)**|
 |**2024-09-06**|**Fast Forwarding Low-Rank Training**|Adir Rahamim et.al.|[2409.04206](http://arxiv.org/abs/2409.04206)|null|
 |**2024-09-05**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
 |**2024-09-04**|**Non-Orthogonal Multiple-Access Strategies for Direct-to-Satellite IoT Networks**|Felipe Augusto Tondo et.al.|[2409.02748](http://arxiv.org/abs/2409.02748)|null|
@@ -51,6 +52,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
+|**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
+|**2024-09-09**|**Are Large Language Models a Threat to Programming Platforms? An Exploratory Study**|Md Mustakim Billah et.al.|[2409.05824](http://arxiv.org/abs/2409.05824)|null|
+|**2024-09-09**|**A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System**|B. Sankar et.al.|[2409.05747](http://arxiv.org/abs/2409.05747)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668](http://arxiv.org/abs/2409.05668)|null|
+|**2024-09-09**|**Enhancing Critical Thinking in Education by means of a Socratic Chatbot**|Lucile Favero et.al.|[2409.05511](http://arxiv.org/abs/2409.05511)|null|
+|**2024-09-09**|**Selecting Differential Splicing Methods: Practical Considerations**|Ben J Draper et.al.|[2409.05458](http://arxiv.org/abs/2409.05458)|null|
+|**2024-09-09**|**TextToucher: Fine-Grained Text-to-Touch Generation**|Jiahang Tu et.al.|[2409.05427](http://arxiv.org/abs/2409.05427)|null|
+|**2024-09-09**|**TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation**|Jiaqi Yang et.al.|[2409.05393](http://arxiv.org/abs/2409.05393)|null|
+|**2024-09-09**|**Boosting CLIP Adaptation for Image Quality Assessment via Meta-Prompt Learning and Gradient Regularization**|Xudong Li et.al.|[2409.05381](http://arxiv.org/abs/2409.05381)|null|
 |**2024-09-06**|**J/ $ψ$-hadron correlations at midrapidity in pp collisions at $\sqrt{s}$ = 13 TeV**|ALICE Collaboration et.al.|[2409.04364](http://arxiv.org/abs/2409.04364)|null|
 |**2024-09-06**|**First studies on cascaded dual-phase liquid hole-multipliers in xenon**|G. Martinez-Lema et.al.|[2409.04338](http://arxiv.org/abs/2409.04338)|null|
 |**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
@@ -134,6 +145,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|null|
+|**2024-09-09**|**Segmentation by Factorization: Unsupervised Semantic Segmentation for Pathology by Factorizing Foundation Model Features**|Jacob Gildenblat et.al.|[2409.05697](http://arxiv.org/abs/2409.05697)|null|
+|**2024-09-06**|**Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning**|Xinyue Liu et.al.|[2409.04574](http://arxiv.org/abs/2409.04574)|null|
 |**2024-09-06**|**Fast Forwarding Low-Rank Training**|Adir Rahamim et.al.|[2409.04206](http://arxiv.org/abs/2409.04206)|null|
 |**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183](http://arxiv.org/abs/2409.04183)|null|
 |**2024-09-06**|**UNIT: Unifying Image and Text Recognition in One Vision Encoder**|Yi Zhu et.al.|[2409.04095](http://arxiv.org/abs/2409.04095)|null|
@@ -175,6 +189,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
+|**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
+|**2024-09-09**|**CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization**|Nan Chen et.al.|[2409.05606](http://arxiv.org/abs/2409.05606)|null|
+|**2024-09-09**|**TextToucher: Fine-Grained Text-to-Touch Generation**|Jiahang Tu et.al.|[2409.05427](http://arxiv.org/abs/2409.05427)|null|
+|**2024-09-09**|**Replicability Measures for Longitudinal Information Retrieval Evaluation**|Jüri Keller et.al.|[2409.05417](http://arxiv.org/abs/2409.05417)|null|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-09**|**HyperSMOTE: A Hypergraph-based Oversampling Approach for Imbalanced Node Classifications**|Ziming Zhao et.al.|[2409.05402](http://arxiv.org/abs/2409.05402)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
+|**2024-09-09**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al.|[2409.05378](http://arxiv.org/abs/2409.05378)|null|
+|**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|null|
 |**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388](http://arxiv.org/abs/2409.04388)|null|
 |**2024-09-06**|**Firefly Algorithm for Movable Antenna Arrays**|Manh Kha Hoang et.al.|[2409.04228](http://arxiv.org/abs/2409.04228)|null|
 |**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123](http://arxiv.org/abs/2409.04123)|null|
