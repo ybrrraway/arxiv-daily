@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -23,7 +23,7 @@ layout: default
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-08**|**Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation**|Zhe Cao et.al.|[2409.05224](http://arxiv.org/abs/2409.05224)|**[link](https://github.com/spike0924/lslo)**|
 |**2024-09-06**|**Fast Forwarding Low-Rank Training**|Adir Rahamim et.al.|[2409.04206](http://arxiv.org/abs/2409.04206)|null|
-|**2024-09-05**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
+|**2024-09-11**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
 |**2024-09-04**|**Non-Orthogonal Multiple-Access Strategies for Direct-to-Satellite IoT Networks**|Felipe Augusto Tondo et.al.|[2409.02748](http://arxiv.org/abs/2409.02748)|null|
 |**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
 |**2024-08-31**|**CoRA: Optimizing Low-Rank Adaptation with Common Subspace of Large Language Models**|Xiaojun Xiao et.al.|[2409.02119](http://arxiv.org/abs/2409.02119)|null|
@@ -62,8 +62,8 @@ layout: default
 |**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
-|**2024-09-11**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
-|**2024-09-11**|**3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents**|Yingjie Zhou et.al.|[2409.07236](http://arxiv.org/abs/2409.07236)|null|
+|**2024-09-12**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
+|**2024-09-12**|**3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents**|Yingjie Zhou et.al.|[2409.07236](http://arxiv.org/abs/2409.07236)|null|
 |**2024-09-11**|**Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets**|Ruochen Gao et.al.|[2409.07172](http://arxiv.org/abs/2409.07172)|null|
 |**2024-09-11**|**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**|Rui Ye et.al.|[2409.07136](http://arxiv.org/abs/2409.07136)|null|
 |**2024-09-11**|**Understanding Knowledge Drift in LLMs through Misinformation**|Alina Fastowski et.al.|[2409.07085](http://arxiv.org/abs/2409.07085)|**[link](https://github.com/afastowski/knowledge_drift)**|
@@ -175,7 +175,7 @@ layout: default
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-11**|**Gated Slot Attention for Efficient Linear-Time Sequence Modeling**|Yu Zhang et.al.|[2409.07146](http://arxiv.org/abs/2409.07146)|null|
 |**2024-09-10**|**Semi-Supervised Reward Modeling via Iterative Self-Training**|Yifei He et.al.|[2409.06903](http://arxiv.org/abs/2409.06903)|null|
-|**2024-09-10**|**TeXBLEU: Automatic Metric for Evaluate LaTeX Format**|Kyudan Jung et.al.|[2409.06639](http://arxiv.org/abs/2409.06639)|**[link](https://github.com/kyudan1/texbleu)**|
+|**2024-09-12**|**TeXBLEU: Automatic Metric for Evaluate LaTeX Format**|Kyudan Jung et.al.|[2409.06639](http://arxiv.org/abs/2409.06639)|**[link](https://github.com/kyudan1/texbleu)**|
 |**2024-09-10**|**MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders**|Wenyu Zhang et.al.|[2409.06635](http://arxiv.org/abs/2409.06635)|null|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
 |**2024-09-10**|**GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering**|Sacha Muller et.al.|[2409.06595](http://arxiv.org/abs/2409.06595)|null|
