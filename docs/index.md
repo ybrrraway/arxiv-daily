@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Data Efficient Child-Adult Speaker Diarization with Simulated Conversations**|Anfeng Xu et.al.|[2409.08881](http://arxiv.org/abs/2409.08881)|**[link](https://github.com/usc-sail/child-adult-diarization)**|
+|**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](http://arxiv.org/abs/2409.08596)|null|
+|**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543](http://arxiv.org/abs/2409.08543)|null|
+|**2024-09-13**|**Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights**|Dixi Yao et.al.|[2409.08482](http://arxiv.org/abs/2409.08482)|null|
 |**2024-09-11**|**Efficient Localized Adaptation of Neural Weather Forecasting: A Case Study in the MENA Region**|Muhammad Akhtar Munir et.al.|[2409.07585](http://arxiv.org/abs/2409.07585)|**[link](https://github.com/akhtarvision/weather-regional)**|
 |**2024-09-11**|**Improving Anomalous Sound Detection via Low-Rank Adaptation Fine-Tuning of Pre-Trained Audio Models**|Xinhu Zheng et.al.|[2409.07016](http://arxiv.org/abs/2409.07016)|null|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
@@ -60,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
+|**2024-09-13**|**What You Say = What You Want? Teaching Humans to Articulate Requirements for LLMs**|Qianou Ma et.al.|[2409.08775](http://arxiv.org/abs/2409.08775)|null|
+|**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|null|
+|**2024-09-13**|**Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding**|Tianqiao Liu et.al.|[2409.08561](http://arxiv.org/abs/2409.08561)|null|
+|**2024-09-13**|**LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study**|Mahta Fetrat Qharabagh et.al.|[2409.08554](http://arxiv.org/abs/2409.08554)|null|
+|**2024-09-13**|**Enhancing Privacy in ControlNet and Stable Diffusion via Split Learning**|Dixi Yao et.al.|[2409.08503](http://arxiv.org/abs/2409.08503)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/abs/2409.08248)|**[link](https://github.com/nahyeonkaty/textboost)**|
@@ -183,6 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**|K. J. Kevin Feng et.al.|[2409.08622](http://arxiv.org/abs/2409.08622)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Towards a graph-based foundation model for network traffic analysis**|Louis Van Langendonck et.al.|[2409.08111](http://arxiv.org/abs/2409.08111)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
@@ -240,6 +255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Boson sampling with self-generation of squeezing via interaction of photons and atoms**|Sergey V. Tarasov et.al.|[2409.09027](http://arxiv.org/abs/2409.09027)|null|
+|**2024-09-13**|**Affective Computing Has Changed: The Foundation Model Disruption**|Björn Schuller et.al.|[2409.08907](http://arxiv.org/abs/2409.08907)|null|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies**|Zhiqiang Zhong et.al.|[2409.08864](http://arxiv.org/abs/2409.08864)|null|
+|**2024-09-13**|**Statistical Analysis of Quantitative Cancer Imaging Data**|Shariq Mohammed et.al.|[2409.08809](http://arxiv.org/abs/2409.08809)|null|
+|**2024-09-13**|**A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data**|Tianqi Yang et.al.|[2409.08790](http://arxiv.org/abs/2409.08790)|null|
+|**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585](http://arxiv.org/abs/2409.08585)|null|
+|**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
+|**2024-09-13**|**Dynamics of Collective Group Affect: Group-level Annotations and the Multimodal Modeling of Convergence and Divergence**|Navin Raj Prabhu et.al.|[2409.08578](http://arxiv.org/abs/2409.08578)|null|
+|**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543](http://arxiv.org/abs/2409.08543)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**A three-dimensional force estimation method for the cable-driven soft robot based on monocular images**|Xiaohan Zhu et.al.|[2409.08033](http://arxiv.org/abs/2409.08033)|null|
