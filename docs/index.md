@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -17,7 +17,7 @@ layout: default
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions**|Lameya Aldhaheri et.al.|[2409.11200](http://arxiv.org/abs/2409.11200)|null|
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
-|**2024-09-17**|**Propulsion: Steering LLM with Tiny Fine-Tuning**|Md Kowsher et.al.|[2409.10927](http://arxiv.org/abs/2409.10927)|**[link](https://github.com/Kowsher/Propulsion)**|
+|**2024-09-18**|**Propulsion: Steering LLM with Tiny Fine-Tuning**|Md Kowsher et.al.|[2409.10927](http://arxiv.org/abs/2409.10927)|**[link](https://github.com/Kowsher/Propulsion)**|
 |**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
 |**2024-09-17**|**jina-embeddings-v3: Multilingual Embeddings With Task LoRA**|Saba Sturua et.al.|[2409.10173](http://arxiv.org/abs/2409.10173)|null|
 |**2024-09-16**|**Rapid Adaptation of Earth Observation Foundation Models for Segmentation**|Karthick Panner Selvam et.al.|[2409.09907](http://arxiv.org/abs/2409.09907)|null|
@@ -297,7 +297,7 @@ layout: default
 |**2024-09-17**|**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**|Jiahui Gao et.al.|[2409.11365](http://arxiv.org/abs/2409.11365)|null|
 |**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
-|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223](http://arxiv.org/abs/2409.11223)|null|
 |**2024-09-17**|**Identifying Influential nodes in Brain Networks via Self-Supervised Graph-Transformer**|Yanqing Kang et.al.|[2409.11174](http://arxiv.org/abs/2409.11174)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
