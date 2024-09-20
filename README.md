@@ -249,14 +249,14 @@
 |---|---|---|---|---|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-18**|**MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts**|Tianle Gu et.al.|[2409.11844](http://arxiv.org/abs/2409.11844)|**[link](https://github.com/carol-gutianle/meow)**|
-|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
+|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|**[link](https://github.com/for-ai/iterative-data-selection)**|
 |**2024-09-17**|**Few-Shot Domain Adaptation for Learned Image Compression**|Tianyu Zhang et.al.|[2409.11111](http://arxiv.org/abs/2409.11111)|null|
 |**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394](http://arxiv.org/abs/2409.10394)|**[link](https://github.com/snu-list/most)**|
 |**2024-09-16**|**Contrastive Learning for Character Detection in Ancient Greek Papyri**|Vedasri Nakka et.al.|[2409.10156](http://arxiv.org/abs/2409.10156)|null|
-|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|**[link](https://github.com/weijing-tao/MotionCom)**|
 |**2024-09-16**|**Optimizing Dysarthria Wake-Up Word Spotting: An End-to-End Approach for SLT 2024 LRDWWS Challenge**|Shuiyun Liu et.al.|[2409.10076](http://arxiv.org/abs/2409.10076)|null|
 |**2024-09-15**|**MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation**|Shuzhao Xie et.al.|[2409.09756](http://arxiv.org/abs/2409.09756)|null|
-|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|null|
+|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|**[link](https://github.com/dsam99/pc_clip)**|
 |**2024-09-13**|**Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**|K. J. Kevin Feng et.al.|[2409.08622](http://arxiv.org/abs/2409.08622)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Towards a graph-based foundation model for network traffic analysis**|Louis Van Langendonck et.al.|[2409.08111](http://arxiv.org/abs/2409.08111)|null|
