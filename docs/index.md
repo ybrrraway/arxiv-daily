@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering**|Ziyu Zhao et.al.|[2409.16167](http://arxiv.org/abs/2409.16167)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
+|**2024-09-24**|**Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM**|Fengrun Zhang et.al.|[2409.15905](http://arxiv.org/abs/2409.15905)|null|
+|**2024-09-24**|**Aided design of bridge aesthetics based on Stable Diffusion fine-tuning**|Leye Zhang et.al.|[2409.15812](http://arxiv.org/abs/2409.15812)|**[link](https://github.com/zhangleye/Bridge-SD)**|
+|**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
+|**2024-09-23**|**Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines**|Lei Gao et.al.|[2409.15520](http://arxiv.org/abs/2409.15520)|null|
+|**2024-09-22**|**Flat-LoRA: Low-Rank Adaption over a Flat Loss Landscape**|Tao Li et.al.|[2409.14396](http://arxiv.org/abs/2409.14396)|null|
+|**2024-09-21**|**Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis**|Zeping Yu et.al.|[2409.14144](http://arxiv.org/abs/2409.14144)|**[link](https://github.com/zepingyu0512/arithmetic-mechanism)**|
+|**2024-09-20**|**Deep learning for fast segmentation and critical dimension metrology & characterization enabling AR/VR design and fabrication**|Kundan Chaudhary et.al.|[2409.13951](http://arxiv.org/abs/2409.13951)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions**|Lameya Aldhaheri et.al.|[2409.11200](http://arxiv.org/abs/2409.11200)|null|
@@ -74,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework**|Lu Chen et.al.|[2409.16146](http://arxiv.org/abs/2409.16146)|null|
+|**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**Exploring Hint Generation Approaches in Open-Domain Question Answering**|Jamshid Mozafari et.al.|[2409.16096](http://arxiv.org/abs/2409.16096)|**[link](https://github.com/datascienceuibk/hintqa)**|
+|**2024-09-24**|**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**|Wenhao Yu et.al.|[2409.16030](http://arxiv.org/abs/2409.16030)|null|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-24**|**GPT-4 as a Homework Tutor can Improve Student Engagement and Learning Outcomes**|Alessandro Vanzo et.al.|[2409.15981](http://arxiv.org/abs/2409.15981)|null|
+|**2024-09-24**|**StyleSinger 2: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977](http://arxiv.org/abs/2409.15977)|**[link](https://github.com/AaronZ345/StyleSinger2)**|
+|**2024-09-24**|**Mind the Prompt: A Novel Benchmark for Prompt-based Class-Agnostic Counting**|Luca Ciampi et.al.|[2409.15953](http://arxiv.org/abs/2409.15953)|null|
+|**2024-09-24**|**A background for thermal photons in heavy ion collisions**|Satya Ranjan Nayak et.al.|[2409.15938](http://arxiv.org/abs/2409.15938)|null|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141](http://arxiv.org/abs/2409.12141)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
@@ -237,6 +257,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
+|**2024-09-24**|**LLM Echo Chamber: personalized and automated disinformation**|Tony Ma et.al.|[2409.16241](http://arxiv.org/abs/2409.16241)|**[link](https://github.com/iamtonymwt/echo_chamber)**|
+|**2024-09-25**|**Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**|Pin-Jui Ku et.al.|[2409.16117](http://arxiv.org/abs/2409.16117)|null|
+|**2024-09-24**|**Finetuning LLMs for Comparative Assessment Tasks**|Vatsal Raina et.al.|[2409.15979](http://arxiv.org/abs/2409.15979)|null|
+|**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
+|**2024-09-25**|**M^2PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning**|Taowen Wang et.al.|[2409.15657](http://arxiv.org/abs/2409.15657)|**[link](https://github.com/william-wang618/mmpt-emnlp2024)**|
+|**2024-09-24**|**ImPoster: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**|Divya Kothandaraman et.al.|[2409.15650](http://arxiv.org/abs/2409.15650)|null|
+|**2024-09-24**|**Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale**|Tianyue Ou et.al.|[2409.15637](http://arxiv.org/abs/2409.15637)|null|
+|**2024-09-24**|**Orthogonal Finetuning for Direct Preference Optimization**|Chenxu Yang et.al.|[2409.14836](http://arxiv.org/abs/2409.14836)|null|
+|**2024-09-23**|**VLEU: a Method for Automatic Evaluation for Generalizability of Text-to-Image Models**|Jingtao Cao et.al.|[2409.14704](http://arxiv.org/abs/2409.14704)|null|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-18**|**MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts**|Tianle Gu et.al.|[2409.11844](http://arxiv.org/abs/2409.11844)|**[link](https://github.com/carol-gutianle/meow)**|
 |**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|**[link](https://github.com/for-ai/iterative-data-selection)**|
@@ -305,6 +335,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280](http://arxiv.org/abs/2409.16280)|null|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**Auricular Bioelectronic Devices for Health, Medicine, and Human-Computer Interfaces**|William J. Tyler et.al.|[2409.16169](http://arxiv.org/abs/2409.16169)|null|
+|**2024-09-24**|**VisioPhysioENet: Multimodal Engagement Detection using Visual and Physiological Signals**|Alakhsimar Singh et.al.|[2409.16126](http://arxiv.org/abs/2409.16126)|null|
+|**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
+|**2024-09-24**|**MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios**|Jiacheng Ruan et.al.|[2409.16084](http://arxiv.org/abs/2409.16084)|**[link](https://github.com/jcruan519/mm-camobj)**|
+|**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
 |**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
