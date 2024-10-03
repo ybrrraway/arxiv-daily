@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?**|Xi Chen et.al.|[2410.01623](http://arxiv.org/abs/2410.01623)|**[link](https://github.com/xichen-fy/fira)**|
+|**2024-10-02**|**DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models**|Yuxuan Zhang et.al.|[2410.01497](http://arxiv.org/abs/2410.01497)|**[link](https://github.com/mecuping/dlp-lora)**|
+|**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463](http://arxiv.org/abs/2410.01463)|null|
+|**2024-10-02**|**FlashMask: Efficient and Rich Mask Extension of FlashAttention**|Guoxia Wang et.al.|[2410.01359](http://arxiv.org/abs/2410.01359)|**[link](https://github.com/PaddlePaddle/Paddle)**|
+|**2024-10-01**|**MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards**|Sheng Wang et.al.|[2410.00938](http://arxiv.org/abs/2410.00938)|null|
+|**2024-10-01**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
+|**2024-09-30**|**Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models**|Ji Liu et.al.|[2410.00131](http://arxiv.org/abs/2410.00131)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-30**|**BSharedRAG: Backbone Shared Retrieval-Augmented Generation for the E-commerce Domain**|Kaisi Guan et.al.|[2409.20075](http://arxiv.org/abs/2409.20075)|null|
 |**2024-09-30**|**HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models**|Bingshen Mu et.al.|[2409.19878](http://arxiv.org/abs/2409.19878)|null|
@@ -107,6 +114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**|Sam Earle et.al.|[2410.01791](http://arxiv.org/abs/2410.01791)|null|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting**|Longyu Feng et.al.|[2410.01724](http://arxiv.org/abs/2410.01724)|null|
+|**2024-10-02**|**Examining the Role of Relationship Alignment in Large Language Models**|Kristen M. Altenburger et.al.|[2410.01708](http://arxiv.org/abs/2410.01708)|null|
+|**2024-10-02**|**FactAlign: Long-form Factuality Alignment of Large Language Models**|Chao-Wei Huang et.al.|[2410.01691](http://arxiv.org/abs/2410.01691)|**[link](https://github.com/miulab/factalign)**|
+|**2024-10-02**|**Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**|Qunzhong Wang et.al.|[2410.01635](http://arxiv.org/abs/2410.01635)|null|
+|**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
+|**2024-10-02**|**Automated Red Teaming with GOAT: the Generative Offensive Agent Tester**|Maya Pavlova et.al.|[2410.01606](http://arxiv.org/abs/2410.01606)|null|
+|**2024-10-02**|**PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation**|Chuyan Zhang et.al.|[2410.01573](http://arxiv.org/abs/2410.01573)|**[link](https://github.com/endoluminalsurgicalvision-imr/pass)**|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Uni $^2$ Det: Unified and Universal Framework for Prompt-Guided Multi-dataset 3D Detection**|Yubin Wang et.al.|[2409.20558](http://arxiv.org/abs/2409.20558)|null|
 |**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
@@ -322,6 +339,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Not All LLM Reasoners Are Created Equal**|Arian Hosseini et.al.|[2410.01748](http://arxiv.org/abs/2410.01748)|null|
+|**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
+|**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
+|**2024-10-02**|**Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**|Qunzhong Wang et.al.|[2410.01635](http://arxiv.org/abs/2410.01635)|null|
+|**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
+|**2024-10-02**|**A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts**|Suyu Ge et.al.|[2410.01485](http://arxiv.org/abs/2410.01485)|null|
+|**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
+|**2024-10-01**|**Using Interleaved Ensemble Unlearning to Keep Backdoors at Bay for Finetuning Vision Transformers**|Zeyu Michael Li et.al.|[2410.01128](http://arxiv.org/abs/2410.01128)|null|
+|**2024-10-01**|**MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards**|Sheng Wang et.al.|[2410.00938](http://arxiv.org/abs/2410.00938)|null|
+|**2024-09-30**|**Zero-Shot Classification of Crisis Tweets Using Instruction-Finetuned Large Language Models**|Emma McDaniel et.al.|[2410.00182](http://arxiv.org/abs/2410.00182)|null|
 |**2024-10-01**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
 |**2024-09-29**|**LANDeRMT: Detecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation**|Shaolin Zhu et.al.|[2409.19523](http://arxiv.org/abs/2409.19523)|null|
 |**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
@@ -419,6 +446,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
+|**2024-10-02**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
+|**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
+|**2024-10-02**|**Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning**|Jianxiong Li et.al.|[2410.01529](http://arxiv.org/abs/2410.01529)|null|
+|**2024-10-02**|**Open-vocabulary Multimodal Emotion Recognition: Dataset, Metric, and Benchmark**|Zheng Lian et.al.|[2410.01495](http://arxiv.org/abs/2410.01495)|null|
+|**2024-10-02**|**Two-level atom witness of thermalization of multimode optical fibers**|M. Wanic et.al.|[2410.01416](http://arxiv.org/abs/2410.01416)|null|
+|**2024-10-02**|**SHAP-CAT: A interpretable multi-modal framework enhancing WSI classification via virtual staining and shapley-value-based multimodal fusion**|Jun Wang et.al.|[2410.01408](http://arxiv.org/abs/2410.01408)|null|
+|**2024-10-02**|**Sampling from Energy-based Policies using Diffusion**|Vineet Jain et.al.|[2410.01312](http://arxiv.org/abs/2410.01312)|null|
+|**2024-10-02**|**Backdooring Vision-Language Models with Out-Of-Distribution Data**|Weimin Lyu et.al.|[2410.01264](http://arxiv.org/abs/2410.01264)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**Supervised Multi-Modal Fission Learning**|Lingchao Mao et.al.|[2409.20559](http://arxiv.org/abs/2409.20559)|null|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
