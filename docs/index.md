@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -436,7 +436,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
-|**2024-10-02**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
+|**2024-10-03**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
 |**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
 |**2024-10-02**|**Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning**|Jianxiong Li et.al.|[2410.01529](http://arxiv.org/abs/2410.01529)|null|
 |**2024-10-02**|**Open-vocabulary Multimodal Emotion Recognition: Dataset, Metric, and Benchmark**|Zheng Lian et.al.|[2410.01495](http://arxiv.org/abs/2410.01495)|null|
