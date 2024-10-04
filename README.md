@@ -20,9 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486](http://arxiv.org/abs/2410.02486)|null|
+|**2024-10-02**|**NEAT: Nonlinear Parameter-efficient Adaptation of Pre-trained Models**|Yibo Zhong et.al.|[2410.01870](http://arxiv.org/abs/2410.01870)|null|
 |**2024-10-02**|**Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?**|Xi Chen et.al.|[2410.01623](http://arxiv.org/abs/2410.01623)|**[link](https://github.com/xichen-fy/fira)**|
 |**2024-10-02**|**DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models**|Yuxuan Zhang et.al.|[2410.01497](http://arxiv.org/abs/2410.01497)|**[link](https://github.com/mecuping/dlp-lora)**|
-|**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463](http://arxiv.org/abs/2410.01463)|null|
+|**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463](http://arxiv.org/abs/2410.01463)|**[link](https://github.com/Pengxin-Guo/FedSA-LoRA)**|
 |**2024-10-02**|**FlashMask: Efficient and Rich Mask Extension of FlashAttention**|Guoxia Wang et.al.|[2410.01359](http://arxiv.org/abs/2410.01359)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 |**2024-10-01**|**MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards**|Sheng Wang et.al.|[2410.00938](http://arxiv.org/abs/2410.00938)|null|
 |**2024-10-01**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
@@ -114,6 +116,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Erasing Conceptual Knowledge from Language Models**|Rohit Gandikota et.al.|[2410.02760](http://arxiv.org/abs/2410.02760)|**[link](https://github.com/rohitgandikota/erasing-llm)**|
+|**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
+|**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725](http://arxiv.org/abs/2410.02725)|null|
+|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
+|**2024-10-03**|**HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly**|Howard Yen et.al.|[2410.02694](http://arxiv.org/abs/2410.02694)|null|
+|**2024-10-03**|**HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**|Lingrui Mei et.al.|[2410.02684](http://arxiv.org/abs/2410.02684)|**[link](https://github.com/Meirtz/HiddenGuard)**|
+|**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683](http://arxiv.org/abs/2410.02683)|null|
+|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681](http://arxiv.org/abs/2410.02681)|null|
 |**2024-10-02**|**DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**|Sam Earle et.al.|[2410.01791](http://arxiv.org/abs/2410.01791)|null|
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
 |**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
@@ -339,6 +351,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
+|**2024-10-03**|**Distilling an End-to-End Voice Assistant Without Instruction Training Data**|William Held et.al.|[2410.02678](http://arxiv.org/abs/2410.02678)|null|
+|**2024-10-03**|**Cross-Embodiment Dexterous Grasping with Reinforcement Learning**|Haoqi Yuan et.al.|[2410.02479](http://arxiv.org/abs/2410.02479)|null|
+|**2024-10-03**|**MenakBERT -- Hebrew Diacriticizer**|Ido Cohen et.al.|[2410.02417](http://arxiv.org/abs/2410.02417)|null|
+|**2024-10-03**|**CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning**|Huimu Yu et.al.|[2410.02229](http://arxiv.org/abs/2410.02229)|null|
+|**2024-10-03**|**Mitigating Memorization In Language Models**|Mansi Sakarvadia et.al.|[2410.02159](http://arxiv.org/abs/2410.02159)|**[link](https://github.com/msakarvadia/memorization)**|
 |**2024-10-02**|**Not All LLM Reasoners Are Created Equal**|Arian Hosseini et.al.|[2410.01748](http://arxiv.org/abs/2410.01748)|null|
 |**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
@@ -446,6 +466,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763](http://arxiv.org/abs/2410.02763)|null|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
+|**2024-10-03**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713](http://arxiv.org/abs/2410.02713)|null|
+|**2024-10-03**|**LLaVA-Critic: Learning to Evaluate Multimodal Models**|Tianyi Xiong et.al.|[2410.02712](http://arxiv.org/abs/2410.02712)|null|
+|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
+|**2024-10-03**|**NL-Eye: Abductive NLI for Images**|Mor Ventura et.al.|[2410.02613](http://arxiv.org/abs/2410.02613)|null|
+|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592](http://arxiv.org/abs/2410.02592)|null|
+|**2024-10-03**|**Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment**|Kai Liu et.al.|[2410.02505](http://arxiv.org/abs/2410.02505)|**[link](https://github.com/kai-liu001/dog-iqa)**|
 |**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
 |**2024-10-03**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
