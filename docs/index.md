@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497](http://arxiv.org/abs/2410.03497)|null|
 |**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486](http://arxiv.org/abs/2410.02486)|null|
 |**2024-10-02**|**NEAT: Nonlinear Parameter-efficient Adaptation of Pre-trained Models**|Yibo Zhong et.al.|[2410.01870](http://arxiv.org/abs/2410.01870)|null|
 |**2024-10-02**|**Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?**|Xi Chen et.al.|[2410.01623](http://arxiv.org/abs/2410.01623)|**[link](https://github.com/xichen-fy/fira)**|
@@ -108,6 +109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
+|**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
+|**2024-10-04**|**Searching for type I seesaw mechanism in a two Heavy Neutral Leptons scenario at FCC-ee**|Sehar Ajmal et.al.|[2410.03615](http://arxiv.org/abs/2410.03615)|null|
+|**2024-10-04**|**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View**|Lijie Hu et.al.|[2410.03595](http://arxiv.org/abs/2410.03595)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**Individual vaccination as Nash equilibrium in a SIR model with application to the 2009-10 Influenza A(H1N1) epidemic in France**|Laetitia Laguzet et.al.|[2410.03567](http://arxiv.org/abs/2410.03567)|null|
+|**2024-10-04**|**Re-examining Sexism and Misogyny Classification with Annotator Attitudes**|Aiqi Jiang et.al.|[2410.03543](http://arxiv.org/abs/2410.03543)|null|
+|**2024-10-04**|**Gradient-based Jailbreak Images for Multimodal Fusion Models**|Javier Rando et.al.|[2410.03489](http://arxiv.org/abs/2410.03489)|null|
+|**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
+|**2024-10-04**|**How Toxicity Classifiers and Large Language Models Respond to Ableism**|Mahika Phutane et.al.|[2410.03448](http://arxiv.org/abs/2410.03448)|null|
 |**2024-10-03**|**Erasing Conceptual Knowledge from Language Models**|Rohit Gandikota et.al.|[2410.02760](http://arxiv.org/abs/2410.02760)|**[link](https://github.com/rohitgandikota/erasing-llm)**|
 |**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
@@ -341,6 +352,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
+|**2024-10-04**|**Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval**|SeungHeon Doh et.al.|[2410.03264](http://arxiv.org/abs/2410.03264)|null|
+|**2024-10-04**|**Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models**|Gunjan Balde et.al.|[2410.03258](http://arxiv.org/abs/2410.03258)|**[link](https://github.com/gb-kgp/adaptbpe)**|
+|**2024-10-04**|**NLIP_Lab-IITH Low-Resource MT System for WMT24 Indic MT Shared Task**|Pramit Sahoo et.al.|[2410.03215](http://arxiv.org/abs/2410.03215)|null|
+|**2024-10-04**|**Learning Semantic Structure through First-Order-Logic Translation**|Akshay Chaturvedi et.al.|[2410.03203](http://arxiv.org/abs/2410.03203)|null|
+|**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
 |**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
@@ -454,6 +471,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**Gradient-based Jailbreak Images for Multimodal Fusion Models**|Javier Rando et.al.|[2410.03489](http://arxiv.org/abs/2410.03489)|null|
+|**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487](http://arxiv.org/abs/2410.03487)|null|
+|**2024-10-04**|**STREAMS: An Assistive Multimodal AI Framework for Empowering Biosignal Based Robotic Controls**|Ali Rabiee et.al.|[2410.03486](http://arxiv.org/abs/2410.03486)|null|
+|**2024-10-04**|**MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents**|Junpeng Yue et.al.|[2410.03450](http://arxiv.org/abs/2410.03450)|null|
+|**2024-10-04**|**Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition**|Zixuan Wang et.al.|[2410.03335](http://arxiv.org/abs/2410.03335)|null|
+|**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334](http://arxiv.org/abs/2410.03334)|null|
+|**2024-10-04**|**Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models**|Ye Wang et.al.|[2410.03311](http://arxiv.org/abs/2410.03311)|null|
+|**2024-10-04**|**SELU: Self-Learning Embodied MLLMs in Unknown Environments**|Boyu Li et.al.|[2410.03303](http://arxiv.org/abs/2410.03303)|null|
 |**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763](http://arxiv.org/abs/2410.02763)|null|
 |**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
