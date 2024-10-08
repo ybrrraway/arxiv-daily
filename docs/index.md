@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**PAMLR: A Passive-Active Multi-Armed Bandit-Based Solution for LoRa Channel Allocation**|Jihoon Yun et.al.|[2410.05147](http://arxiv.org/abs/2410.05147)|null|
+|**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090](http://arxiv.org/abs/2410.05090)|**[link](https://github.com/blackzxy/hyperinf)**|
+|**2024-10-07**|**Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation**|Vince Zhu et.al.|[2410.04689](http://arxiv.org/abs/2410.04689)|null|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
+|**2024-10-05**|**LoRTA: Low Rank Tensor Adaptation of Large Language Models**|Ignacio Hounie et.al.|[2410.04060](http://arxiv.org/abs/2410.04060)|null|
+|**2024-10-04**|**AutoLoRA: AutoGuidance Meets Low-Rank Adaptation for Diffusion Models**|Artur Kasymov et.al.|[2410.03941](http://arxiv.org/abs/2410.03941)|null|
 |**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497](http://arxiv.org/abs/2410.03497)|null|
 |**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486](http://arxiv.org/abs/2410.02486)|null|
 |**2024-10-02**|**NEAT: Nonlinear Parameter-efficient Adaptation of Pre-trained Models**|Yibo Zhong et.al.|[2410.01870](http://arxiv.org/abs/2410.01870)|null|
@@ -109,6 +117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
+|**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151](http://arxiv.org/abs/2410.05151)|null|
+|**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
+|**2024-10-07**|**ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery**|Ziru Chen et.al.|[2410.05080](http://arxiv.org/abs/2410.05080)|null|
+|**2024-10-07**|**Large Language Model Based Multi-Objective Optimization for Integrated Sensing and Communications in UAV Networks**|Haoyun Li et.al.|[2410.05062](http://arxiv.org/abs/2410.05062)|null|
+|**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|null|
+|**2024-10-07**|**Revealing Directions for Text-guided 3D Face Editing**|Zhuo Chen et.al.|[2410.04965](http://arxiv.org/abs/2410.04965)|null|
+|**2024-10-07**|**Activation Scaling for Steering and Interpreting Language Models**|Niklas Stoehr et.al.|[2410.04962](http://arxiv.org/abs/2410.04962)|null|
+|**2024-10-07**|**Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**|Chen Zhang et.al.|[2410.04936](http://arxiv.org/abs/2410.04936)|null|
 |**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
 |**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
 |**2024-10-04**|**Searching for type I seesaw mechanism in a two Heavy Neutral Leptons scenario at FCC-ee**|Sehar Ajmal et.al.|[2410.03615](http://arxiv.org/abs/2410.03615)|null|
@@ -352,6 +370,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
+|**2024-10-07**|**Control-oriented Clustering of Visual Latent Representation**|Han Qi et.al.|[2410.05063](http://arxiv.org/abs/2410.05063)|null|
+|**2024-10-06**|**Punctuation Prediction for Polish Texts using Transformers**|Jakub Pokrywka et.al.|[2410.04621](http://arxiv.org/abs/2410.04621)|null|
+|**2024-10-05**|**Mechanistic Behavior Editing of Language Models**|Joykirat Singh et.al.|[2410.04277](http://arxiv.org/abs/2410.04277)|**[link](https://github.com/joykirat18/tarot)**|
+|**2024-10-05**|**Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations**|Sagi Shaier et.al.|[2410.04241](http://arxiv.org/abs/2410.04241)|null|
+|**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
+|**2024-10-04**|**Model Developmental Safety: A Safety-Centric Method and Applications in Vision-Language Models**|Gang Li et.al.|[2410.03955](http://arxiv.org/abs/2410.03955)|null|
+|**2024-10-04**|**ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities**|Ying Su et.al.|[2410.03907](http://arxiv.org/abs/2410.03907)|null|
+|**2024-10-04**|**The Wallpaper is Ugly: Indoor Localization using Vision and Language**|Seth Pate et.al.|[2410.03900](http://arxiv.org/abs/2410.03900)|null|
 |**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
 |**2024-10-04**|**Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval**|SeungHeon Doh et.al.|[2410.03264](http://arxiv.org/abs/2410.03264)|null|
 |**2024-10-04**|**Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models**|Gunjan Balde et.al.|[2410.03258](http://arxiv.org/abs/2410.03258)|**[link](https://github.com/gb-kgp/adaptbpe)**|
@@ -471,6 +498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
+|**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
+|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
+|**2024-10-07**|**Organizing Unstructured Image Collections using Natural Language**|Mingxuan Liu et.al.|[2410.05217](http://arxiv.org/abs/2410.05217)|null|
+|**2024-10-07**|**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**|Ziyan Jiang et.al.|[2410.05160](http://arxiv.org/abs/2410.05160)|null|
+|**2024-10-07**|**Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**|Timofey Efimov et.al.|[2410.05143](http://arxiv.org/abs/2410.05143)|null|
+|**2024-10-07**|**Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data**|David Heurtel-Depeiges et.al.|[2410.05078](http://arxiv.org/abs/2410.05078)|null|
+|**2024-10-07**|**OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction**|Leheng Li et.al.|[2410.04932](http://arxiv.org/abs/2410.04932)|null|
+|**2024-10-07**|**Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models**|Dehong Kong et.al.|[2410.04884](http://arxiv.org/abs/2410.04884)|null|
+|**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833](http://arxiv.org/abs/2410.04833)|null|
 |**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
 |**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
 |**2024-10-04**|**Gradient-based Jailbreak Images for Multimodal Fusion Models**|Javier Rando et.al.|[2410.03489](http://arxiv.org/abs/2410.03489)|null|
