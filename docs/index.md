@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
+|**2024-10-09**|**Industrial complexity and the evolution of formal employment in developing cities**|Neave O'Clery et.al.|[2410.06971](http://arxiv.org/abs/2410.06971)|null|
+|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
+|**2024-10-08**|**Systematic 2.5 D resistive MHD simulations with ambipolar diffusion and Hall effect for fast magnetic reconnection**|Gabriela Landinez et.al.|[2410.06391](http://arxiv.org/abs/2410.06391)|null|
+|**2024-10-08**|**HyperDet: Generalizable Detection of Synthesized Images by Generating and Merging A Mixture of Hyper LoRAs**|Huangsen Cao et.al.|[2410.06044](http://arxiv.org/abs/2410.06044)|null|
+|**2024-10-08**|**QERA: an Analytical Framework for Quantization Error Reconstruction**|Cheng Zhang et.al.|[2410.06040](http://arxiv.org/abs/2410.06040)|null|
+|**2024-10-08**|**Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models**|Kangtao Lv et.al.|[2410.05951](http://arxiv.org/abs/2410.05951)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-08**|**PAMLR: A Passive-Active Multi-Armed Bandit-Based Solution for LoRa Channel Allocation**|Jihoon Yun et.al.|[2410.05147](http://arxiv.org/abs/2410.05147)|null|
 |**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090](http://arxiv.org/abs/2410.05090)|**[link](https://github.com/blackzxy/hyperinf)**|
@@ -117,6 +124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**VHELM: A Holistic Evaluation of Vision Language Models**|Tony Lee et.al.|[2410.07112](http://arxiv.org/abs/2410.07112)|null|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
+|**2024-10-09**|**Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context**|Sangwon Yu et.al.|[2410.07103](http://arxiv.org/abs/2410.07103)|null|
+|**2024-10-09**|**PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness**|Zekun Wang et.al.|[2410.07035](http://arxiv.org/abs/2410.07035)|null|
+|**2024-10-09**|**Modeling of the Gamma Ray Burst photospheric emission: Monte Carlo simulation of the GRB prompt emission, numerical results and discussion**|Amina Trabelsi et.al.|[2410.07005](http://arxiv.org/abs/2410.07005)|null|
+|**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|null|
+|**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-08**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151](http://arxiv.org/abs/2410.05151)|null|
@@ -370,6 +387,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**|Zhe Li et.al.|[2410.07093](http://arxiv.org/abs/2410.07093)|null|
+|**2024-10-09**|**CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models**|Zi Gong et.al.|[2410.06741](http://arxiv.org/abs/2410.06741)|**[link](https://github.com/codefuse-ai/mftcoder)**|
+|**2024-10-09**|**PII-Scope: A Benchmark for Training Data PII Leakage Assessment in LLMs**|Krishna Kanth Nakka et.al.|[2410.06704](http://arxiv.org/abs/2410.06704)|null|
+|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
+|**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664](http://arxiv.org/abs/2410.06664)|null|
+|**2024-10-09**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|null|
+|**2024-10-09**|**WAPITI: A Watermark for Finetuned Open-Source LLMs**|Lingjie Chen et.al.|[2410.06467](http://arxiv.org/abs/2410.06467)|null|
+|**2024-10-08**|**Incremental Learning for Robot Shared Autonomy**|Yiran Tao et.al.|[2410.06315](http://arxiv.org/abs/2410.06315)|null|
+|**2024-10-08**|**RL, but don't do anything I wouldn't do**|Michael K. Cohen et.al.|[2410.06213](http://arxiv.org/abs/2410.06213)|null|
+|**2024-10-08**|**Diversity-Rewarded CFG Distillation**|Geoffrey Cideron et.al.|[2410.06084](http://arxiv.org/abs/2410.06084)|null|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
 |**2024-10-08**|**Control-oriented Clustering of Visual Latent Representation**|Han Qi et.al.|[2410.05063](http://arxiv.org/abs/2410.05063)|null|
 |**2024-10-06**|**Punctuation Prediction for Polish Texts using Transformers**|Jakub Pokrywka et.al.|[2410.04621](http://arxiv.org/abs/2410.04621)|null|
@@ -498,6 +525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**Towards Interpreting Visual Information Processing in Vision-Language Models**|Clement Neo et.al.|[2410.07149](http://arxiv.org/abs/2410.07149)|null|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-09**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
+|**2024-10-09**|**HERM: Benchmarking and Enhancing Multimodal LLMs for Human-Centric Understanding**|Keliang Li et.al.|[2410.06777](http://arxiv.org/abs/2410.06777)|null|
+|**2024-10-09**|**To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models**|Junyan Lin et.al.|[2410.06765](http://arxiv.org/abs/2410.06765)|**[link](https://github.com/eit-nlp/connector-selection-for-mllm)**|
+|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
 |**2024-10-08**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
