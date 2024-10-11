@@ -20,7 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
+|**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
+|**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
+|**2024-10-09**|**SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers**|Viktoriia Chekalina et.al.|[2410.07383](http://arxiv.org/abs/2410.07383)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|**[link](https://github.com/ml-jku/EVA)**|
 |**2024-10-09**|**Industrial complexity and the evolution of formal employment in developing cities**|Neave O'Clery et.al.|[2410.06971](http://arxiv.org/abs/2410.06971)|null|
 |**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
 |**2024-10-08**|**Systematic 2.5 D resistive MHD simulations with ambipolar diffusion and Hall effect for fast magnetic reconnection**|Gabriela Landinez et.al.|[2410.06391](http://arxiv.org/abs/2410.06391)|null|
@@ -132,6 +135,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189](http://arxiv.org/abs/2410.08189)|null|
+|**2024-10-10**|**Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**|Xiaoyuan Liu et.al.|[2410.08145](http://arxiv.org/abs/2410.08145)|null|
+|**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
+|**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
+|**2024-10-10**|**Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**|Wenting Tan et.al.|[2410.08068](http://arxiv.org/abs/2410.08068)|**[link](https://github.com/sallytan13/teaching-inspired-prompting)**|
+|**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|null|
+|**2024-10-10**|**Closing the Loop: Learning to Generate Writing Feedback via Language Model Simulated Student Revisions**|Inderjeet Nair et.al.|[2410.08058](http://arxiv.org/abs/2410.08058)|null|
+|**2024-10-10**|**Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning**|Hyun Ryu et.al.|[2410.08047](http://arxiv.org/abs/2410.08047)|null|
+|**2024-10-10**|**Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs**|Jonas Hübotter et.al.|[2410.08020](http://arxiv.org/abs/2410.08020)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
@@ -397,6 +410,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
+|**2024-10-10**|**Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**|Alessio Fallani et.al.|[2410.08024](http://arxiv.org/abs/2410.08024)|null|
+|**2024-10-10**|**When and Where Did it Happen? An Encoder-Decoder Model to Identify Scenario Context**|Enrique Noriega-Atala et.al.|[2410.07567](http://arxiv.org/abs/2410.07567)|null|
+|**2024-10-09**|**Exploring the design space of deep-learning-based weather forecasting systems**|Shoaib Ahmed Siddiqui et.al.|[2410.07472](http://arxiv.org/abs/2410.07472)|null|
+|**2024-10-09**|**LLM Embeddings Improve Test-time Adaptation to Tabular $Y|X$ -Shifts**|Yibo Zeng et.al.|[2410.07395](http://arxiv.org/abs/2410.07395)|null|
 |**2024-10-09**|**LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**|Zhe Li et.al.|[2410.07093](http://arxiv.org/abs/2410.07093)|null|
 |**2024-10-09**|**CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models**|Zi Gong et.al.|[2410.06741](http://arxiv.org/abs/2410.06741)|**[link](https://github.com/codefuse-ai/mftcoder)**|
 |**2024-10-09**|**PII-Scope: A Benchmark for Training Data PII Leakage Assessment in LLMs**|Krishna Kanth Nakka et.al.|[2410.06704](http://arxiv.org/abs/2410.06704)|null|
@@ -537,6 +557,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
+|**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
+|**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
+|**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
+|**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
+|**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
+|**2024-10-10**|**Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**|Xiaoyuan Liu et.al.|[2410.08145](http://arxiv.org/abs/2410.08145)|null|
+|**2024-10-10**|**MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning**|Andrei Manolache et.al.|[2410.07981](http://arxiv.org/abs/2410.07981)|null|
+|**2024-10-10**|**Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies**|Xu Wang et.al.|[2410.07968](http://arxiv.org/abs/2410.07968)|null|
+|**2024-10-10**|**Multimodal Perception System for Real Open Environment**|Yuyang Sha et.al.|[2410.07926](http://arxiv.org/abs/2410.07926)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
