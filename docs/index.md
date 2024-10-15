@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**LoLCATs: On Low-Rank Linearizing of Large Language Models**|Michael Zhang et.al.|[2410.10254](http://arxiv.org/abs/2410.10254)|**[link](https://github.com/hazyresearch/lolcats)**|
+|**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
+|**2024-10-14**|**AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality**|Peijun Qing et.al.|[2410.10054](http://arxiv.org/abs/2410.10054)|**[link](https://github.com/morelife2017/alphalora)**|
+|**2024-10-13**|**Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**|Pengfei Jin et.al.|[2410.09908](http://arxiv.org/abs/2410.09908)|null|
+|**2024-10-13**|**A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning**|Chen-Yu Liu et.al.|[2410.09846](http://arxiv.org/abs/2410.09846)|null|
+|**2024-10-13**|**Understanding Robustness of Parameter-Efficient Tuning for Image Classification**|Jiacheng Ruan et.al.|[2410.09845](http://arxiv.org/abs/2410.09845)|**[link](https://github.com/jcruan519/petrobustness)**|
+|**2024-10-13**|**BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation**|Peijia Qin et.al.|[2410.09758](http://arxiv.org/abs/2410.09758)|null|
+|**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714](http://arxiv.org/abs/2410.09714)|null|
+|**2024-10-13**|**ALLoRA: Adaptive Learning Rate Mitigates LoRA Fatal Flaws**|Hai Huang et.al.|[2410.09692](http://arxiv.org/abs/2410.09692)|null|
+|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
 |**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305](http://arxiv.org/abs/2410.08305)|null|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
@@ -129,6 +139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
+|**2024-10-14**|**Use Random Selection for Now: Investigation of Few-Shot Selection Strategies in LLM-based Text Augmentation for Classification**|Jan Cegin et.al.|[2410.10756](http://arxiv.org/abs/2410.10756)|null|
+|**2024-10-14**|**FlexGen: Flexible Multi-View Generation from Text and Image Inputs**|Xinli Xu et.al.|[2410.10745](http://arxiv.org/abs/2410.10745)|null|
+|**2024-10-14**|**SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing**|Pengrui Quan et.al.|[2410.10741](http://arxiv.org/abs/2410.10741)|**[link](https://github.com/nesl/llm_sensor_processing)**|
+|**2024-10-14**|**Large Language Models Are Active Critics in NLG Evaluation**|Shuying Xu et.al.|[2410.10724](http://arxiv.org/abs/2410.10724)|null|
+|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
+|**2024-10-14**|**Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues**|Qibing Ren et.al.|[2410.10700](http://arxiv.org/abs/2410.10700)|**[link](https://github.com/renqibing/actorattack)**|
+|**2024-10-14**|**Functional Flexibility in Generative AI Interfaces: Text Editing with LLMs through Conversations, Toolbars, and Prompts**|Florian Lehmann et.al.|[2410.10644](http://arxiv.org/abs/2410.10644)|null|
 |**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
 |**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
 |**2024-10-11**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
@@ -412,6 +432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
+|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
+|**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
+|**2024-10-14**|**Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**|Ishan Jindal et.al.|[2410.10739](http://arxiv.org/abs/2410.10739)|null|
+|**2024-10-14**|**Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning**|Kuofeng Gao et.al.|[2410.10735](http://arxiv.org/abs/2410.10735)|null|
+|**2024-10-14**|**Locking Down the Finetuned LLMs Safety**|Minjun Zhu et.al.|[2410.10343](http://arxiv.org/abs/2410.10343)|**[link](https://github.com/zhu-minjun/safetylock)**|
+|**2024-10-14**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
+|**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
+|**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909](http://arxiv.org/abs/2410.09909)|null|
 |**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970](http://arxiv.org/abs/2410.08970)|null|
 |**2024-10-11**|**RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process**|Peiran Wang et.al.|[2410.08660](http://arxiv.org/abs/2410.08660)|null|
 |**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
@@ -559,6 +589,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
+|**2024-10-14**|**Generative AI and Its Impact on Personalized Intelligent Tutoring Systems**|Subhankar Maity et.al.|[2410.10650](http://arxiv.org/abs/2410.10650)|null|
+|**2024-10-14**|**Adapt- $\infty$ : Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection**|Adyasha Maharana et.al.|[2410.10636](http://arxiv.org/abs/2410.10636)|null|
+|**2024-10-14**|**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**|Jiacheng Chen et.al.|[2410.10563](http://arxiv.org/abs/2410.10563)|null|
+|**2024-10-14**|**Hybrid Transformer for Early Alzheimer's Detection: Integration of Handwriting-Based 2D Images and 1D Signal Features**|Changqing Gong et.al.|[2410.10547](http://arxiv.org/abs/2410.10547)|null|
+|**2024-10-14**|**Learning to Ground VLMs without Forgetting**|Aritra Bhowmik et.al.|[2410.10491](http://arxiv.org/abs/2410.10491)|null|
+|**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|**[link](https://github.com/shubhi-bansal/MMCFND)**|
+|**2024-10-14**|**Class Balancing Diversity Multimodal Ensemble for Alzheimer's Disease Diagnosis and Early Detection**|Arianna Francesconi et.al.|[2410.10374](http://arxiv.org/abs/2410.10374)|null|
 |**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|null|
 |**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
 |**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879](http://arxiv.org/abs/2410.08879)|null|
