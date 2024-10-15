@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -416,7 +416,7 @@ layout: default
 |**2024-10-11**|**RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process**|Peiran Wang et.al.|[2410.08660](http://arxiv.org/abs/2410.08660)|null|
 |**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
 |**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
-|**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
+|**2024-10-12**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**|Alessio Fallani et.al.|[2410.08024](http://arxiv.org/abs/2410.08024)|**[link](https://github.com/aidd-msca/GraphQPT)**|
 |**2024-10-10**|**When and Where Did it Happen? An Encoder-Decoder Model to Identify Scenario Context**|Enrique Noriega-Atala et.al.|[2410.07567](http://arxiv.org/abs/2410.07567)|**[link](https://github.com/ml4ai/scenario-context)**|
 |**2024-10-09**|**Exploring the design space of deep-learning-based weather forecasting systems**|Shoaib Ahmed Siddiqui et.al.|[2410.07472](http://arxiv.org/abs/2410.07472)|null|
