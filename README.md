@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -145,7 +145,7 @@
 |**2024-08-22**|**EvalYaks: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts**|Nicy Scaria et.al.|[2408.12226](http://arxiv.org/abs/2408.12226)|**[link](https://github.com/talking-yak/evalyaks)**|
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## prompt
 
@@ -450,7 +450,7 @@
 |**2024-08-26**|**More Pictures Say More: Visual Intersection Network for Open Set Object Detection**|Bingcheng Dong et.al.|[2408.14032](http://arxiv.org/abs/2408.14032)|null|
 |**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## finetune
 
@@ -458,11 +458,11 @@
 |---|---|---|---|---|
 |**2024-10-15**|**Time-Series Foundation Model for Value-at-Risk**|Anubha Goel et.al.|[2410.11773](http://arxiv.org/abs/2410.11773)|null|
 |**2024-10-15**|**Latent Action Pretraining from Videos**|Seonghyeon Ye et.al.|[2410.11758](http://arxiv.org/abs/2410.11758)|null|
-|**2024-10-15**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
+|**2024-10-16**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
 |**2024-10-15**|**Retrieval Augmented Spelling Correction for E-Commerce Applications**|Xuan Guo et.al.|[2410.11655](http://arxiv.org/abs/2410.11655)|null|
 |**2024-10-15**|**Data Selection for Task-Specific Model Finetuning**|Zifan Liu et.al.|[2410.11303](http://arxiv.org/abs/2410.11303)|null|
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
-|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-16**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
 |**2024-10-14**|**Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**|Ishan Jindal et.al.|[2410.10739](http://arxiv.org/abs/2410.10739)|null|
@@ -614,14 +614,14 @@
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
 |**2024-08-23**|**Instruct-DeBERTa: A Hybrid Approach for Aspect-based Sentiment Analysis on Textual Reviews**|Dineth Jayakody et.al.|[2408.13202](http://arxiv.org/abs/2408.13202)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
-|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
+|**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
 |**2024-10-15**|**On the learning abilities of photonic continuous-variable Born machines**|Zoltán Kolarovszki et.al.|[2410.11785](http://arxiv.org/abs/2410.11785)|null|
 |**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
 |**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761](http://arxiv.org/abs/2410.11761)|null|
@@ -629,7 +629,7 @@
 |**2024-10-15**|**Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions**|Yuhan Fu et.al.|[2410.11701](http://arxiv.org/abs/2410.11701)|null|
 |**2024-10-15**|**Unveiling the Mystery of Visual Attributes of Concrete and Abstract Concepts: Variability, Nearest Neighbors, and Challenging Categories**|Tarun Tater et.al.|[2410.11657](http://arxiv.org/abs/2410.11657)|null|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
-|**2024-10-15**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639](http://arxiv.org/abs/2410.11639)|null|
+|**2024-10-16**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639](http://arxiv.org/abs/2410.11639)|null|
 |**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
@@ -883,7 +883,7 @@
 |**2024-08-29**|**MQRLD: A Multimodal Data Retrieval Platform with Query-aware Feature Representation and Learned Index Based on Data Lake**|Ming Sheng et.al.|[2408.16237](http://arxiv.org/abs/2408.16237)|null|
 |**2024-08-28**|**EPO: Hierarchical LLM Agents with Environment Preference Optimization**|Qi Zhao et.al.|[2408.16090](http://arxiv.org/abs/2408.16090)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

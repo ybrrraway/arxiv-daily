@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -448,11 +448,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**Time-Series Foundation Model for Value-at-Risk**|Anubha Goel et.al.|[2410.11773](http://arxiv.org/abs/2410.11773)|null|
 |**2024-10-15**|**Latent Action Pretraining from Videos**|Seonghyeon Ye et.al.|[2410.11758](http://arxiv.org/abs/2410.11758)|null|
-|**2024-10-15**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
+|**2024-10-16**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
 |**2024-10-15**|**Retrieval Augmented Spelling Correction for E-Commerce Applications**|Xuan Guo et.al.|[2410.11655](http://arxiv.org/abs/2410.11655)|null|
 |**2024-10-15**|**Data Selection for Task-Specific Model Finetuning**|Zifan Liu et.al.|[2410.11303](http://arxiv.org/abs/2410.11303)|null|
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
-|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-16**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
 |**2024-10-14**|**Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**|Ishan Jindal et.al.|[2410.10739](http://arxiv.org/abs/2410.10739)|null|
@@ -609,7 +609,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
-|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
+|**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
 |**2024-10-15**|**On the learning abilities of photonic continuous-variable Born machines**|Zoltán Kolarovszki et.al.|[2410.11785](http://arxiv.org/abs/2410.11785)|null|
 |**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
 |**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761](http://arxiv.org/abs/2410.11761)|null|
@@ -617,7 +617,7 @@ layout: default
 |**2024-10-15**|**Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions**|Yuhan Fu et.al.|[2410.11701](http://arxiv.org/abs/2410.11701)|null|
 |**2024-10-15**|**Unveiling the Mystery of Visual Attributes of Concrete and Abstract Concepts: Variability, Nearest Neighbors, and Challenging Categories**|Tarun Tater et.al.|[2410.11657](http://arxiv.org/abs/2410.11657)|null|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
-|**2024-10-15**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639](http://arxiv.org/abs/2410.11639)|null|
+|**2024-10-16**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639](http://arxiv.org/abs/2410.11639)|null|
 |**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
