@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
+|**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
+|**2024-10-23**|**Closed-form merging of parameter-efficient modules for Federated Continual Learning**|Riccardo Salami et.al.|[2410.17961](http://arxiv.org/abs/2410.17961)|null|
+|**2024-10-23**|**AdaRankGrad: Adaptive Gradient-Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning**|Yehonathan Refael et.al.|[2410.17881](http://arxiv.org/abs/2410.17881)|null|
+|**2024-10-23**|**Understanding Layer Significance in LLM Alignment**|Guangyuan Shi et.al.|[2410.17875](http://arxiv.org/abs/2410.17875)|null|
+|**2024-10-23**|**VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning**|Yifan Peng et.al.|[2410.17485](http://arxiv.org/abs/2410.17485)|null|
+|**2024-10-22**|**FairLoRA: Unpacking Bias Mitigation in Vision Models with Fairness-Driven Low-Rank Adaptation**|Rohan Sukumaran et.al.|[2410.17358](http://arxiv.org/abs/2410.17358)|null|
 |**2024-10-22**|**Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups**|Charvi Rastogi et.al.|[2410.17032](http://arxiv.org/abs/2410.17032)|null|
 |**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-10-22**|**LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**|Chuntao Ding et.al.|[2410.16954](http://arxiv.org/abs/2410.16954)|null|
@@ -175,6 +182,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071](http://arxiv.org/abs/2410.18071)|null|
+|**2024-10-23**|**Disordered charge density waves in the kagome metal FeGe**|Hengxin Tan et.al.|[2410.18063](http://arxiv.org/abs/2410.18063)|null|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040](http://arxiv.org/abs/2410.18040)|null|
+|**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
+|**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018](http://arxiv.org/abs/2410.18018)|null|
+|**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
+|**2024-10-23**|**Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**|Suho Kang et.al.|[2410.18001](http://arxiv.org/abs/2410.18001)|**[link](https://github.com/mlai-yonsei/exceptionalbenchmark)**|
+|**2024-10-23**|**An evolutionary game theory approach to modeling behavioral interaction in disclosing infection begins with an outbreak: COVID-19 as an example**|Pranav Verma et.al.|[2410.17996](http://arxiv.org/abs/2410.17996)|null|
+|**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
+|**2024-10-23**|**Gaze-Assisted Medical Image Segmentation**|Leila Khaertdinova et.al.|[2410.17920](http://arxiv.org/abs/2410.17920)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**PAPILLON: PrivAcy Preservation from Internet-based and Local Language MOdel ENsembles**|Li Siyan et.al.|[2410.17127](http://arxiv.org/abs/2410.17127)|**[link](https://github.com/siyan-sylvia-li/papillon)**|
 |**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
@@ -530,6 +547,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Learning Versatile Skills with Curriculum Masking**|Yao Tang et.al.|[2410.17744](http://arxiv.org/abs/2410.17744)|**[link](https://github.com/yaotang23/currmask)**|
+|**2024-10-23**|**MojoBench: Language Modeling and Benchmarks for Mojo**|Nishat Raihan et.al.|[2410.17736](http://arxiv.org/abs/2410.17736)|null|
+|**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566](http://arxiv.org/abs/2410.17566)|null|
+|**2024-10-23**|**Large Language Models Still Exhibit Bias in Long Text**|Wonje Jeung et.al.|[2410.17519](http://arxiv.org/abs/2410.17519)|null|
+|**2024-10-22**|**FairLoRA: Unpacking Bias Mitigation in Vision Models with Fairness-Driven Low-Rank Adaptation**|Rohan Sukumaran et.al.|[2410.17358](http://arxiv.org/abs/2410.17358)|null|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**Assessment of Transformer-Based Encoder-Decoder Model for Human-Like Summarization**|Sindhu Nair et.al.|[2410.16842](http://arxiv.org/abs/2410.16842)|null|
 |**2024-10-22**|**Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models**|Yuheng Lu et.al.|[2410.16801](http://arxiv.org/abs/2410.16801)|null|
@@ -733,6 +755,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074](http://arxiv.org/abs/2410.18074)|null|
+|**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071](http://arxiv.org/abs/2410.18071)|null|
+|**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
+|**2024-10-23**|**Multimodal Effective Permittivity Model for Metasurfaces Embedded in Layered Media**|Christopher T. Howard et.al.|[2410.17981](http://arxiv.org/abs/2410.17981)|null|
+|**2024-10-23**|**Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**|Wenfang Yao et.al.|[2410.17918](http://arxiv.org/abs/2410.17918)|null|
+|**2024-10-23**|**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**|Linger Deng et.al.|[2410.17885](http://arxiv.org/abs/2410.17885)|**[link](https://github.com/dle666/r-cot)**|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**EntityCLIP: Entity-Centric Image-Text Matching via Multimodal Attentive Contrastive Learning**|Yaxiong Wang et.al.|[2410.17810](http://arxiv.org/abs/2410.17810)|null|
+|**2024-10-23**|**ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**|Zhiwei Hao et.al.|[2410.17779](http://arxiv.org/abs/2410.17779)|**[link](https://github.com/hao840/adem-vl)**|
 |**2024-10-22**|**JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**|Shota Onohara et.al.|[2410.17250](http://arxiv.org/abs/2410.17250)|null|
 |**2024-10-22**|**Frontiers in Intelligent Colonoscopy**|Ge-Peng Ji et.al.|[2410.17241](http://arxiv.org/abs/2410.17241)|**[link](https://github.com/ai4colonoscopy/intelliscope)**|
 |**2024-10-22**|**Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups**|Charvi Rastogi et.al.|[2410.17032](http://arxiv.org/abs/2410.17032)|null|
