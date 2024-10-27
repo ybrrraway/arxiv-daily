@@ -552,8 +552,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|
-|**2024-10-24**|**3D Shape Completion with Test-Time Training**|Michael Schopf-Kuester et.al.|[2410.18668](http://arxiv.org/abs/2410.18668)|**[link](https://github.com/mschopfkuester/shape_completion_ttt)**|
-|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567](http://arxiv.org/abs/2410.18567)|null|
+|**2024-10-24**|**3D Shape Completion with Test-Time Training**|Michael Schopf-Kuester et.al.|[2410.18668](http://arxiv.org/abs/2410.18668)|null|
+|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567](http://arxiv.org/abs/2410.18567)|**[link](https://github.com/naist-nlp/multils-japanese)**|
 |**2024-10-24**|**A contrastive-learning approach for auditory attention detection**|Seyed Ali Alavi Bajestan et.al.|[2410.18395](http://arxiv.org/abs/2410.18395)|null|
 |**2024-10-24**|**Improving Model Factuality with Fine-grained Critique-based Evaluator**|Yiqing Xie et.al.|[2410.18359](http://arxiv.org/abs/2410.18359)|null|
 |**2024-10-23**|**Learning Versatile Skills with Curriculum Masking**|Yao Tang et.al.|[2410.17744](http://arxiv.org/abs/2410.17744)|**[link](https://github.com/yaotang23/currmask)**|
