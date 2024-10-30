@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
 |**2024-10-28**|**Skip2-LoRA: A Lightweight On-device DNN Fine-tuning Method for Low-cost Edge Devices**|Hiroki Matsutani et.al.|[2410.21073](http://arxiv.org/abs/2410.21073)|null|
 |**2024-10-28**|**KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation**|Rambod Azimi et.al.|[2410.20777](http://arxiv.org/abs/2410.20777)|**[link](https://github.com/rambodazimi/kd-lora)**|
@@ -198,6 +199,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
+|**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
+|**2024-10-29**|**FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation**|Farima Fatahi Bayat et.al.|[2410.22257](http://arxiv.org/abs/2410.22257)|null|
+|**2024-10-29**|**Synthetic Data Generation with Large Language Models for Personalized Community Question Answering**|Marco Braga et.al.|[2410.22182](http://arxiv.org/abs/2410.22182)|null|
+|**2024-10-29**|**Benchmarking LLM Guardrails in Handling Multilingual Toxicity**|Yahan Yang et.al.|[2410.22153](http://arxiv.org/abs/2410.22153)|null|
+|**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
+|**2024-10-29**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048](http://arxiv.org/abs/2410.22048)|null|
 |**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272](http://arxiv.org/abs/2410.21272)|null|
 |**2024-10-28**|**Simplest Mechanism Builder Algorithm (SiMBA): An Automated Microkinetic Model Discovery Tool**|Miguel Ángel de Carvalho Servia et.al.|[2410.21205](http://arxiv.org/abs/2410.21205)|null|
 |**2024-10-28**|**CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants**|Lize Alberts et.al.|[2410.21159](http://arxiv.org/abs/2410.21159)|null|
@@ -593,6 +604,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
+|**2024-10-29**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048](http://arxiv.org/abs/2410.22048)|null|
+|**2024-10-29**|**BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**|Yang Zhou et.al.|[2410.21969](http://arxiv.org/abs/2410.21969)|**[link](https://github.com/yangzhou12/benchx)**|
+|**2024-10-29**|**Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging**|Li Shen et.al.|[2410.21804](http://arxiv.org/abs/2410.21804)|null|
+|**2024-10-29**|**MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding**|Yuan Wang et.al.|[2410.21747](http://arxiv.org/abs/2410.21747)|null|
+|**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520](http://arxiv.org/abs/2410.21520)|null|
+|**2024-10-28**|**Energy-Based Diffusion Language Models for Text Generation**|Minkai Xu et.al.|[2410.21357](http://arxiv.org/abs/2410.21357)|null|
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113](http://arxiv.org/abs/2410.21113)|null|
 |**2024-10-27**|**LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization**|Jui-Nan Yen et.al.|[2410.20625](http://arxiv.org/abs/2410.20625)|null|
 |**2024-10-27**|**Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation**|Yifang Chen et.al.|[2410.20362](http://arxiv.org/abs/2410.20362)|null|
@@ -817,6 +835,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
+|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|null|
+|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|null|
+|**2024-10-29**|**EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments**|Linus Nwankwo et.al.|[2410.22200](http://arxiv.org/abs/2410.22200)|null|
+|**2024-10-29**|**ADAM: An Embodied Causal Agent in Open-World Environments**|Shu Yu et.al.|[2410.22194](http://arxiv.org/abs/2410.22194)|null|
+|**2024-10-29**|**Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes**|Junlong Chen et.al.|[2410.22177](http://arxiv.org/abs/2410.22177)|null|
+|**2024-10-29**|**Multimodal Semantic Communication for Generative Audio-Driven Video Conferencing**|Haonan Tong et.al.|[2410.22112](http://arxiv.org/abs/2410.22112)|null|
+|**2024-10-29**|**Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench**|Zheyuan Liu et.al.|[2410.22108](http://arxiv.org/abs/2410.22108)|null|
+|**2024-10-29**|**osl-ephys: A Python toolbox for the analysis of electrophysiology data**|Mats W. J. van Es et.al.|[2410.22051](http://arxiv.org/abs/2410.22051)|null|
+|**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al.|[2410.21982](http://arxiv.org/abs/2410.21982)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**|Zhixin Zhang et.al.|[2410.21220](http://arxiv.org/abs/2410.21220)|**[link](https://github.com/cnzzx/vsa)**|
 |**2024-10-28**|**Large Language Model-assisted Speech and Pointing Benefits Multiple 3D Object Selection in Virtual Reality**|Junlong Chen et.al.|[2410.21091](http://arxiv.org/abs/2410.21091)|null|
