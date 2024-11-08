@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
+|**2024-11-07**|**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**|Panwen Hu et.al.|[2411.04925](http://arxiv.org/abs/2411.04925)|null|
+|**2024-11-07**|**LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG**|Laifa Tao et.al.|[2411.04476](http://arxiv.org/abs/2411.04476)|null|
+|**2024-11-07**|**Variational Low-Rank Adaptation Using IVON**|Bai Cong et.al.|[2411.04421](http://arxiv.org/abs/2411.04421)|**[link](https://github.com/team-approx-bayes/ivon-lora)**|
 |**2024-11-06**|**PyroGuardian: An IoT-Enabled System for Health and Location Monitoring in High-Risk Firefighting Environments**|Berkay Kaplan et.al.|[2411.03654](http://arxiv.org/abs/2411.03654)|null|
 |**2024-11-05**|**LLM-based Framework for Bearing Fault Diagnosis**|Laifa Tao et.al.|[2411.02718](http://arxiv.org/abs/2411.02718)|null|
 |**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
@@ -209,6 +214,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
+|**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
+|**2024-11-07**|**VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models**|Ming Cheng et.al.|[2411.04825](http://arxiv.org/abs/2411.04825)|null|
+|**2024-11-07**|**Learn to Solve Vehicle Routing Problems ASAP: A Neural Optimization Approach for Time-Constrained Vehicle Routing Problems with Finite Vehicle Fleet**|Elija Deineko et.al.|[2411.04777](http://arxiv.org/abs/2411.04777)|null|
+|**2024-11-07**|**Impact of hole-doping on the thermoelectric properties of pyrite FeS2**|Anustup Mukherjee et.al.|[2411.04771](http://arxiv.org/abs/2411.04771)|null|
+|**2024-11-07**|**RetrieveGPT: Merging Prompts and Mathematical Models for Enhanced Code-Mixed Information Retrieval**|Aniket Deroy et.al.|[2411.04752](http://arxiv.org/abs/2411.04752)|null|
+|**2024-11-07**|**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning**|Yuxuan Duan et.al.|[2411.04571](http://arxiv.org/abs/2411.04571)|**[link](https://github.com/ldhlwh/domaingallery)**|
+|**2024-11-07**|**Measure-to-measure interpolation using Transformers**|Borjan Geshkovski et.al.|[2411.04551](http://arxiv.org/abs/2411.04551)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
 |**2024-11-06**|**Predicting and Publishing Accurate Imbalance Prices Using Monte Carlo Tree Search**|Fabio Pavirani et.al.|[2411.04011](http://arxiv.org/abs/2411.04011)|null|
@@ -662,6 +677,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning**|Yuxuan Duan et.al.|[2411.04571](http://arxiv.org/abs/2411.04571)|**[link](https://github.com/ldhlwh/domaingallery)**|
+|**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549](http://arxiv.org/abs/2411.04549)|null|
+|**2024-11-07**|**Variational Low-Rank Adaptation Using IVON**|Bai Cong et.al.|[2411.04421](http://arxiv.org/abs/2411.04421)|**[link](https://github.com/team-approx-bayes/ivon-lora)**|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
 |**2024-11-06**|**Beemo: Benchmark of Expert-edited Machine-generated Outputs**|Ekaterina Artemova et.al.|[2411.04032](http://arxiv.org/abs/2411.04032)|null|
@@ -920,6 +938,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
+|**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
+|**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
+|**2024-11-07**|**Robust multimode interference and conversion in topological unidirectional surface magnetoplasmons**|Chao Liu et.al.|[2411.04698](http://arxiv.org/abs/2411.04698)|null|
+|**2024-11-07**|**Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion**|Yiming Sun et.al.|[2411.04697](http://arxiv.org/abs/2411.04697)|**[link](https://github.com/sunym2020/ba-fusion)**|
+|**2024-11-07**|**Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models**|Taylor Arnold et.al.|[2411.04663](http://arxiv.org/abs/2411.04663)|null|
 |**2024-11-06**|**Multi-Scale and Multimodal Species Distribution Modeling**|Nina van Tiel et.al.|[2411.04016](http://arxiv.org/abs/2411.04016)|null|
 |**2024-11-06**|**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models**|Ashutosh Srivastava et.al.|[2411.03982](http://arxiv.org/abs/2411.03982)|null|
 |**2024-11-06**|**Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models**|Minh Duc Bui et.al.|[2411.03888](http://arxiv.org/abs/2411.03888)|**[link](https://github.com/minhducbui/multi3hate)**|
