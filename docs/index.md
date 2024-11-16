@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -18,7 +18,7 @@ layout: default
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-13**|**Machine Unlearning on Pre-trained Models by Residual Feature Alignment Using LoRA**|Laiqiao Qin et.al.|[2411.08443](http://arxiv.org/abs/2411.08443)|null|
 |**2024-11-11**|**LoRA-BERT: a Natural Language Processing Model for Robust and Accurate Prediction of long non-coding RNAs**|Nicholas Jeon et.al.|[2411.08073](http://arxiv.org/abs/2411.08073)|null|
-|**2024-11-12**|**FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training**|Philip Zmushko et.al.|[2411.07837](http://arxiv.org/abs/2411.07837)|null|
+|**2024-11-12**|**FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training**|Philip Zmushko et.al.|[2411.07837](http://arxiv.org/abs/2411.07837)|**[link](https://github.com/fzmushko/frugal)**|
 |**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826](http://arxiv.org/abs/2411.07826)|null|
 |**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
@@ -744,7 +744,7 @@ layout: default
 |**2024-11-13**|**Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning**|Sanggeon Yun et.al.|[2411.09072](http://arxiv.org/abs/2411.09072)|null|
 |**2024-11-13**|**Sparse Upcycling: Inference Inefficient Finetuning**|Sasha Doubov et.al.|[2411.08968](http://arxiv.org/abs/2411.08968)|null|
 |**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826](http://arxiv.org/abs/2411.07826)|null|
-|**2024-11-12**|**PatchCTG: Patch Cardiotocography Transformer for Antepartum Fetal Health Monitoring**|M. Jaleed Khan et.al.|[2411.07796](http://arxiv.org/abs/2411.07796)|**[link](https://github.com/jaleedkhan/patchctg)**|
+|**2024-11-12**|**PatchCTG: Patch Cardiotocography Transformer for Antepartum Fetal Health Monitoring**|M. Jaleed Khan et.al.|[2411.07796](http://arxiv.org/abs/2411.07796)|null|
 |**2024-11-12**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
 |**2024-11-12**|**MureObjectStitch: Multi-reference Image Composition**|Jiaxuan Chen et.al.|[2411.07462](http://arxiv.org/abs/2411.07462)|**[link](https://github.com/bcmi/mureobjectstitch-image-composition)**|
 |**2024-11-11**|**The Surprising Effectiveness of Test-Time Training for Abstract Reasoning**|Ekin Akyürek et.al.|[2411.07279](http://arxiv.org/abs/2411.07279)|**[link](https://github.com/ekinakyurek/marc)**|
