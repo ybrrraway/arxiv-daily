@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning**|Yushen Zuo et.al.|[2411.10130](http://arxiv.org/abs/2411.10130)|null|
+|**2024-11-15**|**LoRA-LiteE: A Computationally Efficient Framework for Chatbot Preference-Tuning**|Yahe Yang et.al.|[2411.09947](http://arxiv.org/abs/2411.09947)|null|
 |**2024-11-12**|**Structured Pattern Expansion with Diffusion Models**|Marzia Riso et.al.|[2411.08930](http://arxiv.org/abs/2411.08930)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-13**|**Machine Unlearning on Pre-trained Models by Residual Feature Alignment Using LoRA**|Laiqiao Qin et.al.|[2411.08443](http://arxiv.org/abs/2411.08443)|null|
@@ -236,6 +238,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations**|Jianfeng Chi et.al.|[2411.10414](http://arxiv.org/abs/2411.10414)|null|
+|**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411](http://arxiv.org/abs/2411.10411)|null|
+|**2024-11-15**|**On the Foundation Model for Cardiac MRI Reconstruction**|Chi Zhang et.al.|[2411.10403](http://arxiv.org/abs/2411.10403)|null|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371](http://arxiv.org/abs/2411.10371)|null|
+|**2024-11-15**|**Bias Unveiled: Investigating Social Bias in LLM-Generated Code**|Lin Ling et.al.|[2411.10351](http://arxiv.org/abs/2411.10351)|null|
+|**2024-11-15**|**Number it: Temporal Grounding Videos like Flipping Manga**|Yongliang Wu et.al.|[2411.10332](http://arxiv.org/abs/2411.10332)|**[link](https://github.com/yongliang-wu/numpro)**|
+|**2024-11-15**|**Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding**|Huming Qiu et.al.|[2411.10329](http://arxiv.org/abs/2411.10329)|null|
+|**2024-11-15**|**Measuring Non-Adversarial Reproduction of Training Data in Large Language Models**|Michael Aerni et.al.|[2411.10242](http://arxiv.org/abs/2411.10242)|null|
+|**2024-11-15**|**ColorEdit: Training-free Image-Guided Color editing with diffusion model**|Xingxi Yin et.al.|[2411.10232](http://arxiv.org/abs/2411.10232)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689](http://arxiv.org/abs/2411.09689)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
@@ -751,6 +763,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Building 6G Radio Foundation Models with Transformer Architectures**|Ahmed Aboulfotouh et.al.|[2411.09996](http://arxiv.org/abs/2411.09996)|null|
+|**2024-11-15**|**LoRA-LiteE: A Computationally Efficient Framework for Chatbot Preference-Tuning**|Yahe Yang et.al.|[2411.09947](http://arxiv.org/abs/2411.09947)|null|
 |**2024-11-13**|**Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning**|Sanggeon Yun et.al.|[2411.09072](http://arxiv.org/abs/2411.09072)|null|
 |**2024-11-13**|**Sparse Upcycling: Inference Inefficient Finetuning**|Sasha Doubov et.al.|[2411.08968](http://arxiv.org/abs/2411.08968)|null|
 |**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826](http://arxiv.org/abs/2411.07826)|null|
@@ -1032,6 +1046,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**|Yuhan Fu et.al.|[2411.10436](http://arxiv.org/abs/2411.10436)|null|
+|**2024-11-15**|**Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations**|Jianfeng Chi et.al.|[2411.10414](http://arxiv.org/abs/2411.10414)|null|
+|**2024-11-15**|**Weakly-Supervised Multimodal Learning on MIMIC-CXR**|Andrea Agostini et.al.|[2411.10356](http://arxiv.org/abs/2411.10356)|null|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255](http://arxiv.org/abs/2411.10255)|null|
+|**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
+|**2024-11-15**|**Generative AI in Multimodal User Interfaces: Trends, Challenges, and Cross-Platform Adaptability**|J. Bieniek et.al.|[2411.10234](http://arxiv.org/abs/2411.10234)|null|
+|**2024-11-15**|**Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging**|Muhammad Usman et.al.|[2411.10100](http://arxiv.org/abs/2411.10100)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu et.al.|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
 |**2024-11-14**|**SimTube: Generating Simulated Video Comments through Multimodal AI and User Personas**|Yu-Kai Hung et.al.|[2411.09577](http://arxiv.org/abs/2411.09577)|null|
