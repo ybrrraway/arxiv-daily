@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-16**|**LoRA Unlearns More and Retains More (Student Abstract)**|Atharv Mittal et.al.|[2411.11907](http://arxiv.org/abs/2411.11907)|**[link](https://github.com/vlgiitr/lora-unlearn)**|
 |**2024-11-18**|**SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**|Shuo Zhang et.al.|[2411.11530](http://arxiv.org/abs/2411.11530)|null|
 |**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
 |**2024-11-15**|**AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment**|Yonggan Fu et.al.|[2411.10606](http://arxiv.org/abs/2411.10606)|null|
@@ -241,6 +242,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|null|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
+|**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530](http://arxiv.org/abs/2411.12530)|**[link](https://github.com/hey-it-s-me/corple)**|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
+|**2024-11-19**|**Evaluating the Prompt Steerability of Large Language Models**|Erik Miehling et.al.|[2411.12405](http://arxiv.org/abs/2411.12405)|**[link](https://github.com/ibm/prompt-steering)**|
+|**2024-11-19**|**DGSNA: prompt-based Dynamic Generative Scene-based Noise Addition method**|Zihao Chen et.al.|[2411.12363](http://arxiv.org/abs/2411.12363)|null|
+|**2024-11-19**|**A Layered Architecture for Developing and Enhancing Capabilities in Large Language Model-based Software Systems**|Dawen Zhang et.al.|[2411.12357](http://arxiv.org/abs/2411.12357)|null|
+|**2024-11-19**|**HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation**|Ziyang Zong et.al.|[2411.12279](http://arxiv.org/abs/2411.12279)|null|
+|**2024-11-19**|**Performance of Large Language Models in Technical MRI Question Answering: A Comparative Study**|Alan B McMillan et.al.|[2411.12238](http://arxiv.org/abs/2411.12238)|null|
 |**2024-11-18**|**Absorbing state dynamics of stochastic gradient descent**|Guanming Zhang et.al.|[2411.11834](http://arxiv.org/abs/2411.11834)|null|
 |**2024-11-18**|**Novel Application of Neutrinos to Evaluate U.S. Nuclear Weapons Performance**|J. R. Distel et.al.|[2411.11804](http://arxiv.org/abs/2411.11804)|null|
 |**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
@@ -776,8 +787,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
+|**2024-11-19**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
+|**2024-11-17**|**F $^3$ OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**|Pramit Saha et.al.|[2411.11912](http://arxiv.org/abs/2411.11912)|null|
 |**2024-11-18**|**SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**|Shuo Zhang et.al.|[2411.11530](http://arxiv.org/abs/2411.11530)|null|
-|**2024-11-18**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
 |**2024-11-16**|**Large Vision-Language Models for Remote Sensing Visual Question Answering**|Surasakdi Siripong et.al.|[2411.10857](http://arxiv.org/abs/2411.10857)|null|
 |**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/abs/2411.10800)|null|
 |**2024-11-16**|**Brain-to-Text Decoding with Context-Aware Neural Representations and Large Language Models**|Jingyuan Li et.al.|[2411.10657](http://arxiv.org/abs/2411.10657)|null|
@@ -1064,6 +1078,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
+|**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671](http://arxiv.org/abs/2411.12671)|null|
+|**2024-11-19**|**Identifying patterns of proprioception and target matching acuity in healthy humans**|Jacob Carducci et.al.|[2411.12664](http://arxiv.org/abs/2411.12664)|null|
+|**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615](http://arxiv.org/abs/2411.12615)|null|
+|**2024-11-19**|**AI Flow at the Network Edge**|Jiawei Shao et.al.|[2411.12469](http://arxiv.org/abs/2411.12469)|null|
+|**2024-11-19**|**Generative Timelines for Instructed Visual Assembly**|Alejandro Pardo et.al.|[2411.12293](http://arxiv.org/abs/2411.12293)|null|
+|**2024-11-19**|**CUE-M: Contextual Understanding and Enhanced Search with Multimodal Large Language Model**|Dongyoung Go et.al.|[2411.12287](http://arxiv.org/abs/2411.12287)|null|
+|**2024-11-19**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
+|**2024-11-19**|**A Survey of Medical Vision-and-Language Applications and Their Techniques**|Qi Chen et.al.|[2411.12195](http://arxiv.org/abs/2411.12195)|null|
+|**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799](http://arxiv.org/abs/2411.11799)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**Parallelly Tempered Generative Adversarial Networks**|Jinwon Sohn et.al.|[2411.11786](http://arxiv.org/abs/2411.11786)|null|
 |**2024-11-18**|**AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping**|Nicholas Chow et.al.|[2411.11768](http://arxiv.org/abs/2411.11768)|null|
