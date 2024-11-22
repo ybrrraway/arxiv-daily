@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model**|Ege Kesim et.al.|[2411.14064](http://arxiv.org/abs/2411.14064)|null|
+|**2024-11-21**|**Dressing the Imagination: A Dataset for AI-Powered Translation of Text into Fashion Outfits and A Novel KAN Adapter for Enhanced Feature Adaptation**|Gayatri Deshmukh et.al.|[2411.13901](http://arxiv.org/abs/2411.13901)|null|
+|**2024-11-21**|**AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning**|Changhai Zhou et.al.|[2411.13814](http://arxiv.org/abs/2411.13814)|null|
 |**2024-11-19**|**Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning**|Pengkun Jiao et.al.|[2411.12787](http://arxiv.org/abs/2411.12787)|null|
 |**2024-11-16**|**LoRA Unlearns More and Retains More (Student Abstract)**|Atharv Mittal et.al.|[2411.11907](http://arxiv.org/abs/2411.11907)|**[link](https://github.com/vlgiitr/lora-unlearn)**|
 |**2024-11-18**|**SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**|Shuo Zhang et.al.|[2411.11530](http://arxiv.org/abs/2411.11530)|null|
@@ -243,6 +246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
+|**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
+|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|null|
+|**2024-11-21**|**UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages**|Bethel Melesse Tessema et.al.|[2411.14343](http://arxiv.org/abs/2411.14343)|**[link](https://github.com/bethelmelesse/unifiedcrawl)**|
+|**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
+|**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283](http://arxiv.org/abs/2411.14283)|null|
+|**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
+|**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|null|
+|**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
 |**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
@@ -798,6 +811,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
+|**2024-11-21**|**Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models**|Javier Ferrando et.al.|[2411.14257](http://arxiv.org/abs/2411.14257)|null|
+|**2024-11-21**|**Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model**|Ege Kesim et.al.|[2411.14064](http://arxiv.org/abs/2411.14064)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|null|
 |**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
 |**2024-11-18**|**CROW: Eliminating Backdoors from Large Language Models via Internal Consistency Regularization**|Nay Myat Min et.al.|[2411.12768](http://arxiv.org/abs/2411.12768)|null|
 |**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
@@ -1091,6 +1108,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
+|**2024-11-21**|**Quantum illumination advantage in quantum Doppler radar**|Rongyu Wei et.al.|[2411.14414](http://arxiv.org/abs/2411.14414)|null|
+|**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407](http://arxiv.org/abs/2411.14407)|null|
+|**2024-11-21**|**Multimodal Autoregressive Pre-training of Large Vision Encoders**|Enrico Fini et.al.|[2411.14402](http://arxiv.org/abs/2411.14402)|**[link](https://github.com/apple/ml-aim)**|
+|**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
+|**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
+|**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256](http://arxiv.org/abs/2411.14256)|null|
+|**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
+|**2024-11-21**|**Spiking neural networks: Towards bio-inspired multimodal perception in robotics**|Katerina Maria Oikonomou et.al.|[2411.14147](http://arxiv.org/abs/2411.14147)|null|
 |**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
 |**2024-11-20**|**VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation**|Ziyang Luo et.al.|[2411.13281](http://arxiv.org/abs/2411.13281)|null|
 |**2024-11-20**|**Transforming the Hybrid Cloud for Emerging AI Workloads**|Deming Chen et.al.|[2411.13239](http://arxiv.org/abs/2411.13239)|null|
