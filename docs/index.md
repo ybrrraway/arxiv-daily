@@ -14,9 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453](http://arxiv.org/abs/2411.17453)|null|
+|**2024-11-26**|**CLOVER: Constrained Learning with Orthonormal Vectors for Eliminating Redundancy**|Fanxu Meng et.al.|[2411.17426](http://arxiv.org/abs/2411.17426)|null|
+|**2024-11-26**|**ThreatModeling-LLM: Automating Threat Modeling using Large Language Models for Banking System**|Shuiqiao Yang et.al.|[2411.17058](http://arxiv.org/abs/2411.17058)|null|
+|**2024-11-26**|**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation**|Hengjia Li et.al.|[2411.17048](http://arxiv.org/abs/2411.17048)|null|
+|**2024-11-25**|**RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks**|Nazia Tasnim et.al.|[2411.16870](http://arxiv.org/abs/2411.16870)|null|
+|**2024-11-25**|**Parameter Efficient Instruction Tuning: An Empirical Study**|Pengfei He et.al.|[2411.16775](http://arxiv.org/abs/2411.16775)|null|
+|**2024-11-23**|**LoBAM: LoRA-Based Backdoor Attack on Model Merging**|Ming Yin et.al.|[2411.16746](http://arxiv.org/abs/2411.16746)|null|
 |**2024-11-24**|**Modality Alignment Meets Federated Broadcasting**|Yuting Ma et.al.|[2411.15837](http://arxiv.org/abs/2411.15837)|null|
 |**2024-11-24**|**LoRA-Mini : Adaptation Matrices Decomposition and Selective Training**|Ayush Singh et.al.|[2411.15804](http://arxiv.org/abs/2411.15804)|null|
-|**2024-11-23**|**Reassessing Layer Pruning in LLMs: New Insights and Methods**|Yao Lu et.al.|[2411.15558](http://arxiv.org/abs/2411.15558)|null|
+|**2024-11-23**|**Reassessing Layer Pruning in LLMs: New Insights and Methods**|Yao Lu et.al.|[2411.15558](http://arxiv.org/abs/2411.15558)|**[link](https://github.com/yaolu-zjut/Navigation-LLM-layer-pruning)**|
 |**2024-11-23**|**Gradient dynamics for low-rank fine-tuning beyond kernels**|Arif Kerem Dayi et.al.|[2411.15385](http://arxiv.org/abs/2411.15385)|null|
 |**2024-11-22**|**ElastiFormer: Learned Redundancy Reduction in Transformer via Self-Distillation**|Junzhang Liu et.al.|[2411.15281](http://arxiv.org/abs/2411.15281)|null|
 |**2024-11-21**|**IterIS: Iterative Inference-Solving Alignment for LoRA Merging**|Hongxu Chen et.al.|[2411.15231](http://arxiv.org/abs/2411.15231)|null|
@@ -248,6 +255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698](http://arxiv.org/abs/2411.17698)|null|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
+|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674](http://arxiv.org/abs/2411.17674)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673](http://arxiv.org/abs/2411.17673)|null|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
+|**2024-11-26**|**Metaverse Innovation Canvas: A Tool for Extended Reality Product/Service Development**|Amir Reza Asadi et.al.|[2411.17541](http://arxiv.org/abs/2411.17541)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**One Mind, Many Tongues: A Deep Dive into Language-Agnostic Knowledge Neurons in Large Language Models**|Pengfei Cao et.al.|[2411.17401](http://arxiv.org/abs/2411.17401)|null|
+|**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363](http://arxiv.org/abs/2411.17363)|null|
 |**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
 |**2024-11-25**|**Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric**|Zhichao Zhang et.al.|[2411.16619](http://arxiv.org/abs/2411.16619)|null|
 |**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
@@ -831,6 +848,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440](http://arxiv.org/abs/2411.17440)|null|
+|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
+|**2024-11-25**|**RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks**|Nazia Tasnim et.al.|[2411.16870](http://arxiv.org/abs/2411.16870)|null|
+|**2024-11-25**|**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**|Yongwei Chen et.al.|[2411.16856](http://arxiv.org/abs/2411.16856)|null|
+|**2024-11-25**|**Parameter Efficient Instruction Tuning: An Empirical Study**|Pengfei He et.al.|[2411.16775](http://arxiv.org/abs/2411.16775)|null|
+|**2024-11-24**|**LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions**|Faridoun Mehri et.al.|[2411.16760](http://arxiv.org/abs/2411.16760)|**[link](https://github.com/nightmachinery/libragrad)**|
 |**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
 |**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273](http://arxiv.org/abs/2411.16273)|null|
 |**2024-11-25**|**High-Resolution Be Aware! Improving the Self-Supervised Real-World Super-Resolution**|Yuehan Zhang et.al.|[2411.16175](http://arxiv.org/abs/2411.16175)|null|
@@ -1134,6 +1157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698](http://arxiv.org/abs/2411.17698)|null|
+|**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673](http://arxiv.org/abs/2411.17673)|null|
+|**2024-11-26**|**Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions**|Curtis McDonald et.al.|[2411.17667](http://arxiv.org/abs/2411.17667)|null|
+|**2024-11-26**|**How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations**|Hyunji Lee et.al.|[2411.17666](http://arxiv.org/abs/2411.17666)|null|
+|**2024-11-26**|**What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics**|Jordan J. Bird et.al.|[2411.17593](http://arxiv.org/abs/2411.17593)|null|
+|**2024-11-26**|**Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey**|Jiayi Kuang et.al.|[2411.17558](http://arxiv.org/abs/2411.17558)|null|
+|**2024-11-26**|**Multiscale spatiotemporal heterogeneity analysis of bike-sharing system's self-loop phenomenon: Evidence from Shanghai**|Yichen Wang et.al.|[2411.17555](http://arxiv.org/abs/2411.17555)|null|
 |**2024-11-25**|**Protomon: A Multimode Qubit in the Fluxonium Molecule**|Shashwat Kumar et.al.|[2411.16648](http://arxiv.org/abs/2411.16648)|null|
 |**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
 |**2024-11-25**|**All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages**|Ashmal Vayani et.al.|[2411.16508](http://arxiv.org/abs/2411.16508)|null|
