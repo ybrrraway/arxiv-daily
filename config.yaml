@@ -22,11 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-  'LoRA':
-    filters: ['LoRA']
-  'prompt':
-    filters: ['prompt']
-  'finetune':
-    filters: ['finetune']
+  'sparse':
+    filters: ['sparse']
+  'kv cache':
+    filters: ['kv cache']
   'multimodal':
     filters: ['multimodal']
