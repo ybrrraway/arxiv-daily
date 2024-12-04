@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Medical Multimodal Foundation Models in Clinical Diagnosis and Treatment: Applications, Challenges, and Future Directions**|Kai Sun et.al.|[2412.02621](http://arxiv.org/abs/2412.02621)|null|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**MedTet: An Online Motion Model for 4D Heart Reconstruction**|Yihong Chen et.al.|[2412.02589](http://arxiv.org/abs/2412.02589)|null|
+|**2024-12-03**|**Copy-Move Forgery Detection and Question Answering for Remote Sensing Image**|Ze Zhang et.al.|[2412.02575](http://arxiv.org/abs/2412.02575)|**[link](https://github.com/shenyedepisa/rscmqa)**|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
+|**2024-12-03**|**The Multimodal Universe: Enabling Large-Scale Machine Learning with 100TB of Astronomical Scientific Data**|The Multimodal Universe Collaboration et.al.|[2412.02527](http://arxiv.org/abs/2412.02527)|null|
+|**2024-12-03**|**ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?**|Leixin Zhang et.al.|[2412.02368](http://arxiv.org/abs/2412.02368)|null|
+|**2024-12-03**|**Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction**|Fouad Trad et.al.|[2412.02301](http://arxiv.org/abs/2412.02301)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
 |**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930](http://arxiv.org/abs/2411.19930)|null|
@@ -1750,6 +1760,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Interpretable Generalized Additive Models for Datasets with Missing Values**|Hayden McTavish et.al.|[2412.02646](http://arxiv.org/abs/2412.02646)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**MedTet: An Online Motion Model for 4D Heart Reconstruction**|Yihong Chen et.al.|[2412.02589](http://arxiv.org/abs/2412.02589)|null|
+|**2024-12-03**|**Temporal-spatial distribution of YSOs nearby Taurus region**|Jiaming Liu et.al.|[2412.02456](http://arxiv.org/abs/2412.02456)|null|
+|**2024-12-03**|**VISTA: A Panoramic View of Neural Representations**|Tom White et.al.|[2412.02412](http://arxiv.org/abs/2412.02412)|null|
+|**2024-12-03**|**Single-Shot Metric Depth from Focused Plenoptic Cameras**|Blanca Lasheras-Hernandez et.al.|[2412.02386](http://arxiv.org/abs/2412.02386)|null|
+|**2024-12-03**|**Topology Reconstruction of a Resistor Network with Limited Boundary Measurements: An Optimization Approach**|Shivanagouda Biradar et.al.|[2412.02315](http://arxiv.org/abs/2412.02315)|null|
+|**2024-12-03**|**CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems**|Yasser Khalafaoui et.al.|[2412.02295](http://arxiv.org/abs/2412.02295)|null|
 |**2024-11-29**|**Sparse Pseudospectral Shattering**|Rikhav Shah et.al.|[2411.19926](http://arxiv.org/abs/2411.19926)|null|
 |**2024-11-29**|**Sparse Partitions of Graphs with Bounded Clique Number**|António Girão et.al.|[2411.19915](http://arxiv.org/abs/2411.19915)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
@@ -1775,6 +1795,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
+|**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827](http://arxiv.org/abs/2412.01827)|null|
+|**2024-12-03**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
+|**2024-12-03**|**Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification**|Wenxuan Huang et.al.|[2412.00876](http://arxiv.org/abs/2412.00876)|**[link](https://github.com/osilly/dynamic_llava)**|
 |**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
 |**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|
