@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1786,7 +1786,7 @@ layout: default
 |**2024-12-05**|**The critical Karp--Sipser core of Erdős--Rényi random graphs**|Thomas Budzinski et.al.|[2412.04328](http://arxiv.org/abs/2412.04328)|null|
 |**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|**[link](https://github.com/shihuahuang95/deim)**|
 |**2024-12-05**|**Core-periphery detection in multilayer networks**|Kai Bergermann et.al.|[2412.04179](http://arxiv.org/abs/2412.04179)|**[link](https://github.com/compilelab/mlcp)**|
-|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177](http://arxiv.org/abs/2412.04177)|null|
+|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177](http://arxiv.org/abs/2412.04177)|**[link](https://github.com/Ludvins/FixedMeanGaussianProcesses)**|
 |**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
 |**2024-12-05**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
 |**2024-12-05**|**Pathwise optimization for bridge-type estimators and its applications**|Alessandro De Gregorio et.al.|[2412.04047](http://arxiv.org/abs/2412.04047)|null|
