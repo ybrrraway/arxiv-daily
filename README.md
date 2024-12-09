@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
+|**2024-12-06**|**Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization**|Luca Masserano et.al.|[2412.05244](http://arxiv.org/abs/2412.05244)|null|
+|**2024-12-06**|**Baseband control of single-electron silicon spin qubits in two dimensions**|Florian K. Unseld et.al.|[2412.05171](http://arxiv.org/abs/2412.05171)|null|
+|**2024-12-06**|**Learning Hidden Physics and System Parameters with Deep Operator Networks**|Vijay Kag et.al.|[2412.05133](http://arxiv.org/abs/2412.05133)|null|
+|**2024-12-06**|**Mechanical State Estimation with a Polynomial-Chaos-Based Statistical Finite Element Method**|Vahab Narouie et.al.|[2412.05037](http://arxiv.org/abs/2412.05037)|null|
+|**2024-12-06**|**Open Cluster Study Using $Gaia$ I:Membership and Cluster Properties**|Anindya Ganguly et.al.|[2412.05033](http://arxiv.org/abs/2412.05033)|null|
+|**2024-12-06**|**Prediction of Activity Coefficients by Similarity-Based Imputation using Quantum-Chemical Descriptors**|Nicolas Hayer et.al.|[2412.04993](http://arxiv.org/abs/2412.04993)|null|
+|**2024-12-06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|Avaneesh Devkota et.al.|[2412.04847](http://arxiv.org/abs/2412.04847)|null|
+|**2024-12-06**|**Asynchronous Random Access in Massive MIMO Systems Facilitated by the Delay-Angle Domain**|Ao Chen et.al.|[2412.04841](http://arxiv.org/abs/2412.04841)|null|
+|**2024-12-06**|**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern**|Hongyin Tang et.al.|[2412.04757](http://arxiv.org/abs/2412.04757)|null|
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2412.04384](http://arxiv.org/abs/2412.04384)|**[link](https://github.com/huang-yh/gaussianformer)**|
 |**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
@@ -76,6 +86,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|
 |**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|
 |**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|
 |**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|null|
@@ -101,6 +112,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Text to Blind Motion**|Hee Jae Kim et.al.|[2412.05277](http://arxiv.org/abs/2412.05277)|null|
+|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|null|
+|**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243](http://arxiv.org/abs/2412.05243)|null|
+|**2024-12-06**|**MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**|Jarvis Guo et.al.|[2412.05237](http://arxiv.org/abs/2412.05237)|null|
+|**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|null|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-06**|**Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**|Xi Zhang et.al.|[2412.04954](http://arxiv.org/abs/2412.04954)|null|
+|**2024-12-06**|**Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models**|Zehao Wang et.al.|[2412.04939](http://arxiv.org/abs/2412.04939)|null|
+|**2024-12-06**|**Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.04913](http://arxiv.org/abs/2412.04913)|null|
 |**2024-12-05**|**Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**|Yiheng Xu et.al.|[2412.04454](http://arxiv.org/abs/2412.04454)|null|
 |**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|
 |**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447](http://arxiv.org/abs/2412.04447)|null|
