@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -140,13 +140,13 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## kv cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
 |**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
@@ -178,7 +178,7 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## multimodal
 
@@ -305,7 +305,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
