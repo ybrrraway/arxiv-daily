@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations**|Yasuo Oda et.al.|[2412.16092](http://arxiv.org/abs/2412.16092)|null|
+|**2024-12-20**|**Learning sparsity-promoting regularizers for linear inverse problems**|Giovanni S. Alberti et.al.|[2412.16031](http://arxiv.org/abs/2412.16031)|null|
+|**2024-12-20**|**AI Apology: A Critical Review of Apology in AI Systems**|Hadassah Harland et.al.|[2412.15787](http://arxiv.org/abs/2412.15787)|null|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
+|**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu et.al.|[2412.15691](http://arxiv.org/abs/2412.15691)|null|
+|**2024-12-20**|**Machine Learning Techniques for Pattern Recognition in High-Dimensional Data Mining**|Pochun Li et.al.|[2412.15593](http://arxiv.org/abs/2412.15593)|null|
+|**2024-12-20**|**High-dimensional sliced inverse regression with endogeneity**|Linh H. Nghiem et.al.|[2412.15530](http://arxiv.org/abs/2412.15530)|null|
+|**2024-12-20**|**SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation**|Ke Yan et.al.|[2412.15526](http://arxiv.org/abs/2412.15526)|**[link](https://github.com/xmeimeimei/sgtc)**|
+|**2024-12-20**|**Generalized Back-Stepping Experience Replay in Sparse-Reward Environments**|Guwen Lyu et.al.|[2412.15525](http://arxiv.org/abs/2412.15525)|null|
 |**2024-12-19**|**Exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid**|Shimiao Li et.al.|[2412.15105](http://arxiv.org/abs/2412.15105)|**[link](https://github.com/bhooi/dynamic)**|
 |**2024-12-19**|**Multilinear matrix weights**|Spyridon Kakaroumpas et.al.|[2412.15026](http://arxiv.org/abs/2412.15026)|null|
 |**2024-12-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Béna Gabriel et.al.|[2412.15021](http://arxiv.org/abs/2412.15021)|null|
@@ -220,6 +230,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**A vector logic for extensional formal semantics**|Daniel Quigley et.al.|[2412.16152](http://arxiv.org/abs/2412.16152)|null|
+|**2024-12-20**|**Data-Centric Improvements for Enhancing Multi-Modal Understanding in Spoken Conversation Modeling**|Maximillian Chen et.al.|[2412.15995](http://arxiv.org/abs/2412.15995)|null|
+|**2024-12-20**|**Mamba-based Deep Learning Approaches for Sleep Staging on a Wireless Multimodal Wearable System without Electroencephalography**|Andrew H. Zhang et.al.|[2412.15947](http://arxiv.org/abs/2412.15947)|null|
+|**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
+|**2024-12-20**|**Statistical Modeling of Univariate Multimodal Data**|Paraskevi Chasani et.al.|[2412.15894](http://arxiv.org/abs/2412.15894)|null|
+|**2024-12-20**|**Measuring Cross-Modal Interactions in Multimodal Models**|Laura Wenderoth et.al.|[2412.15828](http://arxiv.org/abs/2412.15828)|**[link](https://github.com/laurawenderoth/intershap)**|
+|**2024-12-20**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery Outcomes**|Maximilian Fischer et.al.|[2412.15818](http://arxiv.org/abs/2412.15818)|null|
+|**2024-12-20**|**Evaluation of a photonic lantern spatial demultiplexer based receiver for optical communication**|Vincent Billault et.al.|[2412.15773](http://arxiv.org/abs/2412.15773)|null|
+|**2024-12-20**|**AutoLife: Automatic Life Journaling with Smartphones and LLMs**|Huatao Xu et.al.|[2412.15714](http://arxiv.org/abs/2412.15714)|null|
+|**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu et.al.|[2412.15691](http://arxiv.org/abs/2412.15691)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
