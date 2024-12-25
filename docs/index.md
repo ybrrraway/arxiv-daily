@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
+|**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
+|**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
+|**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424](http://arxiv.org/abs/2412.18424)|null|
+|**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
+|**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
+|**2024-12-24**|**The Thousand Brains Project: A New Paradigm for Sensorimotor Intelligence**|Viviane Clay et.al.|[2412.18354](http://arxiv.org/abs/2412.18354)|**[link](https://github.com/thousandbrainsproject/tbp.monty)**|
+|**2024-12-24**|**Computer Vision-Driven Gesture Recognition: Toward Natural and Intuitive Human-Computer**|Fenghua Shao et.al.|[2412.18321](http://arxiv.org/abs/2412.18321)|null|
+|**2024-12-24**|**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**|Huanjin Yao et.al.|[2412.18319](http://arxiv.org/abs/2412.18319)|**[link](https://github.com/hjyao00/mulberry)**|
+|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
 |**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
@@ -1900,6 +1910,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513](http://arxiv.org/abs/2412.18513)|null|
+|**2024-12-24**|**Koopman operator based identification of nonlinear networks**|Ramachandran Anantharaman et.al.|[2412.18492](http://arxiv.org/abs/2412.18492)|null|
+|**2024-12-24**|**Clutter Resilient Occlusion Avoidance for Tightly-Coupled Motion-Assisted Detection**|Zhixuan Xie et.al.|[2412.18453](http://arxiv.org/abs/2412.18453)|null|
+|**2024-12-24**|**GeAR: Graph-enhanced Agent for Retrieval-augmented Generation**|Zhili Shen et.al.|[2412.18431](http://arxiv.org/abs/2412.18431)|null|
+|**2024-12-24**|**A Zero-Shot Physics-Informed Dictionary Learning Approach for Sound Field Reconstruction**|Stefano Damiano et.al.|[2412.18348](http://arxiv.org/abs/2412.18348)|null|
+|**2024-12-24**|**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279](http://arxiv.org/abs/2412.18279)|null|
+|**2024-12-24**|**Conditional Deep Canonical Time Warping**|Afek Steinberg et.al.|[2412.18234](http://arxiv.org/abs/2412.18234)|null|
+|**2024-12-24**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232](http://arxiv.org/abs/2412.18232)|null|
+|**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230](http://arxiv.org/abs/2412.18230)|null|
+|**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153](http://arxiv.org/abs/2412.18153)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
 |**2024-12-23**|**Hiding, Shuffling, and Triangle Finding: Quantum Algorithms on Edge Lists**|Amin Shiraz Gilani et.al.|[2412.17786](http://arxiv.org/abs/2412.17786)|null|
 |**2024-12-23**|**Bivariate Matrix-valued Linear Regression (BMLR): Finite-sample performance under Identifiability and Sparsity Assumptions**|Nayel Bettache et.al.|[2412.17749](http://arxiv.org/abs/2412.17749)|**[link](https://github.com/nayelbettache/bmlr)**|
