@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Data-driven analysis of anomalous transport and three-wave-coupling effects in E x B plasma discharges**|Borja Bayón-Buján et.al.|[2412.19789](http://arxiv.org/abs/2412.19789)|null|
+|**2024-12-27**|**Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes**|Csaba Tóth et.al.|[2412.19727](http://arxiv.org/abs/2412.19727)|null|
+|**2024-12-27**|**Simple Barban--Davenport--Halberstam type asymptotics for general sequences**|Adam J. Harper et.al.|[2412.19644](http://arxiv.org/abs/2412.19644)|null|
+|**2024-12-27**|**An unholy trinity: TFNP, polynomial systems, and the quantum satisfiability problem**|Marco Aldi et.al.|[2412.19623](http://arxiv.org/abs/2412.19623)|null|
+|**2024-12-27**|**Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World**|Meiqi Wu et.al.|[2412.19537](http://arxiv.org/abs/2412.19537)|null|
+|**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518](http://arxiv.org/abs/2412.19518)|null|
+|**2024-12-27**|**Block cross-interactive residual smoothing for Lanczos-type solvers for linear systems with multiple right-hand sides**|Kensuke Aihara et.al.|[2412.19488](http://arxiv.org/abs/2412.19488)|null|
+|**2024-12-27**|**Exploiting Dynamic Sparsity for Near-Field Spatial Non-Stationary XL-MIMO Channel Tracking**|Wenkang Xu amd An Liu et.al.|[2412.19475](http://arxiv.org/abs/2412.19475)|null|
+|**2024-12-27**|**Robust and Sparse Portfolio Selection: Quantitative Insights and Efficient Algorithms**|J. Chen et.al.|[2412.19462](http://arxiv.org/abs/2412.19462)|null|
+|**2024-12-26**|**Central limit theorems for linear spectral statistics of inhomogeneous random graphs with graphon limits**|Xiangyi Zhu et.al.|[2412.19352](http://arxiv.org/abs/2412.19352)|null|
 |**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513](http://arxiv.org/abs/2412.18513)|null|
 |**2024-12-24**|**Koopman operator based identification of nonlinear networks**|Ramachandran Anantharaman et.al.|[2412.18492](http://arxiv.org/abs/2412.18492)|null|
 |**2024-12-24**|**Clutter Resilient Occlusion Avoidance for Tightly-Coupled Motion-Assisted Detection**|Zhixuan Xie et.al.|[2412.18453](http://arxiv.org/abs/2412.18453)|null|
@@ -206,6 +216,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|
+|**2024-12-26**|**Multi-matrix Factorization Attention**|Jingcheng Hu et.al.|[2412.19255](http://arxiv.org/abs/2412.19255)|null|
+|**2024-12-25**|**Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories**|Dulhan Jayalath et.al.|[2412.18914](http://arxiv.org/abs/2412.18914)|null|
 |**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
 |**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
 |**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363](http://arxiv.org/abs/2412.14363)|**[link](https://github.com/utkarsh-dmx/project-resq)**|
@@ -251,6 +264,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**"Did my figure do justice to the answer?" : Towards Multimodal Short Answer Grading with Feedback (MMSAF)**|Pritam Sil et.al.|[2412.19755](http://arxiv.org/abs/2412.19755)|null|
+|**2024-12-27**|**Pulsed laser as a continuous particle stream**|Ciro Micheletti Diniz et.al.|[2412.19746](http://arxiv.org/abs/2412.19746)|null|
+|**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|
+|**2024-12-27**|**A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization**|Jingchun Lian et.al.|[2412.19685](http://arxiv.org/abs/2412.19685)|null|
+|**2024-12-27**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684](http://arxiv.org/abs/2412.19684)|null|
+|**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
+|**2024-12-27**|**Multimodal Symmetric Circular Distributions Based on Nonnegative Trigonometric Sums and a Likelihood Ratio Test for Reflective Symmetry**|Juan José Fernández-Durán et.al.|[2412.19501](http://arxiv.org/abs/2412.19501)|null|
+|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|
+|**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
+|**2024-12-27**|**MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.19406](http://arxiv.org/abs/2412.19406)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
