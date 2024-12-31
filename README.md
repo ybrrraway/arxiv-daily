@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203](http://arxiv.org/abs/2412.21203)|null|
+|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
+|**2024-12-30**|**The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate**|Xi Cen et.al.|[2412.21121](http://arxiv.org/abs/2412.21121)|null|
+|**2024-12-30**|**Sparse PCA: Phase Transitions in the Critical Sparsity Regime**|Michael J. Feldman et.al.|[2412.21038](http://arxiv.org/abs/2412.21038)|null|
+|**2024-12-30**|**Sparse Array Sensor Selection in ISAC with Identifiability Guarantees**|Robin Rajamäki et.al.|[2412.21002](http://arxiv.org/abs/2412.21002)|null|
+|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
+|**2024-12-30**|**From sparse to dense functional time series: phase transitions of detecting structural breaks and beyond**|Leheng Cai et.al.|[2412.20858](http://arxiv.org/abs/2412.20858)|null|
+|**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767](http://arxiv.org/abs/2412.20767)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-29**|**Highway Dimension: a Metric View**|Andreas Emil Feldmann et.al.|[2412.20490](http://arxiv.org/abs/2412.20490)|null|
 |**2024-12-27**|**Data-driven analysis of anomalous transport and three-wave-coupling effects in E x B plasma discharges**|Borja Bayón-Buján et.al.|[2412.19789](http://arxiv.org/abs/2412.19789)|null|
 |**2024-12-27**|**Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes**|Csaba Tóth et.al.|[2412.19727](http://arxiv.org/abs/2412.19727)|null|
 |**2024-12-27**|**Simple Barban--Davenport--Halberstam type asymptotics for general sequences**|Adam J. Harper et.al.|[2412.19644](http://arxiv.org/abs/2412.19644)|null|
@@ -216,6 +226,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
+|**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
+|**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|
 |**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|
 |**2024-12-26**|**Multi-matrix Factorization Attention**|Jingcheng Hu et.al.|[2412.19255](http://arxiv.org/abs/2412.19255)|null|
 |**2024-12-25**|**Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories**|Dulhan Jayalath et.al.|[2412.18914](http://arxiv.org/abs/2412.18914)|null|
@@ -264,6 +277,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|null|
+|**2024-12-30**|**Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**|Junxiao Xue et.al.|[2412.20927](http://arxiv.org/abs/2412.20927)|null|
+|**2024-12-30**|**Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment**|Xuechen Wang et.al.|[2412.20821](http://arxiv.org/abs/2412.20821)|null|
+|**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758](http://arxiv.org/abs/2412.20758)|null|
+|**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
+|**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725](http://arxiv.org/abs/2412.20725)|null|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
+|**2024-12-30**|**Enhancing Visual Representation for Text-based Person Searching**|Wei Shen et.al.|[2412.20646](http://arxiv.org/abs/2412.20646)|**[link](https://github.com/zhangweifeng1218/vfe_tps)**|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
 |**2024-12-27**|**"Did my figure do justice to the answer?" : Towards Multimodal Short Answer Grading with Feedback (MMSAF)**|Pritam Sil et.al.|[2412.19755](http://arxiv.org/abs/2412.19755)|null|
 |**2024-12-27**|**Pulsed laser as a continuous particle stream**|Ciro Micheletti Diniz et.al.|[2412.19746](http://arxiv.org/abs/2412.19746)|null|
 |**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|
