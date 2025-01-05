@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
+|**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
+|**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245](http://arxiv.org/abs/2501.01245)|null|
+|**2025-01-02**|**Asymmetric Reinforcing against Multi-modal Representation Bias**|Xiyuan Gao et.al.|[2501.01240](http://arxiv.org/abs/2501.01240)|null|
+|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
+|**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163](http://arxiv.org/abs/2501.01163)|null|
+|**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120](http://arxiv.org/abs/2501.01120)|null|
+|**2025-01-02**|**MMVA: Multimodal Matching Based on Valence and Arousal across Images, Music, and Musical Captions**|Suhwan Choi et.al.|[2501.01094](http://arxiv.org/abs/2501.01094)|null|
+|**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|**[link](https://github.com/jpthu17/HBI)**|
 |**2024-12-30**|**Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**|Junxiao Xue et.al.|[2412.20927](http://arxiv.org/abs/2412.20927)|null|
@@ -1930,6 +1940,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**High-Order Tensor Regression in Sparse Convolutional Neural Networks**|Roberto Dias Algarte et.al.|[2501.01239](http://arxiv.org/abs/2501.01239)|null|
+|**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
+|**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
+|**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042](http://arxiv.org/abs/2501.01042)|null|
+|**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
+|**2025-01-02**|**Confined Orthogonal Matching Pursuit for Sparse Random Combinatorial Matrices**|Xinwei Zhao et.al.|[2501.01008](http://arxiv.org/abs/2501.01008)|null|
+|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
+|**2025-01-02**|**Bootstrapped Reward Shaping**|Jacob Adamczyk et.al.|[2501.00989](http://arxiv.org/abs/2501.00989)|null|
+|**2025-01-01**|**On the Implementation of a Bayesian Optimization Framework for Interconnected Systems**|Leonardo D. González et.al.|[2501.00967](http://arxiv.org/abs/2501.00967)|null|
+|**2025-01-01**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944](http://arxiv.org/abs/2501.00944)|null|
 |**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203](http://arxiv.org/abs/2412.21203)|null|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
 |**2024-12-30**|**The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate**|Xi Cen et.al.|[2412.21121](http://arxiv.org/abs/2412.21121)|null|
@@ -2135,6 +2155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
 |**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|
