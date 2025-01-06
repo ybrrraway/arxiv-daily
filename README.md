@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**|Cheng Wan et.al.|[2501.01951](http://arxiv.org/abs/2501.01951)|null|
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
+|**2025-01-03**|**Dwarf Galaxies in the TNG50 Field: connecting their Star-formation Rates with their Environments**|Joy Bhattacharyya et.al.|[2501.01946](http://arxiv.org/abs/2501.01946)|null|
+|**2025-01-03**|**On robust recovery of signals from indirect observations**|Yannis Bekri et.al.|[2501.01935](http://arxiv.org/abs/2501.01935)|null|
+|**2025-01-03**|**Compressed sensing for inverse problems II: applications to deconvolution, source recovery, and MRI**|Giovanni S. Alberti et.al.|[2501.01929](http://arxiv.org/abs/2501.01929)|null|
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
+|**2025-01-03**|**Nonparametric estimation of a factorizable density using diffusion models**|Hyeok Kyu Kwon et.al.|[2501.01783](http://arxiv.org/abs/2501.01783)|null|
+|**2025-01-03**|**Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning**|Gavin B. Rens et.al.|[2501.01727](http://arxiv.org/abs/2501.01727)|null|
+|**2025-01-03**|**Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent**|Tong Wu et.al.|[2501.01696](http://arxiv.org/abs/2501.01696)|null|
+|**2025-01-02**|**Jewel Optics I: non-redundant Fizeau beam combination without the guilt**|Adam K. Taras et.al.|[2501.01570](http://arxiv.org/abs/2501.01570)|null|
 |**2025-01-02**|**High-Order Tensor Regression in Sparse Convolutional Neural Networks**|Roberto Dias Algarte et.al.|[2501.01239](http://arxiv.org/abs/2501.01239)|null|
 |**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
@@ -236,6 +246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
@@ -288,6 +299,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|null|
+|**2025-01-03**|**Social Processes: Probabilistic Meta-learning for Adaptive Multiparty Interaction Forecasting**|Augustinas Jučas et.al.|[2501.01915](http://arxiv.org/abs/2501.01915)|null|
+|**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904](http://arxiv.org/abs/2501.01904)|null|
+|**2025-01-03**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
+|**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
+|**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
+|**2025-01-03**|**Aesthetic Matters in Music Perception for Image Stylization: A Emotion-driven Music-to-Visual Manipulation**|Junjie Xu et.al.|[2501.01700](http://arxiv.org/abs/2501.01700)|null|
+|**2025-01-03**|**HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding**|Heqing Zou et.al.|[2501.01645](http://arxiv.org/abs/2501.01645)|null|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644](http://arxiv.org/abs/2501.01644)|null|
+|**2025-01-03**|**Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**|Max T. M. Ng et.al.|[2501.01615](http://arxiv.org/abs/2501.01615)|null|
 |**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
 |**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
 |**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245](http://arxiv.org/abs/2501.01245)|null|
