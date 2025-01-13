@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186](http://arxiv.org/abs/2501.06186)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
+|**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
+|**2025-01-10**|**Multilingual Performance of a Multimodal Artificial Intelligence System on Multisubject Physics Concept Inventories**|Gerd Kortemeyer et.al.|[2501.06143](http://arxiv.org/abs/2501.06143)|null|
+|**2025-01-10**|**Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms**|R. L. Rincón Celis et.al.|[2501.06136](http://arxiv.org/abs/2501.06136)|null|
+|**2025-01-10**|**BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response**|Hongruixuan Chen et.al.|[2501.06019](http://arxiv.org/abs/2501.06019)|**[link](https://github.com/chenhongruixuan/bright)**|
+|**2025-01-10**|**Scalable Vision Language Model Training via High Quality Data Curation**|Hongyuan Dong et.al.|[2501.05952](http://arxiv.org/abs/2501.05952)|null|
+|**2025-01-10**|**A Multimodal Dataset for Enhancing Industrial Task Monitoring and Engagement Prediction**|Naval Kishore Mehta et.al.|[2501.05936](http://arxiv.org/abs/2501.05936)|**[link](https://github.com/navalkishoremehta95/miam)**|
+|**2025-01-10**|**MCMC for multi-modal distributions**|Krzysztof Łatuszyński et.al.|[2501.05908](http://arxiv.org/abs/2501.05908)|null|
+|**2025-01-10**|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu et.al.|[2501.05901](http://arxiv.org/abs/2501.05901)|**[link](https://github.com/bytedance/valley)**|
+|**2025-01-10**|**Text-to-Edit: Controllable End-to-End Video Ad Creation via Multimodal LLMs**|Dabing Cheng et.al.|[2501.05884](http://arxiv.org/abs/2501.05884)|null|
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
 |**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
 |**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398](http://arxiv.org/abs/2501.05398)|null|
@@ -1990,6 +2000,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**PySpatial: A High-Speed Whole Slide Image Pathomics Toolkit**|Yuechen Yang et.al.|[2501.06151](http://arxiv.org/abs/2501.06151)|null|
+|**2025-01-10**|**kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search**|Leonardo Delfino et.al.|[2501.06121](http://arxiv.org/abs/2501.06121)|**[link](https://github.com/tuskanny/kannolo)**|
+|**2025-01-10**|**Towards Developing Socially Compliant Automated Vehicles: State of the Art, Experts Expectations, and A Conceptual Framework**|Yongqi Dong et.al.|[2501.06089](http://arxiv.org/abs/2501.06089)|null|
+|**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038](http://arxiv.org/abs/2501.06038)|null|
+|**2025-01-10**|**Pose-independent 3D Anthropometry from Sparse Data**|David Bojanić et.al.|[2501.06014](http://arxiv.org/abs/2501.06014)|**[link](https://github.com/davidboja/pose-independent-anthropometry)**|
+|**2025-01-10**|**Designing a Robust and Cost-Efficient Electrified Bus Network with Sparse Energy Consumption Data**|Sara Momen et.al.|[2501.05939](http://arxiv.org/abs/2501.05939)|null|
+|**2025-01-10**|**Random Sparse Lifts: Construction, Analysis and Convergence of finite sparse networks**|David A. R. Robin et.al.|[2501.05930](http://arxiv.org/abs/2501.05930)|null|
+|**2025-01-10**|**Subgrid-scale modeling of turbulent shear flow with vortons**|Wandrille Ruffenach et.al.|[2501.05779](http://arxiv.org/abs/2501.05779)|null|
+|**2025-01-10**|**StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation**|Shangjin Zhai et.al.|[2501.05763](http://arxiv.org/abs/2501.05763)|null|
+|**2025-01-10**|**EXION: Exploiting Inter- and Intra-Iteration Output Sparsity for Diffusion Models**|Jaehoon Heo et.al.|[2501.05680](http://arxiv.org/abs/2501.05680)|null|
 |**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
 |**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|**[link](https://github.com/wmz-opensource/JAQ)**|
 |**2025-01-09**|**Entropy Adjusted Graphical Lasso for Sparse Precision Matrix Estimation**|Vahe Avagyan et.al.|[2501.05308](http://arxiv.org/abs/2501.05308)|null|
