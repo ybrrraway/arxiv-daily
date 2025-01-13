@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1182,7 +1182,7 @@ layout: default
 |**2025-01-09**|**Video-Conferencing Beyond Screen-Sharing and Thumbnail Webcam Videos: Gesture-Aware Augmented Reality Video for Data-Rich Remote Presentations**|Matthew Brehmer et.al.|[2501.05345](http://arxiv.org/abs/2501.05345)|null|
 |**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
 |**2025-01-09**|**GLaM-Sign: Greek Language Multimodal Lip Reading with Integrated Sign Language Accessibility**|Dimitris Kouremenos et.al.|[2501.05213](http://arxiv.org/abs/2501.05213)|null|
-|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|null|
+|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|**[link](https://github.com/xuyang-liu16/globalcom2)**|
 |**2025-01-09**|**Optimizing Multitask Industrial Processes with Predictive Action Guidance**|Naval Kishore Mehta et.al.|[2501.05108](http://arxiv.org/abs/2501.05108)|null|
 |**2025-01-09**|**Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**|Yuhong Zhang et.al.|[2501.05098](http://arxiv.org/abs/2501.05098)|null|
 |**2025-01-09**|**Comparison of Feature Learning Methods for Metadata Extraction from PDF Scholarly Documents**|Zeyd Boukhers et.al.|[2501.05082](http://arxiv.org/abs/2501.05082)|null|
@@ -1991,12 +1991,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
-|**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|null|
+|**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|**[link](https://github.com/wmz-opensource/JAQ)**|
 |**2025-01-09**|**Entropy Adjusted Graphical Lasso for Sparse Precision Matrix Estimation**|Vahe Avagyan et.al.|[2501.05308](http://arxiv.org/abs/2501.05308)|null|
 |**2025-01-09**|**Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms**|Talha Sultan et.al.|[2501.05244](http://arxiv.org/abs/2501.05244)|null|
 |**2025-01-09**|**Roots of polynomial sequences in root-sparse regions**|Christian Henriksen et.al.|[2501.05203](http://arxiv.org/abs/2501.05203)|null|
 |**2025-01-09**|**KabaddiPy: A package to enable access to Professional Kabaddi Data**|Bhaskar Lalwani et.al.|[2501.05168](http://arxiv.org/abs/2501.05168)|null|
-|**2025-01-09**|**Hierarchical Decomposed Dual-domain Deep Learning for Sparse-View CT Reconstruction**|Yoseob Han et.al.|[2501.05093](http://arxiv.org/abs/2501.05093)|null|
+|**2025-01-09**|**Hierarchical Decomposed Dual-domain Deep Learning for Sparse-View CT Reconstruction**|Yoseob Han et.al.|[2501.05093](http://arxiv.org/abs/2501.05093)|**[link](https://github.com/hanyoseob/hdd-dl-for-svct)**|
 |**2025-01-09**|**End-to-End Deep Learning for Interior Tomography with Low-Dose X-ray CT**|Yoseob Han et.al.|[2501.05085](http://arxiv.org/abs/2501.05085)|null|
 |**2025-01-09**|**Time-Variant Vector Field Visualization for Magnetic Fields of Neutron Star Simulations**|Simon J. Lieb et.al.|[2501.05084](http://arxiv.org/abs/2501.05084)|null|
 |**2025-01-09**|**Towards High-Performance Network Coding: FPGA Acceleration With Bounded-value Generators**|Jiaxin Qing et.al.|[2501.05033](http://arxiv.org/abs/2501.05033)|null|
