@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**New Fashion Products Performance Forecasting: A Survey on Evolutions, Models and Emerging Trends**|Andrea Avogaro et.al.|[2501.10324](http://arxiv.org/abs/2501.10324)|null|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
+|**2025-01-17**|**Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework**|Ali Can Karaca et.al.|[2501.10075](http://arxiv.org/abs/2501.10075)|null|
+|**2025-01-17**|**FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization**|Zhaopeng Gu et.al.|[2501.10067](http://arxiv.org/abs/2501.10067)|**[link](https://github.com/casia-iva-lab/filo)**|
+|**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
+|**2025-01-17**|**TeamVision: An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation**|Vanessa Echeverria et.al.|[2501.09930](http://arxiv.org/abs/2501.09930)|null|
+|**2025-01-17**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906](http://arxiv.org/abs/2501.09906)|null|
+|**2025-01-17**|**Exploring the Implementation of AI in Early Onset Interviews to Help Mitigate Bias**|Nishka Lal et.al.|[2501.09890](http://arxiv.org/abs/2501.09890)|null|
+|**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**U-Fair: Uncertainty-based Multimodal Multitask Learning for Fairer Depression Detection**|Jiaee Cheong et.al.|[2501.09687](http://arxiv.org/abs/2501.09687)|null|
 |**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
@@ -2040,6 +2050,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp**|Diego Polimeni et.al.|[2501.10228](http://arxiv.org/abs/2501.10228)|null|
+|**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
+|**2025-01-17**|**Regularized Sparse Optimal Discriminant Clustering**|Mayu Hiraishi et.al.|[2501.10147](http://arxiv.org/abs/2501.10147)|null|
+|**2025-01-17**|**Scaling-and-squaring method for computing the inverses of matrix $\varphi$ -functions**|Lidia Aceto et.al.|[2501.10028](http://arxiv.org/abs/2501.10028)|null|
+|**2025-01-17**|**DTN-COMET: A Comprehensive Operational Metrics Evaluation Toolkit for DTN**|Tobias Nöthlich et.al.|[2501.10006](http://arxiv.org/abs/2501.10006)|null|
+|**2025-01-17**|**The optimal relaxation parameter for the SOR method applied to the Poisson equation on rectangular grids with different types of boundary conditions**|Hossein Mahmoodi Darian et.al.|[2501.09995](http://arxiv.org/abs/2501.09995)|null|
+|**2025-01-17**|**Strong Consistency of Sparse K-means Clustering**|Jeungju Kim et.al.|[2501.09983](http://arxiv.org/abs/2501.09983)|null|
+|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|null|
+|**2025-01-17**|**Steering Large Language Models with Feature Guided Activation Additions**|Samuel Soo et.al.|[2501.09929](http://arxiv.org/abs/2501.09929)|null|
+|**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
 |**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616](http://arxiv.org/abs/2501.09616)|null|
