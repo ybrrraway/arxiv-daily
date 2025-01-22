@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**|Yilun Zhao et.al.|[2501.12380](http://arxiv.org/abs/2501.12380)|**[link](https://github.com/yale-nlp/mmvu)**|
+|**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
+|**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
+|**2025-01-21**|**InsTALL: Context-aware Instructional Task Assistance with Multi-modal Large Language Models**|Pha Nguyen et.al.|[2501.12231](http://arxiv.org/abs/2501.12231)|null|
+|**2025-01-21**|**High-dimensional multimodal uncertainty estimation by manifold alignment:Application to 3D right ventricular strain computations**|Maxime Di Folco et.al.|[2501.12178](http://arxiv.org/abs/2501.12178)|null|
+|**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
+|**2025-01-21**|**Time-resolved spectral diffusion of a multimode mechanical memory**|Niccolò Fiaschi et.al.|[2501.12056](http://arxiv.org/abs/2501.12056)|null|
+|**2025-01-21**|**Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization**|Jie Zhao et.al.|[2501.11968](http://arxiv.org/abs/2501.11968)|null|
+|**2025-01-21**|**Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations**|Jin Li et.al.|[2501.11916](http://arxiv.org/abs/2501.11916)|null|
 |**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
 |**2025-01-17**|**New Fashion Products Performance Forecasting: A Survey on Evolutions, Models and Emerging Trends**|Andrea Avogaro et.al.|[2501.10324](http://arxiv.org/abs/2501.10324)|null|
 |**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
@@ -2050,6 +2060,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335](http://arxiv.org/abs/2501.12335)|null|
+|**2025-01-21**|**On the Complexity of Telephone Broadcasting: From Cacti to Bounded Pathwidth Graphs**|Aida Aminian et.al.|[2501.12316](http://arxiv.org/abs/2501.12316)|null|
+|**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
+|**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236](http://arxiv.org/abs/2501.12236)|null|
+|**2025-01-21**|**MirrorCBO: A consensus-based optimization method in the spirit of mirror descent**|Leon Bungert et.al.|[2501.12189](http://arxiv.org/abs/2501.12189)|**[link](https://github.com/TimRoith/MirrorCBX)**|
+|**2025-01-21**|**Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction**|Jia-Hao Syu et.al.|[2501.12125](http://arxiv.org/abs/2501.12125)|null|
 |**2025-01-17**|**End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp**|Diego Polimeni et.al.|[2501.10228](http://arxiv.org/abs/2501.10228)|null|
 |**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
 |**2025-01-17**|**Regularized Sparse Optimal Discriminant Clustering**|Mayu Hiraishi et.al.|[2501.10147](http://arxiv.org/abs/2501.10147)|null|
