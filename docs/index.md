@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2080,7 +2080,7 @@ layout: default
 |**2025-01-23**|**Detecting Sparse Cointegration**|Jesus Gonzalo et.al.|[2501.13839](http://arxiv.org/abs/2501.13839)|null|
 |**2025-01-23**|**PhotoGAN: Generative Adversarial Neural Network Acceleration with Silicon Photonics**|Tharini Suresh et.al.|[2501.13828](http://arxiv.org/abs/2501.13828)|null|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
-|**2025-01-23**|**Exact Soft Analytical Side-Channel Attacks using Tractable Circuits**|Thomas Wedenig et.al.|[2501.13748](http://arxiv.org/abs/2501.13748)|null|
+|**2025-01-23**|**Exact Soft Analytical Side-Channel Attacks using Tractable Circuits**|Thomas Wedenig et.al.|[2501.13748](http://arxiv.org/abs/2501.13748)|**[link](https://github.com/wedenigt/exsasca)**|
 |**2025-01-23**|**EventVL: Understand Event Streams via Multimodal Large Language Model**|Pengteng Li et.al.|[2501.13707](http://arxiv.org/abs/2501.13707)|null|
 |**2025-01-23**|**A projection method for particle resampling**|Mark F. Adams et.al.|[2501.13681](http://arxiv.org/abs/2501.13681)|null|
 |**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
