@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Upside Down Reinforcement Learning with Policy Generators**|Jacopo Di Ventura et.al.|[2501.16288](http://arxiv.org/abs/2501.16288)|**[link](https://github.com/jacopod/udrlpg_)**|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**MetaDecorator: Generating Immersive Virtual Tours through Multimodality**|Shuang Xie et.al.|[2501.16164](http://arxiv.org/abs/2501.16164)|null|
+|**2025-01-27**|**Towards Explainable Multimodal Depression Recognition for Clinical Interviews**|Wenjie Zheng et.al.|[2501.16106](http://arxiv.org/abs/2501.16106)|null|
+|**2025-01-27**|**Intelligent Code Embedding Framework for High-Precision Ransomware Detection via Multimodal Execution Path Analysis**|Levi Gareth et.al.|[2501.15836](http://arxiv.org/abs/2501.15836)|null|
+|**2025-01-27**|**Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection?**|Zhiling Chen et.al.|[2501.15795](http://arxiv.org/abs/2501.15795)|null|
+|**2025-01-27**|**Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning**|Michael Xieyang Liu et.al.|[2501.15727](http://arxiv.org/abs/2501.15727)|null|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
 |**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728](http://arxiv.org/abs/2501.14728)|null|
 |**2025-01-24**|**Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data**|Jordi Abante et.al.|[2501.14615](http://arxiv.org/abs/2501.14615)|null|
 |**2025-01-24**|**Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research**|Hamid Sarmadi et.al.|[2501.14546](http://arxiv.org/abs/2501.14546)|null|
@@ -2085,6 +2095,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130](http://arxiv.org/abs/2501.16130)|null|
+|**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
+|**2025-01-27**|**\texttt{BrahMap}: A scalable and modular map-making framework for the CMB experiments**|Avinash Anand et.al.|[2501.16122](http://arxiv.org/abs/2501.16122)|null|
+|**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937](http://arxiv.org/abs/2501.15937)|null|
+|**2025-01-27**|**Propositional Interpretability in Artificial Intelligence**|David J. Chalmers et.al.|[2501.15740](http://arxiv.org/abs/2501.15740)|null|
+|**2025-01-26**|**Exponential Improvement on Asian Option Pricing Through Quantum Preconditioning Methods**|Gumaro Rendon et.al.|[2501.15614](http://arxiv.org/abs/2501.15614)|null|
+|**2025-01-26**|**Information Consistent Pruning: How to Efficiently Search for Sparse Networks?**|Soheil Gharatappeh et.al.|[2501.15592](http://arxiv.org/abs/2501.15592)|**[link](https://github.com/sekeh-lab/infcop)**|
+|**2025-01-26**|**UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning**|Oubo Ma et.al.|[2501.15529](http://arxiv.org/abs/2501.15529)|**[link](https://github.com/maoubo/unidoor)**|
+|**2025-01-26**|**Semi-Supervised Learning for AVO Inversion with Strong Spatial Feature Constraints**|Yingtian Liu et.al.|[2501.15473](http://arxiv.org/abs/2501.15473)|null|
+|**2025-01-26**|**SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**|Zichen Fan et.al.|[2501.15448](http://arxiv.org/abs/2501.15448)|null|
 |**2025-01-24**|**Estimation-theoretic analysis of lensless imaging**|Leyla A. Kabuli et.al.|[2501.14727](http://arxiv.org/abs/2501.14727)|null|
 |**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
 |**2025-01-24**|**Efficient Sparse Flow Decomposition Methods for RNA Multi-Assembly**|Mathieu Besançon et.al.|[2501.14662](http://arxiv.org/abs/2501.14662)|null|
@@ -2448,6 +2468,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|null|
+|**2025-01-25**|**AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization for Vision-Language Models**|Zunhai Su et.al.|[2501.15021](http://arxiv.org/abs/2501.15021)|null|
 |**2025-01-23**|**Qrazor: Reliable and effortless 4-bit llm quantization by significant data razoring**|Dongyoung Lee et.al.|[2501.13331](http://arxiv.org/abs/2501.13331)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
