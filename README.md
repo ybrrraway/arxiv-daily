@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -398,7 +398,7 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## kv cache
 
@@ -461,7 +461,7 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## multimodal
 
@@ -472,7 +472,7 @@
 |**2025-01-28**|**Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement**|Kei Katsumata et.al.|[2501.17022](http://arxiv.org/abs/2501.17022)|null|
 |**2025-01-28**|**Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework**|Longzhong Lin et.al.|[2501.17015](http://arxiv.org/abs/2501.17015)|null|
 |**2025-01-28**|**Self-modulated multimode silicon cavity optomechanics**|David Alonso-Tomás et.al.|[2501.16914](http://arxiv.org/abs/2501.16914)|null|
-|**2025-01-28**|**Ultra-high resolution multimodal MRI dense labelled holistic brain atlas**|José V. Manjón et.al.|[2501.16879](http://arxiv.org/abs/2501.16879)|null|
+|**2025-01-28**|**Ultra-high resolution multimodal MRI dense labelled holistic brain atlas**|José V. Manjón et.al.|[2501.16879](http://arxiv.org/abs/2501.16879)|**[link](https://github.com/BBillot/hypothalamus_seg)**|
 |**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
@@ -843,7 +843,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

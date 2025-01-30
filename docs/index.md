@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1181,7 +1181,7 @@ layout: default
 |**2025-01-28**|**Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement**|Kei Katsumata et.al.|[2501.17022](http://arxiv.org/abs/2501.17022)|null|
 |**2025-01-28**|**Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework**|Longzhong Lin et.al.|[2501.17015](http://arxiv.org/abs/2501.17015)|null|
 |**2025-01-28**|**Self-modulated multimode silicon cavity optomechanics**|David Alonso-Tomás et.al.|[2501.16914](http://arxiv.org/abs/2501.16914)|null|
-|**2025-01-28**|**Ultra-high resolution multimodal MRI dense labelled holistic brain atlas**|José V. Manjón et.al.|[2501.16879](http://arxiv.org/abs/2501.16879)|null|
+|**2025-01-28**|**Ultra-high resolution multimodal MRI dense labelled holistic brain atlas**|José V. Manjón et.al.|[2501.16879](http://arxiv.org/abs/2501.16879)|**[link](https://github.com/BBillot/hypothalamus_seg)**|
 |**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
