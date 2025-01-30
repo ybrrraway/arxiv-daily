@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Anti-scarring from eigenstate stacking in a chaotic spinor condensate**|Zhongling Lu et.al.|[2501.17856](http://arxiv.org/abs/2501.17856)|null|
+|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
+|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836](http://arxiv.org/abs/2501.17836)|null|
+|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822](http://arxiv.org/abs/2501.17822)|null|
+|**2025-01-29**|**SSF: Sparse Long-Range Scene Flow for Autonomous Driving**|Ajinkya Khoche et.al.|[2501.17821](http://arxiv.org/abs/2501.17821)|null|
+|**2025-01-29**|**AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**|Peter Pak et.al.|[2501.17784](http://arxiv.org/abs/2501.17784)|null|
+|**2025-01-29**|**Sparser, Better, Faster, Stronger: Efficient Automatic Differentiation for Sparse Jacobians and Hessians**|Adrian Hill et.al.|[2501.17737](http://arxiv.org/abs/2501.17737)|null|
+|**2025-01-29**|**Sparse Autoencoders Can Interpret Randomly Initialized Transformers**|Thomas Heap et.al.|[2501.17727](http://arxiv.org/abs/2501.17727)|null|
+|**2025-01-29**|**Multi-Agent Path Finding Using Conflict-Based Search and Structural-Semantic Topometric Maps**|Scott Fredriksson et.al.|[2501.17661](http://arxiv.org/abs/2501.17661)|null|
+|**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653](http://arxiv.org/abs/2501.17653)|null|
 |**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
 |**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
 |**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079](http://arxiv.org/abs/2501.17079)|null|
@@ -467,6 +477,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
+|**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785](http://arxiv.org/abs/2501.17785)|null|
+|**2025-01-29**|**Glioma Multimodal MRI Analysis System for Tumor Layered Diagnosis via Multi-task Semi-supervised Learning**|Yihao Liu et.al.|[2501.17758](http://arxiv.org/abs/2501.17758)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699](http://arxiv.org/abs/2501.17699)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
+|**2025-01-29**|**Exploring Vision Language Models for Multimodal and Multilingual Stance Detection**|Jake Vasilakes et.al.|[2501.17654](http://arxiv.org/abs/2501.17654)|null|
+|**2025-01-29**|**Reflections on "Can AI Understand Our Universe?"**|Yu Wang et.al.|[2501.17507](http://arxiv.org/abs/2501.17507)|null|
+|**2025-01-29**|**Transition from non-ergodic to ergodic dynamics in an autonomous discrete time crystal**|T. T. Sergeev et.al.|[2501.17435](http://arxiv.org/abs/2501.17435)|null|
 |**2025-01-28**|**Numerical Approximation of High-Dimensional Gibbs Distributions Using the Functional Hierarchical Tensor**|Nan Sheng et.al.|[2501.17143](http://arxiv.org/abs/2501.17143)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
 |**2025-01-28**|**Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement**|Kei Katsumata et.al.|[2501.17022](http://arxiv.org/abs/2501.17022)|null|
