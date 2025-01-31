@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
+|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/abs/2501.18533)|null|
+|**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362](http://arxiv.org/abs/2501.18362)|null|
+|**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
+|**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170](http://arxiv.org/abs/2501.18170)|null|
+|**2025-01-30**|**Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment**|Joanna Hong et.al.|[2501.18157](http://arxiv.org/abs/2501.18157)|null|
+|**2025-01-30**|**REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning**|Liangjing Shao et.al.|[2501.18124](http://arxiv.org/abs/2501.18124)|null|
+|**2025-01-30**|**LLMs can see and hear without any training**|Kumar Ashutosh et.al.|[2501.18096](http://arxiv.org/abs/2501.18096)|**[link](https://github.com/facebookresearch/mils)**|
+|**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
 |**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
@@ -2115,6 +2125,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**adabmDCA 2.0 -- a flexible but easy-to-use package for Direct Coupling Analysis**|Lorenzo Rosset et.al.|[2501.18456](http://arxiv.org/abs/2501.18456)|**[link](https://github.com/spqb/adabmDCA)**|
+|**2025-01-30**|**Univariate-Guided Sparse Regression**|Sourav Chatterjee et.al.|[2501.18360](http://arxiv.org/abs/2501.18360)|null|
+|**2025-01-30**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282](http://arxiv.org/abs/2501.18282)|null|
+|**2025-01-30**|**Enhanced State Estimation for turbulent flows combining Ensemble Data Assimilation and Machine Learning**|Miguel M. Valero et.al.|[2501.18262](http://arxiv.org/abs/2501.18262)|null|
+|**2025-01-30**|**Revisiting $Ψ$ DONet: microlocally inspired filters for incomplete-data tomographic reconstructions**|Tatiana A. Bubba et.al.|[2501.18219](http://arxiv.org/abs/2501.18219)|null|
+|**2025-01-30**|**U-aggregation: Unsupervised Aggregation of Multiple Learning Algorithms**|Rui Duan et.al.|[2501.18084](http://arxiv.org/abs/2501.18084)|null|
+|**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
+|**2025-01-29**|**Fractal algorithm for multiple lens analyses**|Fumio Abe et.al.|[2501.18032](http://arxiv.org/abs/2501.18032)|null|
+|**2025-01-29**|**A Proximal Operator for Inducing 2:4-Sparsity**|Jonas M Kübler et.al.|[2501.18015](http://arxiv.org/abs/2501.18015)|null|
+|**2025-01-29**|**Large Language Models Think Too Fast To Explore Effectively**|Lan Pan et.al.|[2501.18009](http://arxiv.org/abs/2501.18009)|null|
 |**2025-01-29**|**Anti-scarring from eigenstate stacking in a chaotic spinor condensate**|Zhongling Lu et.al.|[2501.17856](http://arxiv.org/abs/2501.17856)|null|
 |**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
 |**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836](http://arxiv.org/abs/2501.17836)|null|
