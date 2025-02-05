@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/abs/2502.02581)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558](http://arxiv.org/abs/2502.02558)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552](http://arxiv.org/abs/2502.02552)|null|
+|**2025-02-04**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496](http://arxiv.org/abs/2502.02496)|null|
+|**2025-02-04**|**$O(a)$ -improved QCD+QED Wilson Dirac operator on GPUs**|Anian Altherr et.al.|[2502.02490](http://arxiv.org/abs/2502.02490)|null|
+|**2025-02-04**|**Stable Port-Hamiltonian Neural Networks**|Fabian J. Roth et.al.|[2502.02480](http://arxiv.org/abs/2502.02480)|null|
+|**2025-02-04**|**Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation**|Abdelrahman Abdallah et.al.|[2502.02464](http://arxiv.org/abs/2502.02464)|null|
+|**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448](http://arxiv.org/abs/2502.02448)|null|
+|**2025-02-04**|**Iterative Refinement and Flexible Iteratively Reweighed Solvers for Linear Inverse Problems with Sparse Solutions**|Lucas Onisk et.al.|[2502.02303](http://arxiv.org/abs/2502.02303)|null|
+|**2025-02-04**|**Primordial Black Hole Formation via Inverted Bubble Collapse**|Kai Murai et.al.|[2502.02291](http://arxiv.org/abs/2502.02291)|null|
 |**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Top eigenvalue statistics of diluted Wishart matrices**|Barak Budnick et.al.|[2501.19280](http://arxiv.org/abs/2501.19280)|null|
 |**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
@@ -434,6 +444,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
+|**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
+|**2025-02-04**|**MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving**|Shiju Zhao et.al.|[2502.01960](http://arxiv.org/abs/2502.01960)|null|
+|**2025-02-04**|**Can LLMs Maintain Fundamental Abilities under KV Cache Compression?**|Xiang Liu et.al.|[2502.01941](http://arxiv.org/abs/2502.01941)|null|
+|**2025-02-03**|**FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation**|Dongwon Jo et.al.|[2502.01068](http://arxiv.org/abs/2502.01068)|null|
+|**2025-02-01**|**PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration**|Songhao Wu et.al.|[2502.00527](http://arxiv.org/abs/2502.00527)|null|
+|**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
+|**2025-01-31**|**Efficient Beam Search for Large Language Models Using Trie-Based Decoding**|Brian J Chan et.al.|[2502.00085](http://arxiv.org/abs/2502.00085)|null|
 |**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
 |**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|**[link](https://github.com/ZunhaiSu/RotateKV)**|
 |**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|null|
@@ -498,6 +516,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
+|**2025-02-04**|**SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency**|Qianhao Yuan et.al.|[2502.02458](http://arxiv.org/abs/2502.02458)|null|
+|**2025-02-04**|**Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment**|Yaling Shen et.al.|[2502.02438](http://arxiv.org/abs/2502.02438)|null|
+|**2025-02-04**|**LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models**|Tzu-Tao Chang et.al.|[2502.02406](http://arxiv.org/abs/2502.02406)|null|
+|**2025-02-04**|**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**|Jinyang Wu et.al.|[2502.02339](http://arxiv.org/abs/2502.02339)|null|
+|**2025-02-04**|**Efficient Domain Adaptation of Multimodal Embeddings using Constrastive Learning**|Georgios Margaritis et.al.|[2502.02048](http://arxiv.org/abs/2502.02048)|null|
+|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[2502.02025](http://arxiv.org/abs/2502.02025)|null|
+|**2025-02-04**|**Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration**|Younan Zhu et.al.|[2502.01969](http://arxiv.org/abs/2502.01969)|null|
+|**2025-02-04**|**MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving**|Shiju Zhao et.al.|[2502.01960](http://arxiv.org/abs/2502.01960)|null|
+|**2025-02-04**|**Exploring blazars through sonification. Visual and auditory insights into multifrequency variability**|Gustavo Magallanes-Guijón et.al.|[2502.01929](http://arxiv.org/abs/2502.01929)|null|
 |**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353](http://arxiv.org/abs/2501.19353)|null|
 |**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339](http://arxiv.org/abs/2501.19339)|null|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
