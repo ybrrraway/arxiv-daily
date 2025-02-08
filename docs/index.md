@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2172,7 +2172,7 @@ layout: default
 |**2025-02-06**|**Rule-Based Modeling of Low-Dimensional Data with PCA and Binary Particle Swarm Optimization (BPSO) in ANFIS**|Afnan Al-Ali et.al.|[2502.03895](http://arxiv.org/abs/2502.03895)|null|
 |**2025-02-06**|**Numerical Aspects of the Tensor Product Multilevel Method for High-dimensional, Kernel-based Reconstruction on Sparse Grids**|Markus Büttner et.al.|[2502.03881](http://arxiv.org/abs/2502.03881)|null|
 |**2025-02-06**|**Consistent model selection in a collection of stochastic block models**|Lucie Arts et.al.|[2502.03848](http://arxiv.org/abs/2502.03848)|null|
-|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772](http://arxiv.org/abs/2502.03772)|null|
+|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772](http://arxiv.org/abs/2502.03772)|**[link](https://github.com/Asunatan/HSQformer)**|
 |**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763](http://arxiv.org/abs/2502.03763)|null|
 |**2025-02-06**|**PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport**|Di Wu et.al.|[2502.03749](http://arxiv.org/abs/2502.03749)|null|
 |**2025-02-05**|**SyMANTIC: An Efficient Symbolic Regression Method for Interpretable and Parsimonious Model Discovery in Science and Beyond**|Madhav R. Muthyala et.al.|[2502.03367](http://arxiv.org/abs/2502.03367)|null|
