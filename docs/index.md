@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Multimodal Models**|Xingrui Wang et.al.|[2502.08636](http://arxiv.org/abs/2502.08636)|null|
+|**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573](http://arxiv.org/abs/2502.08573)|null|
+|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489](http://arxiv.org/abs/2502.08489)|null|
+|**2025-02-12**|**Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction**|Tianxiang Zhang et.al.|[2502.08486](http://arxiv.org/abs/2502.08486)|null|
+|**2025-02-12**|**mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data**|Haonan Chen et.al.|[2502.08468](http://arxiv.org/abs/2502.08468)|null|
+|**2025-02-12**|**Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**|Prajwal Gatti et.al.|[2502.08438](http://arxiv.org/abs/2502.08438)|null|
+|**2025-02-12**|**Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**|Jiarui Wu et.al.|[2502.08317](http://arxiv.org/abs/2502.08317)|null|
+|**2025-02-12**|**What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations**|Dongqi Liu et.al.|[2502.08279](http://arxiv.org/abs/2502.08279)|null|
+|**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[2502.08260](http://arxiv.org/abs/2502.08260)|null|
+|**2025-02-12**|**UniCoRN: Unified Commented Retrieval Network with LMMs**|Maximilian Jaritz et.al.|[2502.08254](http://arxiv.org/abs/2502.08254)|null|
 |**2025-02-11**|**Quantum learning advantage on a scalable photonic platform**|Zheng-Hao Liu et.al.|[2502.07770](http://arxiv.org/abs/2502.07770)|null|
 |**2025-02-11**|**Scaling Pre-training to One Hundred Billion Data for Vision Language Models**|Xiao Wang et.al.|[2502.07617](http://arxiv.org/abs/2502.07617)|null|
 |**2025-02-11**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al.|[2502.07601](http://arxiv.org/abs/2502.07601)|null|
@@ -2195,6 +2205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Improved Calculation of Acoustic Deformation Potentials from First Principles**|Patrick Williams et.al.|[2502.08538](http://arxiv.org/abs/2502.08538)|null|
+|**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524](http://arxiv.org/abs/2502.08524)|null|
+|**2025-02-12**|**Low rank MSO**|Mikołaj Bojańczyk et.al.|[2502.08476](http://arxiv.org/abs/2502.08476)|null|
+|**2025-02-12**|**On the random minimum edge-disjoint spanning trees problem**|Dmitry Shabanov et.al.|[2502.08462](http://arxiv.org/abs/2502.08462)|null|
+|**2025-02-12**|**Boundedness of a class of multilinear operators and their iterated commutators on Morrey-Banach function spaces**|Jiawei Tan et.al.|[2502.08456](http://arxiv.org/abs/2502.08456)|null|
+|**2025-02-12**|**Sparse Estimation of Inverse Covariance and Partial Correlation Matrices via Joint Partial Regression**|Samuel Erickson et.al.|[2502.08414](http://arxiv.org/abs/2502.08414)|null|
+|**2025-02-12**|**Assembly of FETI dual operator using CUDA**|Jakub Homola et.al.|[2502.08382](http://arxiv.org/abs/2502.08382)|null|
+|**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/abs/2502.08381)|null|
+|**2025-02-12**|**Low-temperature Sampling on Sparse Random Graphs**|Andreas Galanis et.al.|[2502.08328](http://arxiv.org/abs/2502.08328)|null|
+|**2025-02-12**|**Trend estimation for time series with polynomial-tailed noise**|Michael H. Neumann et.al.|[2502.08280](http://arxiv.org/abs/2502.08280)|null|
 |**2025-02-11**|**A Tentative Detection of a Point Source in the Disk Gap of HD 100546 with VLT/SPHERE-IRDIS Sparse Aperture Masking Interferometry**|Dori Blakely et.al.|[2502.07759](http://arxiv.org/abs/2502.07759)|null|
 |**2025-02-11**|**Geometric Interpretations of the $k$ -Nearest Neighbour Distributions**|Kwanit Gangopadhyay et.al.|[2502.07713](http://arxiv.org/abs/2502.07713)|null|
 |**2025-02-11**|**Planar Coil Optimization for the Eos Stellarator using Sparse Regression**|Ryan Wu et.al.|[2502.07702](http://arxiv.org/abs/2502.07702)|null|
@@ -2668,6 +2688,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/abs/2502.07903)|null|
+|**2025-02-11**|**TransMLA: Multi-head Latent Attention Is All You Need**|Fanxu Meng et.al.|[2502.07864](http://arxiv.org/abs/2502.07864)|null|
+|**2025-02-11**|**BalanceKV: KV Cache Compression through Discrepancy Theory**|Insu Han et.al.|[2502.07861](http://arxiv.org/abs/2502.07861)|null|
 |**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-09**|**Enabling Autoregressive Models to Fill In Masked Tokens**|Daniel Israel et.al.|[2502.06901](http://arxiv.org/abs/2502.06901)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
