@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126](http://arxiv.org/abs/2502.13126)|null|
+|**2025-02-18**|**L4P: Low-Level 4D Vision Perception Unified**|Abhishek Badki et.al.|[2502.13078](http://arxiv.org/abs/2502.13078)|null|
+|**2025-02-18**|**Finedeep: Mitigating Sparse Activation in Dense LLMs via Multi-Layer Fine-Grained Experts**|Leiyu Pan et.al.|[2502.12928](http://arxiv.org/abs/2502.12928)|null|
+|**2025-02-18**|**Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models**|Thomas Fel et.al.|[2502.12892](http://arxiv.org/abs/2502.12892)|null|
+|**2025-02-18**|**Efficient classical algorithms for linear optical circuits**|Youngrong Lim et.al.|[2502.12882](http://arxiv.org/abs/2502.12882)|null|
+|**2025-02-18**|**Learning Wall Segmentation in 3D Vessel Trees using Sparse Annotations**|Hinrich Rahlfs et.al.|[2502.12801](http://arxiv.org/abs/2502.12801)|null|
+|**2025-02-18**|**One-bit Compressed Sensing using Generative Models**|Swatantra Kafle et.al.|[2502.12762](http://arxiv.org/abs/2502.12762)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
+|**2025-02-18**|**Relaxation dynamics of a quantum spin coupled to a topological edge state**|Qiyu Liu et.al.|[2502.12715](http://arxiv.org/abs/2502.12715)|null|
+|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
 |**2025-02-17**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138](http://arxiv.org/abs/2502.12138)|null|
 |**2025-02-17**|**AdaSplash: Adaptive Sparse Flash Attention**|Nuno Gonçalves et.al.|[2502.12082](http://arxiv.org/abs/2502.12082)|null|
 |**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
@@ -534,6 +544,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/abs/2502.12665)|null|
+|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
+|**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Does RAG Really Perform Bad For Long-Context Processing?**|Kun Luo et.al.|[2502.11444](http://arxiv.org/abs/2502.11444)|null|
 |**2025-02-16**|**CacheFocus: Dynamic Cache Re-Positioning for Efficient Retrieval-Augmented Generation**|Kun-Hui Lee et.al.|[2502.11101](http://arxiv.org/abs/2502.11101)|null|
 |**2025-02-16**|**Streamlining the Collaborative Chain of Models into A Single Forward Pass in Generation-Based Tasks**|Yuanjie Lyu et.al.|[2502.11083](http://arxiv.org/abs/2502.11083)|null|
@@ -623,6 +636,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
+|**2025-02-18**|**On Preserving or Reversing Higher-Order Unimodality and Convexity by Sign-Regular Kernels**|Zakaria Derbazi et.al.|[2502.13136](http://arxiv.org/abs/2502.13136)|null|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|null|
+|**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
+|**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|null|
+|**2025-02-18**|**SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models**|Xianfu Cheng et.al.|[2502.13059](http://arxiv.org/abs/2502.13059)|null|
+|**2025-02-18**|**AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks**|Yurun Chen et.al.|[2502.13053](http://arxiv.org/abs/2502.13053)|null|
+|**2025-02-18**|**An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation**|Mohammad Feli et.al.|[2502.12836](http://arxiv.org/abs/2502.12836)|null|
+|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
 |**2025-02-17**|**Correlative X-ray and electron tomography for scale-bridging, quantitative analysis of complex, hierarchical particle systems**|Alexander Götz et.al.|[2502.12140](http://arxiv.org/abs/2502.12140)|null|
 |**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
