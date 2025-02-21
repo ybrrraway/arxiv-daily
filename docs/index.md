@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2259,7 +2259,7 @@ layout: default
 |**2025-02-19**|**Toeplitz-Hermitian ADMM-Net for DoA Estimation**|Youval Klioui et.al.|[2502.13896](http://arxiv.org/abs/2502.13896)|null|
 |**2025-02-19**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874](http://arxiv.org/abs/2502.13874)|null|
 |**2025-02-19**|**NVR: Vector Runahead on NPUs for Sparse Memory Access**|Hui Wang et.al.|[2502.13873](http://arxiv.org/abs/2502.13873)|null|
-|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|
 |**2025-02-19**|**A Query-Driven Approach to Space-Efficient Range Searching**|Dimitris Fotakis et.al.|[2502.13653](http://arxiv.org/abs/2502.13653)|null|
 |**2025-02-19**|**Integrating Inverse and Forward Modeling for Sparse Temporal Data from Sensor Networks**|Julian Vexler et.al.|[2502.13638](http://arxiv.org/abs/2502.13638)|null|
 |**2025-02-19**|**Semi-Streaming Algorithms for Hypergraph Matching**|Henrik Reinstädtler et.al.|[2502.13636](http://arxiv.org/abs/2502.13636)|null|
