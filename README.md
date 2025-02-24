@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**A Note on Weak Saturation Number of Trees**|Wenchong Chen et.al.|[2502.15626](http://arxiv.org/abs/2502.15626)|null|
+|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584](http://arxiv.org/abs/2502.15584)|null|
+|**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583](http://arxiv.org/abs/2502.15583)|null|
+|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576](http://arxiv.org/abs/2502.15576)|null|
+|**2025-02-21**|**DReSD: Dense Retrieval for Speculative Decoding**|Milan Gritta et.al.|[2502.15572](http://arxiv.org/abs/2502.15572)|null|
+|**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529](http://arxiv.org/abs/2502.15529)|null|
+|**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526](http://arxiv.org/abs/2502.15526)|null|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484](http://arxiv.org/abs/2502.15484)|null|
+|**2025-02-21**|**Learning Long-Horizon Robot Manipulation Skills via Privileged Action**|Xiaofeng Mao et.al.|[2502.15442](http://arxiv.org/abs/2502.15442)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
 |**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816](http://arxiv.org/abs/2502.14816)|null|
 |**2025-02-20**|**Every Graph is Essential to Large Treewidth**|Bogdan Alecu et.al.|[2502.14775](http://arxiv.org/abs/2502.14775)|null|
@@ -564,8 +574,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
-|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
+|**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
+|**2025-02-21**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
+|**2025-02-20**|**More for Keys, Less for Values: Adaptive KV Cache Quantization**|Mohsen Hariri et.al.|[2502.15075](http://arxiv.org/abs/2502.15075)|null|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
+|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
 |**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/abs/2502.14504)|null|
 |**2025-02-20**|**ParallelComp: Parallel Long-Context Compressor for Length Extrapolation**|Jing Xiong et.al.|[2502.14317](http://arxiv.org/abs/2502.14317)|null|
 |**2025-02-20**|**EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts**|Subhajit Chaudhury et.al.|[2502.14280](http://arxiv.org/abs/2502.14280)|null|
@@ -666,6 +679,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
+|**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481](http://arxiv.org/abs/2502.15481)|null|
+|**2025-02-21**|**Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs**|Gengyuan Zhang et.al.|[2502.15457](http://arxiv.org/abs/2502.15457)|null|
+|**2025-02-21**|**Evaluating Multimodal Generative AI with Korean Educational Standards**|Sanghee Park et.al.|[2502.15422](http://arxiv.org/abs/2502.15422)|null|
+|**2025-02-21**|**LongCaptioning: Unlocking the Power of Long Caption Generation in Large Multimodal Models**|Hongchen Wei et.al.|[2502.15393](http://arxiv.org/abs/2502.15393)|null|
+|**2025-02-21**|**Chitrarth: Bridging Vision and Language for a Billion People**|Shaharukh Khan et.al.|[2502.15392](http://arxiv.org/abs/2502.15392)|null|
+|**2025-02-21**|**MOVE: A Mixture-of-Vision-Encoders Approach for Domain-Focused Vision-Language Processing**|Matvey Skripkin et.al.|[2502.15381](http://arxiv.org/abs/2502.15381)|null|
+|**2025-02-21**|**M2LADS Demo: A System for Generating Multimodal Learning Analytics Dashboards**|Alvaro Becerra et.al.|[2502.15363](http://arxiv.org/abs/2502.15363)|null|
+|**2025-02-21**|**Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions**|Shoubin Chen et.al.|[2502.15336](http://arxiv.org/abs/2502.15336)|null|
+|**2025-02-21**|**Research advances on fish feeding behavior recognition and intensity quantification methods in aquaculture**|Shulong Zhang et.al.|[2502.15311](http://arxiv.org/abs/2502.15311)|null|
 |**2025-02-20**|**Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical and Cultural Artifacts**|Sara Ghaboura et.al.|[2502.14865](http://arxiv.org/abs/2502.14865)|null|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
 |**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
