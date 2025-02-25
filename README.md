@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**On the Dichotomy Between Privacy and Traceability in $\ell_p$ Stochastic Convex Optimization**|Sasha Voitovych et.al.|[2502.17384](http://arxiv.org/abs/2502.17384)|null|
+|**2025-02-24**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation**|Qiuming Zhao et.al.|[2502.17380](http://arxiv.org/abs/2502.17380)|null|
+|**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
+|**2025-02-24**|**Tokenized SAEs: Disentangling SAE Reconstructions**|Thomas Dooms et.al.|[2502.17332](http://arxiv.org/abs/2502.17332)|null|
+|**2025-02-24**|**Statistical machine learning tools for probabilistic closures of turbulence models**|Julia Domingues Lemos et.al.|[2502.17316](http://arxiv.org/abs/2502.17316)|null|
+|**2025-02-24**|**The multilinear fractional sparse operator theory II: refining weighted estimates via multilinear stochastic fractional sparse forms**|Xi Cen et.al.|[2502.17300](http://arxiv.org/abs/2502.17300)|null|
+|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
+|**2025-02-24**|**Evaluating Expert Contributions in a MoE LLM for Quiz-Based Tasks**|Andrei Chernov et.al.|[2502.17187](http://arxiv.org/abs/2502.17187)|null|
+|**2025-02-24**|**The feasibility of multi-graph alignment: a Bayesian approach**|Louis Vassaux et.al.|[2502.17142](http://arxiv.org/abs/2502.17142)|null|
+|**2025-02-24**|**Sparse Hyperparametric Itakura-Saito NMF via Bi-Level Optimization**|Laura Selicatoa et.al.|[2502.17123](http://arxiv.org/abs/2502.17123)|null|
 |**2025-02-21**|**A Note on Weak Saturation Number of Trees**|Wenchong Chen et.al.|[2502.15626](http://arxiv.org/abs/2502.15626)|null|
 |**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584](http://arxiv.org/abs/2502.15584)|null|
 |**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583](http://arxiv.org/abs/2502.15583)|null|
@@ -574,8 +584,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
+|**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|null|
+|**2025-02-21**|**Compression Barriers for Autoregressive Transformers**|Themistoklis Haris et.al.|[2502.15955](http://arxiv.org/abs/2502.15955)|null|
 |**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
-|**2025-02-21**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
+|**2025-02-24**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
 |**2025-02-20**|**More for Keys, Less for Values: Adaptive KV Cache Quantization**|Mohsen Hariri et.al.|[2502.15075](http://arxiv.org/abs/2502.15075)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
@@ -679,6 +694,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation**|Fanhu Zeng et.al.|[2502.17159](http://arxiv.org/abs/2502.17159)|null|
+|**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AI**|Syed Abdul Gaffar Shakhadri et.al.|[2502.17092](http://arxiv.org/abs/2502.17092)|null|
+|**2025-02-24**|**Systematic Weight Evaluation for Pruning Large Language Models: Enhancing Performance and Sustainability**|Ashhadul Islam et.al.|[2502.17071](http://arxiv.org/abs/2502.17071)|null|
+|**2025-02-24**|**DUNIA: Pixel-Sized Embeddings via Cross-Modal Alignment for Earth Observation Applications**|Ibrahim Fayad et.al.|[2502.17066](http://arxiv.org/abs/2502.17066)|null|
+|**2025-02-24**|**TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration**|Xin Zhang et.al.|[2502.17049](http://arxiv.org/abs/2502.17049)|null|
+|**2025-02-24**|**Distributional Vision-Language Alignment by Cauchy-Schwarz Divergence**|Wenzhe Yin et.al.|[2502.17028](http://arxiv.org/abs/2502.17028)|null|
 |**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
 |**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481](http://arxiv.org/abs/2502.15481)|null|
 |**2025-02-21**|**Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs**|Gengyuan Zhang et.al.|[2502.15457](http://arxiv.org/abs/2502.15457)|null|
