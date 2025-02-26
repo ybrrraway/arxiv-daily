@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Factorization norms and Zarankiewicz problems**|István Tomon et.al.|[2502.18429](http://arxiv.org/abs/2502.18429)|null|
+|**2025-02-25**|**Global law of conjugate kernel random matrices with heavy-tailed weights**|Alice Guionnet et.al.|[2502.18428](http://arxiv.org/abs/2502.18428)|null|
+|**2025-02-25**|**Trotter error and gate complexity of the SYK and sparse SYK models**|Yiyuan Chen et.al.|[2502.18420](http://arxiv.org/abs/2502.18420)|null|
+|**2025-02-25**|**Learning sparse generalized linear models with binary outcomes via iterative hard thresholding**|Namiko Matsumoto et.al.|[2502.18393](http://arxiv.org/abs/2502.18393)|null|
+|**2025-02-25**|**Mechanistic PDE Networks for Discovery of Governing Equations**|Adeel Pervez et.al.|[2502.18377](http://arxiv.org/abs/2502.18377)|null|
+|**2025-02-25**|**Sparse Bayesian Generative Modeling for Joint Parameter and Channel Estimation**|Benedikt Böck et.al.|[2502.18369](http://arxiv.org/abs/2502.18369)|null|
+|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279](http://arxiv.org/abs/2502.18279)|null|
+|**2025-02-25**|**Table-top three-dimensional photoemission orbital tomography with a femtosecond extreme ultraviolet light source**|Wiebke Bennecke et.al.|[2502.18269](http://arxiv.org/abs/2502.18269)|null|
+|**2025-02-25**|**Integrated Localization and Communication with Sparse MIMO: Will Virtual Array Technology also Benefit Wireless Communication?**|Hongqi Min et.al.|[2502.18241](http://arxiv.org/abs/2502.18241)|null|
+|**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151](http://arxiv.org/abs/2502.18151)|null|
 |**2025-02-24**|**On the Dichotomy Between Privacy and Traceability in $\ell_p$ Stochastic Convex Optimization**|Sasha Voitovych et.al.|[2502.17384](http://arxiv.org/abs/2502.17384)|null|
 |**2025-02-24**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation**|Qiuming Zhao et.al.|[2502.17380](http://arxiv.org/abs/2502.17380)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
@@ -584,8 +594,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
+|**2025-02-24**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535](http://arxiv.org/abs/2502.17535)|null|
+|**2025-02-21**|**CoKV: Optimizing KV Cache Allocation via Cooperative Game**|Qiheng Sun et.al.|[2502.17501](http://arxiv.org/abs/2502.17501)|null|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
-|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
+|**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
 |**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|null|
 |**2025-02-21**|**Compression Barriers for Autoregressive Transformers**|Themistoklis Haris et.al.|[2502.15955](http://arxiv.org/abs/2502.15955)|null|
@@ -694,6 +707,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
+|**2025-02-25**|**Uncertainty Modeling in Multimodal Speech Analysis Across the Psychosis Spectrum**|Morteza Rohanian et.al.|[2502.18285](http://arxiv.org/abs/2502.18285)|null|
+|**2025-02-25**|**MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains**|Zhiyuan Peng et.al.|[2502.18258](http://arxiv.org/abs/2502.18258)|null|
+|**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200](http://arxiv.org/abs/2502.18200)|null|
+|**2025-02-25**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Li Lei et.al.|[2502.18180](http://arxiv.org/abs/2502.18180)|null|
+|**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179](http://arxiv.org/abs/2502.18179)|null|
+|**2025-02-25**|**NusaAksara: A Multimodal and Multilingual Benchmark for Preserving Indonesian Indigenous Scripts**|Muhammad Farid Adilazuarda et.al.|[2502.18148](http://arxiv.org/abs/2502.18148)|null|
+|**2025-02-25**|**LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**|Yunfeng Li et.al.|[2502.18143](http://arxiv.org/abs/2502.18143)|null|
+|**2025-02-25**|**Detecting Offensive Memes with Social Biases in Singapore Context Using Multimodal Large Language Models**|Cao Yuxuan et.al.|[2502.18101](http://arxiv.org/abs/2502.18101)|**[link](https://github.com/aliencaocao/vlm-for-memes-aisg)**|
+|**2025-02-25**|**A Fusion Model for Art Style and Author Recognition Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083](http://arxiv.org/abs/2502.18083)|null|
 |**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
 |**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation**|Fanhu Zeng et.al.|[2502.17159](http://arxiv.org/abs/2502.17159)|null|
