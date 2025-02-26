@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1176,11 +1176,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
-|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation**|Fanhu Zeng et.al.|[2502.17159](http://arxiv.org/abs/2502.17159)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
-|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-24**|**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AI**|Syed Abdul Gaffar Shakhadri et.al.|[2502.17092](http://arxiv.org/abs/2502.17092)|null|
 |**2025-02-24**|**Systematic Weight Evaluation for Pruning Large Language Models: Enhancing Performance and Sustainability**|Ashhadul Islam et.al.|[2502.17071](http://arxiv.org/abs/2502.17071)|null|
 |**2025-02-24**|**DUNIA: Pixel-Sized Embeddings via Cross-Modal Alignment for Earth Observation Applications**|Ibrahim Fayad et.al.|[2502.17066](http://arxiv.org/abs/2502.17066)|null|
@@ -2848,8 +2848,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
-|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
 |**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|null|
 |**2025-02-21**|**Compression Barriers for Autoregressive Transformers**|Themistoklis Haris et.al.|[2502.15955](http://arxiv.org/abs/2502.15955)|null|
