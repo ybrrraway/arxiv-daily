@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification**|Iacopo Tirelli et.al.|[2503.04630](http://arxiv.org/abs/2503.04630)|null|
+|**2025-03-06**|**SynGraph: A Dynamic Graph-LLM Synthesis Framework for Sparse Streaming User Sentiment Modeling**|Xin Zhang et.al.|[2503.04619](http://arxiv.org/abs/2503.04619)|null|
+|**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
+|**2025-03-06**|**Data-augmented Learning of Geodesic Distances in Irregular Domains through Soner Boundary Conditions**|Rafael I. Cabral Muchacho et.al.|[2503.04579](http://arxiv.org/abs/2503.04579)|null|
+|**2025-03-06**|**Source-Oblivious Broadcast**|Pierre Fraigniaud et.al.|[2503.04511](http://arxiv.org/abs/2503.04511)|null|
+|**2025-03-06**|**Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training**|Adrian Chang et.al.|[2503.04496](http://arxiv.org/abs/2503.04496)|null|
+|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**Near instance optimality of the Lanczos method for Stieltjes and related matrix functions**|Marcel Schweitzer et.al.|[2503.04427](http://arxiv.org/abs/2503.04427)|null|
+|**2025-03-06**|**Time-varying Factor Augmented Vector Autoregression with Grouped Sparse Autoencoder**|Yiyong Luo et.al.|[2503.04386](http://arxiv.org/abs/2503.04386)|null|
+|**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
 |**2025-03-05**|**Graph-Augmented LSTM for Forecasting Sparse Anomalies in Graph-Structured Time Series**|Sneh Pillai et.al.|[2503.03729](http://arxiv.org/abs/2503.03729)|null|
 |**2025-03-05**|**Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform**|Wei Wang et.al.|[2503.03691](http://arxiv.org/abs/2503.03691)|null|
@@ -767,6 +777,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
+|**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643](http://arxiv.org/abs/2503.04643)|null|
+|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
+|**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
+|**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528](http://arxiv.org/abs/2503.04528)|null|
+|**2025-03-06**|**Multi-modal Summarization in Model-Based Engineering: Automotive Software Development Case Study**|Nenad Petrovic et.al.|[2503.04506](http://arxiv.org/abs/2503.04506)|null|
+|**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
+|**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
+|**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470](http://arxiv.org/abs/2503.04470)|null|
+|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
 |**2025-03-05**|**Comparison of Experimental and Theoretical Mechanical Jitter in a THz Communication Link**|Ethan Abele et.al.|[2503.03740](http://arxiv.org/abs/2503.03740)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**|Wei Li et.al.|[2503.03663](http://arxiv.org/abs/2503.03663)|null|
