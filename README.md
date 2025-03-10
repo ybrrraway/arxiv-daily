@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Memory preservation in highly-connected quantum networks**|Simone Ausilio et.al.|[2503.05655](http://arxiv.org/abs/2503.05655)|null|
+|**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613](http://arxiv.org/abs/2503.05613)|null|
+|**2025-03-07**|**S4M: Segment Anything with 4 Extreme Points**|Adrien Meyer et.al.|[2503.05534](http://arxiv.org/abs/2503.05534)|null|
+|**2025-03-07**|**Exploiting Inexact Computations in Multilevel Sampling Methods**|Josef Martínek et.al.|[2503.05533](http://arxiv.org/abs/2503.05533)|null|
+|**2025-03-07**|**On the use of the Axelrod formula for thermal electron collisions in Astrophysical Modelling**|Leo P. Mulholland et.al.|[2503.05489](http://arxiv.org/abs/2503.05489)|null|
+|**2025-03-07**|**Deep Frequency Attention Networks for Single Snapshot Sparse Array Interpolation**|Ruxin Zheng et.al.|[2503.05486](http://arxiv.org/abs/2503.05486)|null|
+|**2025-03-07**|**Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts**|Weigao Sun et.al.|[2503.05447](http://arxiv.org/abs/2503.05447)|null|
+|**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
+|**2025-03-07**|**Impact of eccentricity and mean anomaly in numerical relativity mergers**|Peter James Nee et.al.|[2503.05422](http://arxiv.org/abs/2503.05422)|null|
+|**2025-03-07**|**Efficient Parallel Scheduling for Sparse Triangular Solvers**|Toni Böhnlein et.al.|[2503.05408](http://arxiv.org/abs/2503.05408)|null|
 |**2025-03-06**|**Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification**|Iacopo Tirelli et.al.|[2503.04630](http://arxiv.org/abs/2503.04630)|null|
 |**2025-03-06**|**SynGraph: A Dynamic Graph-LLM Synthesis Framework for Sparse Streaming User Sentiment Modeling**|Xin Zhang et.al.|[2503.04619](http://arxiv.org/abs/2503.04619)|null|
 |**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
@@ -654,6 +664,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
+|**2025-03-06**|**Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning**|Giulio Corallo et.al.|[2503.04973](http://arxiv.org/abs/2503.04973)|null|
 |**2025-03-04**|**InfiniSST: Simultaneous Translation of Unbounded Speech with Large Language Model**|Siqi Ouyang et.al.|[2503.02969](http://arxiv.org/abs/2503.02969)|null|
 |**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
 |**2025-03-03**|**EliteKV: Scalable KV Cache Compression via RoPE Frequency Selection and Joint Low-Rank Projection**|Yuhao Zhou et.al.|[2503.01586](http://arxiv.org/abs/2503.01586)|**[link](https://github.com/CiaranZhou/EliteKV)**|
@@ -777,6 +789,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|
+|**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626](http://arxiv.org/abs/2503.05626)|null|
+|**2025-03-07**|**Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information**|Junbo Zhao et.al.|[2503.05543](http://arxiv.org/abs/2503.05543)|null|
+|**2025-03-07**|**PoSSUM: A Protocol for Surveying Social-media Users with Multimodal LLMs**|Roberto Cerina et.al.|[2503.05529](http://arxiv.org/abs/2503.05529)|null|
+|**2025-03-07**|**Revisiting Beamforming Design for Stable Millimeter-Wave Communications Under Blockages**|Kanta Terui et.al.|[2503.05524](http://arxiv.org/abs/2503.05524)|null|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**|Jiaxing Zhao et.al.|[2503.05379](http://arxiv.org/abs/2503.05379)|null|
+|**2025-03-07**|**New multimodal similarity measure for image registration via modeling local functional dependence with linear combination of learned basis functions**|Joel Honkamaa et.al.|[2503.05335](http://arxiv.org/abs/2503.05335)|null|
+|**2025-03-07**|**Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation**|Xinkun Wang et.al.|[2503.05319](http://arxiv.org/abs/2503.05319)|null|
+|**2025-03-07**|**Coreference as an indicator of context scope in multimodal narrative**|Nikolai Ilinykh et.al.|[2503.05298](http://arxiv.org/abs/2503.05298)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643](http://arxiv.org/abs/2503.04643)|null|
 |**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
