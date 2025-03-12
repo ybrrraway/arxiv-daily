@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|null|
+|**2025-03-11**|**Proc4Gem: Foundation models for physical agency through procedural generation**|Yixin Lin et.al.|[2503.08593](http://arxiv.org/abs/2503.08593)|null|
+|**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
+|**2025-03-11**|**ComicsPAP: understanding comic strips by picking the correct panel**|Emanuele Vivoli et.al.|[2503.08561](http://arxiv.org/abs/2503.08561)|null|
+|**2025-03-11**|**Mellow: a small audio language model for reasoning**|Soham Deshmukh et.al.|[2503.08540](http://arxiv.org/abs/2503.08540)|null|
+|**2025-03-11**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529](http://arxiv.org/abs/2503.08529)|null|
+|**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|null|
+|**2025-03-11**|**Learning to Match Unpaired Data with Minimum Entropy Coupling**|Mustapha Bounoua et.al.|[2503.08501](http://arxiv.org/abs/2503.08501)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Federated Multimodal Learning with Dual Adapters and Selective Pruning for Communication and Computational Efficiency**|Duy Phuong Nguyen et.al.|[2503.07552](http://arxiv.org/abs/2503.07552)|null|
 |**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
@@ -2380,6 +2390,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Leveraging national forest inventory data to estimate forest carbon density status and trends for small areas**|Elliot S. Shannon et.al.|[2503.08653](http://arxiv.org/abs/2503.08653)|null|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention**|Emily Xiao et.al.|[2503.08640](http://arxiv.org/abs/2503.08640)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction**|Feiran Wang et.al.|[2503.08596](http://arxiv.org/abs/2503.08596)|null|
+|**2025-03-11**|**3D Point Cloud Generation via Autoregressive Up-sampling**|Ziqiao Meng et.al.|[2503.08594](http://arxiv.org/abs/2503.08594)|null|
+|**2025-03-11**|**Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data**|Sanyou Wu et.al.|[2503.08579](http://arxiv.org/abs/2503.08579)|null|
+|**2025-03-11**|**Additive Frequency Diverse Active Incoherent Millimeter-Wave Imaging**|Jorge R. Colon-Berrios et.al.|[2503.08556](http://arxiv.org/abs/2503.08556)|null|
+|**2025-03-11**|**A Ritz method for solution of parametric generalized EVPs**|Joanna Bisch et.al.|[2503.08465](http://arxiv.org/abs/2503.08465)|null|
+|**2025-03-11**|**KAP: MLLM-assisted OCR Text Enhancement for Hybrid Retrieval in Chinese Non-Narrative Documents**|Hsin-Ling Hsu et.al.|[2503.08452](http://arxiv.org/abs/2503.08452)|null|
 |**2025-03-10**|**Neural Combinatorial Optimization via Preference Optimization**|Zijun Liao et.al.|[2503.07580](http://arxiv.org/abs/2503.07580)|null|
 |**2025-03-10**|**Efficient Distributed Learning over Decentralized Networks with Convoluted Support Vector Machine**|Canyi Chen et.al.|[2503.07563](http://arxiv.org/abs/2503.07563)|null|
 |**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
@@ -3037,6 +3057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
 |**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
 |**2025-03-10**|**EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer**|Yuxuan Zhang et.al.|[2503.07027](http://arxiv.org/abs/2503.07027)|null|
 |**2025-03-09**|**Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation**|Yingfeng Luo et.al.|[2503.06594](http://arxiv.org/abs/2503.06594)|null|
