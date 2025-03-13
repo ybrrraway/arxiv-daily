@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511](http://arxiv.org/abs/2503.09511)|null|
+|**2025-03-12**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**|Zhe Xu et.al.|[2503.09499](http://arxiv.org/abs/2503.09499)|null|
+|**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|null|
+|**2025-03-12**|**Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder**|Junjie Zhou et.al.|[2503.09496](http://arxiv.org/abs/2503.09496)|null|
+|**2025-03-12**|**BAMBI: Developing Baby Language Models for Italian**|Alice Suozzi et.al.|[2503.09481](http://arxiv.org/abs/2503.09481)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
+|**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
+|**2025-03-12**|**Florenz: Scaling Laws for Systematic Generalization in Vision-Language Models**|Julian Spravil et.al.|[2503.09443](http://arxiv.org/abs/2503.09443)|null|
+|**2025-03-12**|**Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation**|Yaorui Shi et.al.|[2503.09427](http://arxiv.org/abs/2503.09427)|null|
+|**2025-03-12**|**AI-based Framework for Robust Model-Based Connector Mating in Robotic Wire Harness Installation**|Claudius Kienle et.al.|[2503.09409](http://arxiv.org/abs/2503.09409)|null|
 |**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|null|
@@ -2390,6 +2400,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
+|**2025-03-12**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532](http://arxiv.org/abs/2503.09532)|null|
+|**2025-03-12**|**Learning Spatially Adaptive $\ell_1$ -Norms Weights for Convolutional Synthesis Regularization**|Andreas Kofler et.al.|[2503.09483](http://arxiv.org/abs/2503.09483)|null|
+|**2025-03-12**|**Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models**|Zhihua Tian et.al.|[2503.09446](http://arxiv.org/abs/2503.09446)|null|
+|**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418](http://arxiv.org/abs/2503.09418)|null|
+|**2025-03-12**|**Context-aware Constrained Reinforcement Learning Based Energy-Efficient Power Scheduling for Non-stationary XR Data Traffic**|Kexuan Wang et.al.|[2503.09391](http://arxiv.org/abs/2503.09391)|null|
+|**2025-03-12**|**Adaptive and Self-Tuning SBL with Total Variation Priors for Block-Sparse Signal Recovery**|Hamza Djelouat et.al.|[2503.09290](http://arxiv.org/abs/2503.09290)|null|
+|**2025-03-12**|**Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs**|Aidan Ferguson et.al.|[2503.09184](http://arxiv.org/abs/2503.09184)|null|
+|**2025-03-12**|**Using Co-Located Range and Doppler Radars for Initial Orbit Determination**|Cristina Parigini et.al.|[2503.09135](http://arxiv.org/abs/2503.09135)|null|
+|**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
 |**2025-03-11**|**Leveraging national forest inventory data to estimate forest carbon density status and trends for small areas**|Elliot S. Shannon et.al.|[2503.08653](http://arxiv.org/abs/2503.08653)|null|
 |**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
 |**2025-03-11**|**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention**|Emily Xiao et.al.|[2503.08640](http://arxiv.org/abs/2503.08640)|null|
@@ -3057,6 +3077,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
+|**2025-03-11**|**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference**|Guangtao Wang et.al.|[2503.08879](http://arxiv.org/abs/2503.08879)|null|
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
 |**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
 |**2025-03-10**|**EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer**|Yuxuan Zhang et.al.|[2503.07027](http://arxiv.org/abs/2503.07027)|null|
