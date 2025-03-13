@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -3065,7 +3065,7 @@ layout: default
 |**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
 |**2025-03-06**|**Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning**|Giulio Corallo et.al.|[2503.04973](http://arxiv.org/abs/2503.04973)|null|
 |**2025-03-04**|**InfiniSST: Simultaneous Translation of Unbounded Speech with Large Language Model**|Siqi Ouyang et.al.|[2503.02969](http://arxiv.org/abs/2503.02969)|**[link](https://github.com/leililab/infinisst)**|
-|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
+|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|**[link](https://github.com/nathangodey/qfilters)**|
 |**2025-03-03**|**EliteKV: Scalable KV Cache Compression via RoPE Frequency Selection and Joint Low-Rank Projection**|Yuhao Zhou et.al.|[2503.01586](http://arxiv.org/abs/2503.01586)|**[link](https://github.com/CiaranZhou/EliteKV)**|
 |**2025-03-03**|**KurTail : Kurtosis-based LLM Quantization**|Mohammad Sadegh Akhondzadeh et.al.|[2503.01483](http://arxiv.org/abs/2503.01483)|null|
 |**2025-03-03**|**WeightedKV: Attention Scores Weighted Key-Value Cache Merging for Large Language Models**|Jian Yuan et.al.|[2503.01330](http://arxiv.org/abs/2503.01330)|null|
