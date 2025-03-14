@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|null|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
+|**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623](http://arxiv.org/abs/2503.10623)|null|
+|**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|null|
+|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
+|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|null|
+|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603](http://arxiv.org/abs/2503.10603)|null|
+|**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
+|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
 |**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511](http://arxiv.org/abs/2503.09511)|null|
 |**2025-03-12**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**|Zhe Xu et.al.|[2503.09499](http://arxiv.org/abs/2503.09499)|null|
 |**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|null|
@@ -2400,6 +2410,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|null|
+|**2025-03-13**|**Poly-MgNet: Polynomial Building Blocks in Multigrid-Inspired ResNets**|Antonia van Betteray et.al.|[2503.10594](http://arxiv.org/abs/2503.10594)|null|
+|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
+|**2025-03-13**|**Low-Rank Matrix Regression via Least-Angle Regression**|Mingzhou Yin et.al.|[2503.10569](http://arxiv.org/abs/2503.10569)|null|
+|**2025-03-13**|**Mathematical and numerical methods for understanding immune cell motion during wound healing**|Giulia Lupi et.al.|[2503.10552](http://arxiv.org/abs/2503.10552)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|null|
+|**2025-03-13**|**Characterizing Nonlinear Dynamics via Smooth Prototype Equivalences**|Roy Friedman et.al.|[2503.10336](http://arxiv.org/abs/2503.10336)|**[link](https://github.com/nitzanlab/prototype-equivalences)**|
+|**2025-03-13**|**Enhance Exploration in Safe Reinforcement Learning with Contrastive Representation Learning**|Duc Kien Doan et.al.|[2503.10318](http://arxiv.org/abs/2503.10318)|null|
+|**2025-03-13**|**Robust Learning-Based Sparse Recovery for Device Activity Detection in Grant-Free Random Access Cell-Free Massive MIMO: Enhancing Resilience to Impairments**|Ali Elkeshawy et.al.|[2503.10280](http://arxiv.org/abs/2503.10280)|null|
 |**2025-03-12**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
 |**2025-03-13**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532](http://arxiv.org/abs/2503.09532)|null|
 |**2025-03-12**|**Learning Spatially Adaptive $\ell_1$ -Norms Weights for Convolutional Synthesis Regularization**|Andreas Kofler et.al.|[2503.09483](http://arxiv.org/abs/2503.09483)|null|
@@ -3077,6 +3097,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
+|**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/abs/2503.10568)|null|
+|**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|null|
+|**2025-03-13**|**Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents**|Hanxu Hu et.al.|[2503.10494](http://arxiv.org/abs/2503.10494)|null|
+|**2025-03-13**|**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs**|Vivek Chari et.al.|[2503.10337](http://arxiv.org/abs/2503.10337)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-11**|**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference**|Guangtao Wang et.al.|[2503.08879](http://arxiv.org/abs/2503.08879)|null|
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
