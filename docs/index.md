@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.15
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2410,7 +2410,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|null|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|**[link](https://github.com/boqian-li/ETCH)**|
 |**2025-03-13**|**Poly-MgNet: Polynomial Building Blocks in Multigrid-Inspired ResNets**|Antonia van Betteray et.al.|[2503.10594](http://arxiv.org/abs/2503.10594)|null|
 |**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
 |**2025-03-13**|**Low-Rank Matrix Regression via Least-Angle Regression**|Mingzhou Yin et.al.|[2503.10569](http://arxiv.org/abs/2503.10569)|null|
