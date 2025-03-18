@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Multivariate Sparse Functional Linear Discriminant Analysis: An Application to Inflammatory Bowel Disease Classification**|Limeng Liu et.al.|[2503.13372](http://arxiv.org/abs/2503.13372)|null|
+|**2025-03-17**|**Timing the Match: A Deep Reinforcement Learning Approach for Ride-Hailing and Ride-Pooling Services**|Yiman Bao et.al.|[2503.13200](http://arxiv.org/abs/2503.13200)|null|
+|**2025-03-17**|**A Design of Denser-Graph-Frequency Graph Fourier Frames for Graph Signal Analysis**|Kaito Nitani et.al.|[2503.13164](http://arxiv.org/abs/2503.13164)|null|
+|**2025-03-17**|**Accelerating large-scale linear algebra using variational quantum imaginary time evolution**|Willie Aboumrad et.al.|[2503.13128](http://arxiv.org/abs/2503.13128)|null|
+|**2025-03-17**|**Semi-Monotone Goldstein Line Search Strategy with Application in Sparse Recovery**|Shima Shabani et.al.|[2503.13099](http://arxiv.org/abs/2503.13099)|null|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
+|**2025-03-17**|**Bayesian Cox model with graph-structured variable selection priors for multi-omics biomarker identification**|Tobias Østmo Hermansen et.al.|[2503.13078](http://arxiv.org/abs/2503.13078)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
+|**2025-03-17**|**Entropic bottlenecks to nematic ordering in an $RP^{2}$ apolar spin model**|B. Kamala Latha et.al.|[2503.12970](http://arxiv.org/abs/2503.12970)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947](http://arxiv.org/abs/2503.12947)|null|
 |**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
 |**2025-03-14**|**Topological Dictionary Learning**|Enrico Grimaldi et.al.|[2503.11470](http://arxiv.org/abs/2503.11470)|null|
 |**2025-03-14**|**Scalable Global Solution Techniques for High-Dimensional Models in Dynare**|Aryan Eftekhari et.al.|[2503.11464](http://arxiv.org/abs/2503.11464)|null|
@@ -718,6 +728,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**ROMA: a Read-Only-Memory-based Accelerator for QLoRA-based On-Device LLM**|Wenqiang Wang et.al.|[2503.12988](http://arxiv.org/abs/2503.12988)|null|
+|**2025-03-16**|**CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences**|Ziran Qin et.al.|[2503.12491](http://arxiv.org/abs/2503.12491)|null|
+|**2025-03-16**|**LazyMAR: Accelerating Masked Autoregressive Models via Feature Caching**|Feihong Yan et.al.|[2503.12450](http://arxiv.org/abs/2503.12450)|null|
+|**2025-03-14**|**Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques**|Neusha Javidnia et.al.|[2503.11816](http://arxiv.org/abs/2503.11816)|null|
 |**2025-03-14**|**X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression**|Guihong Li et.al.|[2503.11132](http://arxiv.org/abs/2503.11132)|null|
 |**2025-03-14**|**Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers**|Yifang Chen et.al.|[2503.11108](http://arxiv.org/abs/2503.11108)|null|
 |**2025-03-13**|**ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs**|Xin Liu et.al.|[2503.10714](http://arxiv.org/abs/2503.10714)|null|
@@ -858,6 +872,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
+|**2025-03-17**|**SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start**|Xin Dong et.al.|[2503.13322](http://arxiv.org/abs/2503.13322)|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
+|**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184](http://arxiv.org/abs/2503.13184)|null|
+|**2025-03-17**|**MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs**|Erik Daxberger et.al.|[2503.13111](http://arxiv.org/abs/2503.13111)|null|
+|**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108](http://arxiv.org/abs/2503.13108)|**[link](https://github.com/ustc-hyin/HiMAP)**|
+|**2025-03-17**|**ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models**|Hao Yin et.al.|[2503.13107](http://arxiv.org/abs/2503.13107)|**[link](https://github.com/ustc-hyin/ClearSight)**|
+|**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-14**|**Noise immunity in quantum optical systems through non-Hermitian topology**|Jamison Sloan et.al.|[2503.11620](http://arxiv.org/abs/2503.11620)|null|
 |**2025-03-14**|**A unified framework for multiple-try Metropolis algorithms**|Renny Doig et.al.|[2503.11583](http://arxiv.org/abs/2503.11583)|null|
 |**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
