@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
+|**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
+|**2025-03-26**|**MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**|Yanpeng Sun et.al.|[2503.20745](http://arxiv.org/abs/2503.20745)|null|
+|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698](http://arxiv.org/abs/2503.20698)|null|
+|**2025-03-26**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673](http://arxiv.org/abs/2503.20673)|null|
+|**2025-03-26**|**Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering**|Zehui Liao et.al.|[2503.20504](http://arxiv.org/abs/2503.20504)|null|
+|**2025-03-26**|**Enhancing Depression Detection via Question-wise Modality Fusion**|Aishik Mandal et.al.|[2503.20496](http://arxiv.org/abs/2503.20496)|null|
+|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
+|**2025-03-26**|**Dynamic Pyramid Network for Efficient Multimodal Large Language Model**|Hao Ai et.al.|[2503.20322](http://arxiv.org/abs/2503.20322)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|
 |**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
@@ -2490,6 +2500,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Quantum decoherence in the Caldeira-Leggett model by the real-time path integral on a computer**|Jun Nishimura et.al.|[2503.20699](http://arxiv.org/abs/2503.20699)|null|
+|**2025-03-26**|**Decoherence time maximization and partial isolation for open quantum harmonic oscillator memory networks**|Igor G. Vladimirov et.al.|[2503.20675](http://arxiv.org/abs/2503.20675)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-26**|**Diffusion Counterfactuals for Image Regressors**|Trung Duc Ha et.al.|[2503.20595](http://arxiv.org/abs/2503.20595)|null|
+|**2025-03-26**|**Problem-Structure-Informed Quantum Approximate Optimization Algorithm for Large-Scale Unit Commitment with Limited Qubits**|Jingxian Zhou et.al.|[2503.20509](http://arxiv.org/abs/2503.20509)|null|
+|**2025-03-26**|**From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**|Yucheng Suo et.al.|[2503.20472](http://arxiv.org/abs/2503.20472)|null|
+|**2025-03-26**|**Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks**|Yangqi Feng et.al.|[2503.20454](http://arxiv.org/abs/2503.20454)|null|
+|**2025-03-26**|**Approximate Message Passing for general non-Symmetric random matrices**|Mohammed-Younes Gueddari et.al.|[2503.20409](http://arxiv.org/abs/2503.20409)|null|
+|**2025-03-26**|**FastFT: Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies**|Tianqi He et.al.|[2503.20394](http://arxiv.org/abs/2503.20394)|null|
+|**2025-03-26**|**Self-ReS: Self-Reflection in Large Vision-Language Models for Long Video Understanding**|Joao Pereira et.al.|[2503.20362](http://arxiv.org/abs/2503.20362)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Enhancing Graphical Lasso: A Robust Scheme for Non-Stationary Mean Data**|Samuel Rey et.al.|[2503.19651](http://arxiv.org/abs/2503.19651)|null|
 |**2025-03-25**|**A Low-Power Sparse Deep Learning Accelerator with Optimized Data Reuse**|Kai-Chieh Hsu et.al.|[2503.19639](http://arxiv.org/abs/2503.19639)|null|
@@ -3257,6 +3277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|null|
 |**2025-03-25**|**Gemma 3 Technical Report**|Gemma Team et.al.|[2503.19786](http://arxiv.org/abs/2503.19786)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
 |**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
