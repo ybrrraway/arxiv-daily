@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732](http://arxiv.org/abs/2503.21732)|null|
+|**2025-03-27**|**SoK: Towards Reproducibility for Software Packages in Scripting Language Ecosystems**|Timo Pohl et.al.|[2503.21705](http://arxiv.org/abs/2503.21705)|null|
+|**2025-03-27**|**A Local Perspective-based Model for Overlapping Community Detection**|Gaofeng Zhou et.al.|[2503.21558](http://arxiv.org/abs/2503.21558)|null|
+|**2025-03-27**|**Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI**|Felix Terhag et.al.|[2503.21443](http://arxiv.org/abs/2503.21443)|null|
+|**2025-03-27**|**A Tolerant Independent Set Tester**|Cameron Seth et.al.|[2503.21441](http://arxiv.org/abs/2503.21441)|null|
+|**2025-03-27**|**Unsupervised Real-World Denoising: Sparsity is All You Need**|Hamadi Chihaoui et.al.|[2503.21377](http://arxiv.org/abs/2503.21377)|null|
+|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|null|
+|**2025-03-27**|**A 71.2- $μ$ W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337](http://arxiv.org/abs/2503.21337)|null|
+|**2025-03-27**|**HORT: Monocular Hand-held Objects Reconstruction with Transformers**|Zerui Chen et.al.|[2503.21313](http://arxiv.org/abs/2503.21313)|null|
 |**2025-03-26**|**Quantum decoherence in the Caldeira-Leggett model by the real-time path integral on a computer**|Jun Nishimura et.al.|[2503.20699](http://arxiv.org/abs/2503.20699)|null|
 |**2025-03-26**|**Decoherence time maximization and partial isolation for open quantum harmonic oscillator memory networks**|Igor G. Vladimirov et.al.|[2503.20675](http://arxiv.org/abs/2503.20675)|null|
 |**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
@@ -798,14 +808,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|null|
+|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|**[link](https://github.com/concyclics/logquantkv)**|
 |**2025-03-25**|**Gemma 3 Technical Report**|Gemma Team et.al.|[2503.19786](http://arxiv.org/abs/2503.19786)|null|
-|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
-|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
-|**2025-03-24**|**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache**|Dayou Du et.al.|[2503.18773](http://arxiv.org/abs/2503.18773)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|
+|**2025-03-27**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache**|Dayou Du et.al.|[2503.18773](http://arxiv.org/abs/2503.18773)|**[link](https://github.com/dd-duda/bitdecoding)**|
 |**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
 |**2025-03-24**|**TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model**|Cheng Yang et.al.|[2503.18278](http://arxiv.org/abs/2503.18278)|null|
-|**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
+|**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|**[link](https://github.com/optim996/WindowKV)**|
 |**2025-03-24**|**iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation**|Hanxiao Wang et.al.|[2503.16653](http://arxiv.org/abs/2503.16653)|null|
 |**2025-03-17**|**KVShare: Semantic-Aware Key-Value Cache Sharing for Efficient Large Language Model Inference**|Huan Yang et.al.|[2503.16525](http://arxiv.org/abs/2503.16525)|null|
 |**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|null|
@@ -957,6 +967,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|null|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|null|
+|**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699](http://arxiv.org/abs/2503.21699)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|null|
+|**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595](http://arxiv.org/abs/2503.21595)|null|
+|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|null|
+|**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480](http://arxiv.org/abs/2503.21480)|null|
+|**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457](http://arxiv.org/abs/2503.21457)|null|
+|**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435](http://arxiv.org/abs/2503.21435)|null|
 |**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|null|
 |**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
