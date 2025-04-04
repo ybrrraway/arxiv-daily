@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781](http://arxiv.org/abs/2504.02781)|null|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757](http://arxiv.org/abs/2504.02757)|null|
+|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
+|**2025-04-03**|**Efficient Model Editing with Task-Localized Sparse Fine-tuning**|Leonardo Iurada et.al.|[2504.02620](http://arxiv.org/abs/2504.02620)|null|
+|**2025-04-03**|**UAV-Assisted 5G Networks: Mobility-Aware 3D Trajectory Optimization and Resource Allocation for Dynamic Environments**|Asad Mahmood et.al.|[2504.02613](http://arxiv.org/abs/2504.02613)|null|
+|**2025-04-03**|**Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset**|Abdul Rehman et.al.|[2504.02602](http://arxiv.org/abs/2504.02602)|null|
+|**2025-04-03**|**Enhancing Compton telescope imaging with maximum a posteriori estimation: a modified Richardson-Lucy algorithm for the Compton Spectrometer and Imager**|Hiroki Yoneda et.al.|[2504.02468](http://arxiv.org/abs/2504.02468)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
@@ -838,6 +848,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-01**|**MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization**|Siyuan Li et.al.|[2504.00999](http://arxiv.org/abs/2504.00999)|null|
 |**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
@@ -1006,6 +1017,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**MENA: Multimodal Epistemic Network Analysis for Visualizing Competencies and Emotions**|Behdokht Kiafar et.al.|[2504.02794](http://arxiv.org/abs/2504.02794)|null|
+|**2025-04-03**|**SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions**|Shengrui XU et.al.|[2504.02698](http://arxiv.org/abs/2504.02698)|null|
+|**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546](http://arxiv.org/abs/2504.02546)|null|
+|**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
+|**2025-04-03**|**Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval**|Boseung Jeong et.al.|[2504.02397](http://arxiv.org/abs/2504.02397)|null|
+|**2025-04-03**|**Refining CLIP's Spatial Awareness: A Visual-Centric Perspective**|Congpei Qiu et.al.|[2504.02328](http://arxiv.org/abs/2504.02328)|null|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**|Haochen Wang et.al.|[2504.01901](http://arxiv.org/abs/2504.01901)|null|
