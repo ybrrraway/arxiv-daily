@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174](http://arxiv.org/abs/2504.06174)|null|
+|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134](http://arxiv.org/abs/2504.06134)|null|
+|**2025-04-08**|**Characterizing direct and indirect causal effects when outcomes are dependent due to treatment spillover and outcome spillover**|Subhankar Bhadra et.al.|[2504.06108](http://arxiv.org/abs/2504.06108)|null|
+|**2025-04-08**|**Sparse Reconstruction of Multi-Dimensional Kinetic Distributions**|Georgii Oblapenko et.al.|[2504.06014](http://arxiv.org/abs/2504.06014)|null|
+|**2025-04-08**|**High-Resource Translation:Turning Abundance into Accessibility**|Abhiram Reddy Yanampally et.al.|[2504.05914](http://arxiv.org/abs/2504.05914)|null|
+|**2025-04-08**|**A Method for Generating Connected Erdos-Renyi Random Graphs**|Boris Chinyaev et.al.|[2504.05907](http://arxiv.org/abs/2504.05907)|null|
+|**2025-04-08**|**Sparse Bounded Hop-Spanners for Geometric Intersection Graphs**|Sujoy Bhore et.al.|[2504.05861](http://arxiv.org/abs/2504.05861)|null|
+|**2025-04-08**|**Temporal Dynamic Embedding for Irregularly Sampled Time Series**|Mincheol Kim et.al.|[2504.05768](http://arxiv.org/abs/2504.05768)|null|
+|**2025-04-08**|**AiGAS-dEVL-RC: An Adaptive Growing Neural Gas Model for Recurrently Drifting Unsupervised Data Streams**|Maria Arostegi et.al.|[2504.05761](http://arxiv.org/abs/2504.05761)|null|
+|**2025-04-08**|**When Less Is More: A Sparse Facial Motion Structure For Listening Motion Learning**|Tri Tung Nguyen Nguyen et.al.|[2504.05748](http://arxiv.org/abs/2504.05748)|null|
 |**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265](http://arxiv.org/abs/2504.05265)|null|
 |**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248](http://arxiv.org/abs/2504.05248)|null|
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245](http://arxiv.org/abs/2504.05245)|null|
@@ -1043,6 +1053,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
+|**2025-04-08**|**Accessible and Pedagogically-Grounded Explainability for Human-Robot Interaction: A Framework Based on UDL and Symbolic Interfaces**|Francisco J. Rodríguez Lera et.al.|[2504.06189](http://arxiv.org/abs/2504.06189)|null|
+|**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Fangchen Liu et.al.|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
+|**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|null|
+|**2025-04-08**|**A Knowledge Base for Arts and Inclusion -- The Dataverse data archival platform as a knowledge base management system enabling multimodal accessibility**|Moa Johansson et.al.|[2504.05976](http://arxiv.org/abs/2504.05976)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
