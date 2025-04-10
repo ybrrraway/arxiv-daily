@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**An improved quantum algorithm for linear autonomous differential equations via Padé approximation**|Dekuan Dong et.al.|[2504.06948](http://arxiv.org/abs/2504.06948)|null|
+|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
+|**2025-04-09**|**Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations**|Zican Dong et.al.|[2504.06792](http://arxiv.org/abs/2504.06792)|null|
+|**2025-04-09**|**PETNet -- Coincident Particle Event Detection using Spiking Neural Networks**|Jan Debus et.al.|[2504.06730](http://arxiv.org/abs/2504.06730)|null|
+|**2025-04-09**|**End-to-end design framework for compressed on-chip pixel-wise spectro-polarimeters**|T. A. Stockmans et.al.|[2504.06724](http://arxiv.org/abs/2504.06724)|null|
+|**2025-04-09**|**SigChord: Sniffing Wide Non-sparse Multiband Signals for Terrestrial and Non-terrestrial Wireless Networks**|Jinbo Peng et.al.|[2504.06587](http://arxiv.org/abs/2504.06587)|null|
+|**2025-04-09**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
+|**2025-04-08**|**Sparsified-Learning for Heavy-Tailed Locally Stationary Processes**|Yingjie Wang et.al.|[2504.06477](http://arxiv.org/abs/2504.06477)|null|
+|**2025-04-08**|**cuTeSpMM: Accelerating Sparse-Dense Matrix Multiplication using GPU Tensor Cores**|Lizhi Xiang et.al.|[2504.06443](http://arxiv.org/abs/2504.06443)|null|
 |**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174](http://arxiv.org/abs/2504.06174)|null|
 |**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134](http://arxiv.org/abs/2504.06134)|null|
 |**2025-04-08**|**Characterizing direct and indirect causal effects when outcomes are dependent due to treatment spillover and outcome spillover**|Subhankar Bhadra et.al.|[2504.06108](http://arxiv.org/abs/2504.06108)|null|
@@ -878,6 +888,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**SPIRe: Boosting LLM Inference Throughput with Speculative Decoding**|Sanjit Neelam et.al.|[2504.06419](http://arxiv.org/abs/2504.06419)|null|
+|**2025-04-08**|**Unifying Autoregressive and Diffusion-Based Sequence Generation**|Nima Fathi et.al.|[2504.06416](http://arxiv.org/abs/2504.06416)|null|
+|**2025-04-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|null|
 |**2025-04-07**|**State Tuning: State-based Test-Time Scaling on RWKV-7**|Liu Xiao et.al.|[2504.05097](http://arxiv.org/abs/2504.05097)|null|
 |**2025-04-07**|**Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models**|Ruikang Liu et.al.|[2504.04823](http://arxiv.org/abs/2504.04823)|null|
 |**2025-04-07**|**LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important**|Manlai Liang et.al.|[2504.04704](http://arxiv.org/abs/2504.04704)|null|
@@ -1053,6 +1066,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
+|**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
+|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
+|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
+|**2025-04-09**|**Audio-visual Event Localization on Portrait Mode Short Videos**|Wuyang Liu et.al.|[2504.06884](http://arxiv.org/abs/2504.06884)|null|
+|**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
+|**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
+|**2025-04-09**|**Classifying the Unknown: In-Context Learning for Open-Vocabulary Text and Symbol Recognition**|Tom Simon et.al.|[2504.06841](http://arxiv.org/abs/2504.06841)|null|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
+|**2025-04-09**|**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**|Jonas Herzog et.al.|[2504.06661](http://arxiv.org/abs/2504.06661)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
