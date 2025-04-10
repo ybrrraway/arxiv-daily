@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -3440,7 +3440,7 @@ layout: default
 |**2025-04-07**|**State Tuning: State-based Test-Time Scaling on RWKV-7**|Liu Xiao et.al.|[2504.05097](http://arxiv.org/abs/2504.05097)|null|
 |**2025-04-07**|**Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models**|Ruikang Liu et.al.|[2504.04823](http://arxiv.org/abs/2504.04823)|null|
 |**2025-04-07**|**LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important**|Manlai Liang et.al.|[2504.04704](http://arxiv.org/abs/2504.04704)|null|
-|**2025-04-06**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
+|**2025-04-09**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
 |**2025-04-03**|**FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling**|Weiqing Li et.al.|[2504.03775](http://arxiv.org/abs/2504.03775)|null|
 |**2025-04-03**|**HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse**|Yuwei An et.al.|[2504.02921](http://arxiv.org/abs/2504.02921)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|

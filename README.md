@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -872,7 +872,7 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## kv cache
 
@@ -881,7 +881,7 @@
 |**2025-04-07**|**State Tuning: State-based Test-Time Scaling on RWKV-7**|Liu Xiao et.al.|[2504.05097](http://arxiv.org/abs/2504.05097)|null|
 |**2025-04-07**|**Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models**|Ruikang Liu et.al.|[2504.04823](http://arxiv.org/abs/2504.04823)|null|
 |**2025-04-07**|**LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important**|Manlai Liang et.al.|[2504.04704](http://arxiv.org/abs/2504.04704)|null|
-|**2025-04-06**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
+|**2025-04-09**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
 |**2025-04-03**|**FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling**|Weiqing Li et.al.|[2504.03775](http://arxiv.org/abs/2504.03775)|null|
 |**2025-04-03**|**HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse**|Yuwei An et.al.|[2504.02921](http://arxiv.org/abs/2504.02921)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
@@ -1047,7 +1047,7 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## multimodal
 
@@ -1904,7 +1904,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
