@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1179,7 +1179,7 @@ layout: default
 |**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
 |**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
 |**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
+|**2025-04-10**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
 |**2025-04-09**|**Audio-visual Event Localization on Portrait Mode Short Videos**|Wuyang Liu et.al.|[2504.06884](http://arxiv.org/abs/2504.06884)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
 |**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
