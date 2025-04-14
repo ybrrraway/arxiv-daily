@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727](http://arxiv.org/abs/2504.08727)|null|
+|**2025-04-11**|**Designing Child-Friendly AI Interfaces: Six Developmentally-Appropriate Design Insights from Analysing Disney Animation**|Nomisha Kurian et.al.|[2504.08670](http://arxiv.org/abs/2504.08670)|null|
+|**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
+|**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646](http://arxiv.org/abs/2504.08646)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578](http://arxiv.org/abs/2504.08578)|null|
+|**2025-04-11**|**LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs**|Jiarui Wang et.al.|[2504.08358](http://arxiv.org/abs/2504.08358)|null|
+|**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
+|**2025-04-11**|**VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering**|Qi Zhi Lim et.al.|[2504.08269](http://arxiv.org/abs/2504.08269)|null|
+|**2025-04-11**|**High-brightness multimode fiber laser amplifier**|Zhen Huang et.al.|[2504.08261](http://arxiv.org/abs/2504.08261)|null|
 |**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-11**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
 |**2025-04-10**|**MARS: a Multimodal Alignment and Ranking System for Few-Shot Segmentation**|Nico Catalano et.al.|[2504.07942](http://arxiv.org/abs/2504.07942)|null|
@@ -2600,6 +2610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729](http://arxiv.org/abs/2504.08729)|null|
+|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
+|**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660](http://arxiv.org/abs/2504.08660)|null|
+|**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638](http://arxiv.org/abs/2504.08638)|null|
+|**2025-04-11**|**A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English**|Julian Bäumler et.al.|[2504.08609](http://arxiv.org/abs/2504.08609)|null|
+|**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588](http://arxiv.org/abs/2504.08588)|null|
+|**2025-04-11**|**POD-Based Sparse Stochastic Estimation of Wind Turbine Blade Vibrations**|Lorenzo Schena et.al.|[2504.08505](http://arxiv.org/abs/2504.08505)|null|
+|**2025-04-11**|**A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification**|Kerol Djoumessi et.al.|[2504.08481](http://arxiv.org/abs/2504.08481)|null|
+|**2025-04-11**|**Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input**|Jian Wang et.al.|[2504.08449](http://arxiv.org/abs/2504.08449)|null|
+|**2025-04-11**|**High-dimensional Clustering and Signal Recovery under Block Signals**|Wu Su et.al.|[2504.08332](http://arxiv.org/abs/2504.08332)|null|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955](http://arxiv.org/abs/2504.07955)|null|
 |**2025-04-10**|**Characteristic function-based tests for spatial randomness**|Yiran Zeng et.al.|[2504.07946](http://arxiv.org/abs/2504.07946)|null|
