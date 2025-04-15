@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
+|**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
+|**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
+|**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
+|**2025-04-14**|**MURR: Model Updating with Regularized Replay for Searching a Document Stream**|Eugene Yang et.al.|[2504.10250](http://arxiv.org/abs/2504.10250)|null|
+|**2025-04-14**|**Modeling the Thermal Structure of a Protoplanetary Disk Using Multiband Flux-Limited Diffusion Approximation**|Ya. N. Pavlyuchenkov et.al.|[2504.10220](http://arxiv.org/abs/2504.10220)|null|
+|**2025-04-14**|**WG-IDENT: Weak Group Identification of PDEs with Varying Coefficients**|Cheng Tang et.al.|[2504.10212](http://arxiv.org/abs/2504.10212)|null|
+|**2025-04-14**|**Kullback-Leibler excess risk bounds for exponential weighted aggregation in Generalized linear models**|The Tien Mai et.al.|[2504.10171](http://arxiv.org/abs/2504.10171)|null|
+|**2025-04-14**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
 |**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729](http://arxiv.org/abs/2504.08729)|null|
 |**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
 |**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660](http://arxiv.org/abs/2504.08660)|null|
@@ -908,6 +918,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
+|**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
+|**2025-04-14**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
+|**2025-04-13**|**Efficient LLM Serving on Hybrid Real-time and Best-effort Requests**|Wan Borui et.al.|[2504.09590](http://arxiv.org/abs/2504.09590)|null|
+|**2025-04-12**|**Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling**|Ziran Qin et.al.|[2504.09261](http://arxiv.org/abs/2504.09261)|null|
 |**2025-04-10**|**Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving**|Shihong Gao et.al.|[2504.07494](http://arxiv.org/abs/2504.07494)|**[link](https://github.com/eddiegaoo/apt-serve)**|
 |**2025-04-10**|**UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference**|Weikai Xu et.al.|[2504.07479](http://arxiv.org/abs/2504.07479)|null|
 |**2025-04-08**|**SPIRe: Boosting LLM Inference Throughput with Speculative Decoding**|Sanjit Neelam et.al.|[2504.06419](http://arxiv.org/abs/2504.06419)|null|
@@ -1088,6 +1103,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
+|**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471](http://arxiv.org/abs/2504.10471)|null|
+|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
+|**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452](http://arxiv.org/abs/2504.10452)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**Pinching-Antenna System (PASS) Enhanced Covert Communications**|Hao Jiang et.al.|[2504.10442](http://arxiv.org/abs/2504.10442)|null|
+|**2025-04-14**|**Purcell-enhanced quantum adsorption**|Dennis P. Clougherty et.al.|[2504.10410](http://arxiv.org/abs/2504.10410)|null|
+|**2025-04-14**|**Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis**|Kaiwen Zheng et.al.|[2504.10351](http://arxiv.org/abs/2504.10351)|null|
+|**2025-04-14**|**VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge**|Yueqi Song et.al.|[2504.10342](http://arxiv.org/abs/2504.10342)|null|
 |**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727](http://arxiv.org/abs/2504.08727)|null|
 |**2025-04-11**|**Designing Child-Friendly AI Interfaces: Six Developmentally-Appropriate Design Insights from Analysing Disney Animation**|Nomisha Kurian et.al.|[2504.08670](http://arxiv.org/abs/2504.08670)|null|
 |**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
