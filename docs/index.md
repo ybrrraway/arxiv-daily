@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
+|**2025-04-15**|**Dependency Structure Augmented Contextual Scoping Framework for Multimodal Aspect-Based Sentiment Analysis**|Hao Liu et.al.|[2504.11331](http://arxiv.org/abs/2504.11331)|null|
+|**2025-04-15**|**Leveraging multimodal explanatory annotations for video interpretation with Modality Specific Dataset**|Elisa Ancarani et.al.|[2504.11232](http://arxiv.org/abs/2504.11232)|null|
+|**2025-04-15**|**Enhancing multimodal analogical reasoning with Logic Augmented Generation**|Anna Sofia Lippolis et.al.|[2504.11190](http://arxiv.org/abs/2504.11190)|null|
+|**2025-04-15**|**TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data**|Benedikt Blumenstiel et.al.|[2504.11172](http://arxiv.org/abs/2504.11172)|null|
+|**2025-04-15**|**TerraMind: Large-Scale Generative Multimodality for Earth Observation**|Johannes Jakubik et.al.|[2504.11171](http://arxiv.org/abs/2504.11171)|null|
+|**2025-04-15**|**MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos**|Laura De Grazia et.al.|[2504.11169](http://arxiv.org/abs/2504.11169)|null|
+|**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
+|**2025-04-15**|**S $^2$ Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111](http://arxiv.org/abs/2504.11111)|null|
+|**2025-04-15**|**DeepMLF: Multimodal language model with learnable tokens for deep fusion in sentiment analysis**|Efthymios Georgiou et.al.|[2504.11082](http://arxiv.org/abs/2504.11082)|null|
 |**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
 |**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471](http://arxiv.org/abs/2504.10471)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
@@ -2620,6 +2630,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|null|
+|**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202](http://arxiv.org/abs/2504.11202)|null|
+|**2025-04-15**|**A Spatial-Sign based Direct Approach for High Dimensional Sparse Quadratic Discriminant Analysis**|Anqing Shen et.al.|[2504.11187](http://arxiv.org/abs/2504.11187)|null|
+|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-15**|**Low-Rank SPIKE Framework for Solving Large Sparse Linear Systems with Applications**|Braegan S. Spring et.al.|[2504.11167](http://arxiv.org/abs/2504.11167)|null|
+|**2025-04-15**|**A Fully Asynchronous Unsourced Random Access Scheme**|Mert Ozates et.al.|[2504.11131](http://arxiv.org/abs/2504.11131)|null|
+|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
+|**2025-04-15**|**Spatial Sign based Direct Sparse Linear Discriminant Analysis for High Dimensional Data**|Dan Zhuang et.al.|[2504.11117](http://arxiv.org/abs/2504.11117)|null|
+|**2025-04-15**|**S $^2$ Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111](http://arxiv.org/abs/2504.11111)|null|
+|**2025-04-15**|**InfoClus: Informative Clustering of High-dimensional Data Embeddings**|Fuyin Lai et.al.|[2504.11089](http://arxiv.org/abs/2504.11089)|null|
 |**2025-04-15**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
@@ -3517,6 +3537,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
 |**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
 |**2025-04-14**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
