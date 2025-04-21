@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
+|**2025-04-18**|**Visual Intention Grounding for Egocentric Assistants**|Pengzhan Sun et.al.|[2504.13621](http://arxiv.org/abs/2504.13621)|null|
+|**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Niklas Funk et.al.|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
+|**2025-04-18**|**Compile Scene Graphs with Reinforcement Learning**|Zuyao Chen et.al.|[2504.13617](http://arxiv.org/abs/2504.13617)|null|
+|**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535](http://arxiv.org/abs/2504.13535)|null|
+|**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
+|**2025-04-18**|**Are you SURE? Enhancing Multimodal Pretraining with Missing Modalities through Uncertainty Estimation**|Duy A. Nguyen et.al.|[2504.13465](http://arxiv.org/abs/2504.13465)|null|
+|**2025-04-18**|**Ascribe New Dimensions to Scientific Data Visualization with VR**|Daniela Ushizima et.al.|[2504.13448](http://arxiv.org/abs/2504.13448)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123](http://arxiv.org/abs/2504.13123)|null|
@@ -2650,6 +2660,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Limiting spectral laws for sparse random circulant matrices**|Adrian Beker et.al.|[2504.13833](http://arxiv.org/abs/2504.13833)|null|
+|**2025-04-18**|**Models, Methods and Waveforms for Estimation and Prediction of Doubly Sparse Time-Varying Channels**|Wissal Benzine et.al.|[2504.13762](http://arxiv.org/abs/2504.13762)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**Capacity-achieving sparse superposition codes with spatially coupled VAMP decoder**|Yuhao Liu et.al.|[2504.13601](http://arxiv.org/abs/2504.13601)|null|
+|**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599](http://arxiv.org/abs/2504.13599)|null|
+|**2025-04-18**|**Integrated Super-resolution Sensing and Symbiotic Communication with 3D Sparse MIMO for Low-Altitude UAV Swarm**|Jingran Xu et.al.|[2504.13570](http://arxiv.org/abs/2504.13570)|null|
+|**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540](http://arxiv.org/abs/2504.13540)|null|
+|**2025-04-18**|**Accelerated Optimization of Implicit Neural Representations for CT Reconstruction**|Mahrokh Najaf et.al.|[2504.13390](http://arxiv.org/abs/2504.13390)|null|
+|**2025-04-17**|**Denoising and Reconstruction of Nonlinear Dynamics using Truncated Reservoir Computing**|Omid Sedehi et.al.|[2504.13355](http://arxiv.org/abs/2504.13355)|null|
+|**2025-04-17**|**Training Autoencoders Using Stochastic Hessian-Free Optimization with LSMR**|Ibrahim Emirahmetoglu et.al.|[2504.13302](http://arxiv.org/abs/2504.13302)|null|
 |**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/abs/2504.13151)|null|
 |**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149](http://arxiv.org/abs/2504.13149)|null|
 |**2025-04-17**|**Expert Kernel Generation Network Driven by Contextual Mapping for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.13045](http://arxiv.org/abs/2504.13045)|null|
@@ -3579,7 +3599,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models**|Junyang Zhang et.al.|[2504.12526](http://arxiv.org/abs/2504.12526)|null|
 |**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/abs/2504.12397)|null|
-|**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
+|**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|**[link](https://github.com/lass-lab/InferSave)**|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|**[link](https://github.com/microsoft/vidur)**|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
