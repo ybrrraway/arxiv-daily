@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199](http://arxiv.org/abs/2504.15199)|null|
+|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
+|**2025-04-21**|**Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models**|K. Wong et.al.|[2504.15093](http://arxiv.org/abs/2504.15093)|null|
+|**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085](http://arxiv.org/abs/2504.15085)|null|
+|**2025-04-21**|**Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**|Jinghua Zhao et.al.|[2504.15066](http://arxiv.org/abs/2504.15066)|null|
+|**2025-04-21**|**A Call for New Recipes to Enhance Spatial Reasoning in MLLMs**|Huanyu Zhang et.al.|[2504.15037](http://arxiv.org/abs/2504.15037)|null|
 |**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
 |**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
@@ -2660,6 +2670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**A Causal Convolutional Low-rank Representation Model for Imputation of Water Quality Data**|Xin Liao et.al.|[2504.15209](http://arxiv.org/abs/2504.15209)|null|
+|**2025-04-21**|**Dynamic 3D KAN Convolution with Adaptive Grid Optimization for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.15155](http://arxiv.org/abs/2504.15155)|null|
+|**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller et.al.|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
+|**2025-04-21**|**Bayesian Sensing for Time-Varying Channels in ISAC Systems**|Xueyang Wang et.al.|[2504.15042](http://arxiv.org/abs/2504.15042)|null|
+|**2025-04-21**|**Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning**|Dongjie Zhu et.al.|[2504.14989](http://arxiv.org/abs/2504.14989)|null|
+|**2025-04-21**|**Kernel-learning parameter prediction and evaluation in algebraic multigrid method for several PDEs**|Juan Zhang et.al.|[2504.14930](http://arxiv.org/abs/2504.14930)|null|
+|**2025-04-21**|**VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform**|Xingyu Lu et.al.|[2504.14904](http://arxiv.org/abs/2504.14904)|null|
+|**2025-04-21**|**FERMI: Flexible Radio Mapping with a Hybrid Propagation Model and Scalable Autonomous Data Collection**|Yiming Luo et.al.|[2504.14862](http://arxiv.org/abs/2504.14862)|null|
+|**2025-04-21**|**Exploring $\ell_0$ Sparsification for Inference-free Sparse Retrievers**|Xinjie Shen et.al.|[2504.14839](http://arxiv.org/abs/2504.14839)|**[link](https://github.com/zhichao-aws/opensearch-sparse-model-tuning-sample)**|
+|**2025-04-21**|**Variational quantum algorithm for the Poisson equation based on the banded Toeplitz systems**|Xiaoqi Liu et.al.|[2504.14828](http://arxiv.org/abs/2504.14828)|null|
 |**2025-04-18**|**Limiting spectral laws for sparse random circulant matrices**|Adrian Beker et.al.|[2504.13833](http://arxiv.org/abs/2504.13833)|null|
 |**2025-04-18**|**Models, Methods and Waveforms for Estimation and Prediction of Doubly Sparse Time-Varying Channels**|Wissal Benzine et.al.|[2504.13762](http://arxiv.org/abs/2504.13762)|null|
 |**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
@@ -3597,6 +3617,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992](http://arxiv.org/abs/2504.14992)|null|
+|**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|null|
+|**2025-04-20**|**Optimizing SLO-oriented LLM Serving with PD-Multiplexing**|Weihao Cui et.al.|[2504.14489](http://arxiv.org/abs/2504.14489)|null|
+|**2025-04-18**|**CAOTE: KV Caching through Attention Output Error based Token Eviction**|Raghavv Goel et.al.|[2504.14051](http://arxiv.org/abs/2504.14051)|null|
+|**2025-04-18**|**Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs**|Lucas Maisonnave et.al.|[2504.13989](http://arxiv.org/abs/2504.13989)|null|
 |**2025-04-16**|**MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models**|Junyang Zhang et.al.|[2504.12526](http://arxiv.org/abs/2504.12526)|null|
 |**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/abs/2504.12397)|null|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|**[link](https://github.com/lass-lab/InferSave)**|
