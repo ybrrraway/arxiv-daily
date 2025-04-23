@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -3619,7 +3619,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992](http://arxiv.org/abs/2504.14992)|null|
 |**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|null|
-|**2025-04-20**|**Optimizing SLO-oriented LLM Serving with PD-Multiplexing**|Weihao Cui et.al.|[2504.14489](http://arxiv.org/abs/2504.14489)|null|
+|**2025-04-22**|**Optimizing SLO-oriented LLM Serving with PD-Multiplexing**|Weihao Cui et.al.|[2504.14489](http://arxiv.org/abs/2504.14489)|null|
 |**2025-04-18**|**CAOTE: KV Caching through Attention Output Error based Token Eviction**|Raghavv Goel et.al.|[2504.14051](http://arxiv.org/abs/2504.14051)|null|
 |**2025-04-18**|**Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs**|Lucas Maisonnave et.al.|[2504.13989](http://arxiv.org/abs/2504.13989)|null|
 |**2025-04-16**|**MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models**|Junyang Zhang et.al.|[2504.12526](http://arxiv.org/abs/2504.12526)|null|
