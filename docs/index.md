@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support**|Dinithi Dissanayake et.al.|[2504.16021](http://arxiv.org/abs/2504.16021)|null|
+|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-22**|**The 2nd MERCADO Workshop at IEEE VIS 2025: Multimodal Experiences for Remote Communication Around Data Online**|Wolfgang Büschel et.al.|[2504.15859](http://arxiv.org/abs/2504.15859)|null|
+|**2025-04-22**|**Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis**|Luwei Xiao et.al.|[2504.15848](http://arxiv.org/abs/2504.15848)|null|
+|**2025-04-22**|**TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving**|Daocheng Fu et.al.|[2504.15780](http://arxiv.org/abs/2504.15780)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
+|**2025-04-22**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681](http://arxiv.org/abs/2504.15681)|null|
+|**2025-04-22**|**Multimodal Perception for Goal-oriented Navigation: A Survey**|I-Tak Ieong et.al.|[2504.15643](http://arxiv.org/abs/2504.15643)|null|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
@@ -2670,6 +2680,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
+|**2025-04-22**|**ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting**|Jian Hu et.al.|[2504.15921](http://arxiv.org/abs/2504.15921)|null|
+|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
+|**2025-04-22**|**Long-term disparities in the recovery of urban mobility after COVID-19 in Latin America**|Carmen Cabrera et.al.|[2504.15871](http://arxiv.org/abs/2504.15871)|null|
+|**2025-04-22**|**Quantum Discrete Variable Representations**|Szymon Pliś et.al.|[2504.15841](http://arxiv.org/abs/2504.15841)|null|
+|**2025-04-22**|**Transfer Learning for High-dimensional Reduced Rank Time Series Models**|Mingliang Ma Abolfazl Safikhani et.al.|[2504.15691](http://arxiv.org/abs/2504.15691)|null|
+|**2025-04-22**|**Motion-Enhanced Nonlocal Similarity Implicit Neural Representation for Infrared Dim and Small Target Detection**|Pei Liu et.al.|[2504.15665](http://arxiv.org/abs/2504.15665)|null|
+|**2025-04-21**|**Application of Deep Generative Models for Anomaly Detection in Complex Financial Transactions**|Tengda Tang et.al.|[2504.15491](http://arxiv.org/abs/2504.15491)|null|
+|**2025-04-21**|**In-context Ranking Preference Optimization**|Junda Wu et.al.|[2504.15477](http://arxiv.org/abs/2504.15477)|null|
 |**2025-04-21**|**A Causal Convolutional Low-rank Representation Model for Imputation of Water Quality Data**|Xin Liao et.al.|[2504.15209](http://arxiv.org/abs/2504.15209)|null|
 |**2025-04-21**|**Dynamic 3D KAN Convolution with Adaptive Grid Optimization for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.15155](http://arxiv.org/abs/2504.15155)|null|
 |**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller et.al.|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
@@ -3617,6 +3637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992](http://arxiv.org/abs/2504.14992)|null|
 |**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|null|
 |**2025-04-22**|**Optimizing SLO-oriented LLM Serving with PD-Multiplexing**|Weihao Cui et.al.|[2504.14489](http://arxiv.org/abs/2504.14489)|null|
