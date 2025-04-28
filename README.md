@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
 |**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
-|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
+|**2025-04-25**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
 |**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670](http://arxiv.org/abs/2504.17670)|null|
 |**2025-04-24**|**A Machine Learning Approach for Denoising and Upsampling HRTFs**|Xuyi Hu et.al.|[2504.17586](http://arxiv.org/abs/2504.17586)|null|
 |**2025-04-24**|**On the Eigenvalue Tracking of Large-Scale Systems**|Andreas Bouterakos et.al.|[2504.17571](http://arxiv.org/abs/2504.17571)|null|
@@ -992,7 +992,7 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## kv cache
 
@@ -1190,7 +1190,7 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## multimodal
 
@@ -1199,13 +1199,13 @@
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/abs/2504.17710)|null|
-|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
-|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-25**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 |**2025-04-24**|**Effective Rabi frequency in semiconductor lasers and the origin of self-starting harmonic frequency combs**|Carlo Silvestri et.al.|[2504.17527](http://arxiv.org/abs/2504.17527)|null|
 |**2025-04-24**|**FRAG: Frame Selection Augmented Generation for Long Video and Long Document Understanding**|De-An Huang et.al.|[2504.17447](http://arxiv.org/abs/2504.17447)|**[link](https://github.com/NVlabs/FRAG)**|
 |**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432](http://arxiv.org/abs/2504.17432)|null|
-|**2025-04-24**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
-|**2025-04-24**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
+|**2025-04-25**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
+|**2025-04-25**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
 |**2025-04-23**|**MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin**|Sausar Karaf et.al.|[2504.16914](http://arxiv.org/abs/2504.16914)|null|
 |**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
@@ -2167,7 +2167,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
