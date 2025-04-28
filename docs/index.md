@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
+|**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500](http://arxiv.org/abs/2504.18500)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400](http://arxiv.org/abs/2504.18400)|null|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397](http://arxiv.org/abs/2504.18397)|null|
+|**2025-04-25**|**Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints**|Shenggang Hu et.al.|[2504.18377](http://arxiv.org/abs/2504.18377)|null|
+|**2025-04-25**|**ClassComet: Exploring and Designing AI-generated Danmaku in Educational Videos to Enhance Online Learning**|Zipeng Ji et.al.|[2504.18189](http://arxiv.org/abs/2504.18189)|null|
+|**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152](http://arxiv.org/abs/2504.18152)|null|
+|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053](http://arxiv.org/abs/2504.18053)|null|
+|**2025-04-25**|**MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind**|Zheng Zhang et.al.|[2504.18039](http://arxiv.org/abs/2504.18039)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/abs/2504.17710)|null|
@@ -2700,6 +2710,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Subexponential and Parameterized Mixing Times of Glauber Dynamics on Independent Sets**|Malory Marin et.al.|[2504.18427](http://arxiv.org/abs/2504.18427)|null|
+|**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332](http://arxiv.org/abs/2504.18332)|null|
+|**2025-04-25**|**Outlier-aware Tensor Robust Principal Component Analysis with Self-guided Data Augmentation**|Yangyang Xu et.al.|[2504.18323](http://arxiv.org/abs/2504.18323)|null|
+|**2025-04-25**|**Ergodic theorems for bilinear averages, Roth's Theorem and Corners along fractional powers**|Leonidas Daskalakis et.al.|[2504.18307](http://arxiv.org/abs/2504.18307)|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300](http://arxiv.org/abs/2504.18300)|null|
+|**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273](http://arxiv.org/abs/2504.18273)|null|
+|**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253](http://arxiv.org/abs/2504.18253)|null|
+|**2025-04-25**|**Solving Partial Dominating Set and Related Problems Using Twin-Width**|Jakub Balabán et.al.|[2504.18218](http://arxiv.org/abs/2504.18218)|null|
+|**2025-04-25**|**Numerical Generalized Randomized Hamiltonian Monte Carlo for piecewise smooth target densities**|Jimmy Huy Tran et.al.|[2504.18210](http://arxiv.org/abs/2504.18210)|null|
+|**2025-04-25**|**Fully Dynamic Algorithms for Transitive Reduction**|Gramoz Goranci et.al.|[2504.18161](http://arxiv.org/abs/2504.18161)|null|
 |**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
 |**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
 |**2025-04-25**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
