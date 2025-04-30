@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
 |**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
-|**2025-04-28**|**Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data**|Yifan Gu et.al.|[2504.19924](http://arxiv.org/abs/2504.19924)|null|
+|**2025-04-29**|**Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data**|Yifan Gu et.al.|[2504.19924](http://arxiv.org/abs/2504.19924)|null|
 |**2025-04-28**|**STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction**|Zhimin Liao et.al.|[2504.19749](http://arxiv.org/abs/2504.19749)|null|
 |**2025-04-28**|**Advances in Approximate Bayesian Inference for Models in Epidemiology**|Xiahui Li et.al.|[2504.19698](http://arxiv.org/abs/2504.19698)|null|
 |**2025-04-28**|**Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR**|Baoshun Shi et.al.|[2504.19687](http://arxiv.org/abs/2504.19687)|null|
@@ -1012,7 +1012,7 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## kv cache
 
@@ -1213,13 +1213,13 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
+|**2025-04-29**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
 |**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007](http://arxiv.org/abs/2504.20007)|null|
 |**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
@@ -2210,7 +2210,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1176,7 +1176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
+|**2025-04-29**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
 |**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007](http://arxiv.org/abs/2504.20007)|null|
 |**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
@@ -2722,7 +2722,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
 |**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
-|**2025-04-28**|**Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data**|Yifan Gu et.al.|[2504.19924](http://arxiv.org/abs/2504.19924)|null|
+|**2025-04-29**|**Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data**|Yifan Gu et.al.|[2504.19924](http://arxiv.org/abs/2504.19924)|null|
 |**2025-04-28**|**STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction**|Zhimin Liao et.al.|[2504.19749](http://arxiv.org/abs/2504.19749)|null|
 |**2025-04-28**|**Advances in Approximate Bayesian Inference for Models in Epidemiology**|Xiahui Li et.al.|[2504.19698](http://arxiv.org/abs/2504.19698)|null|
 |**2025-04-28**|**Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR**|Baoshun Shi et.al.|[2504.19687](http://arxiv.org/abs/2504.19687)|null|
