@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
+|**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
+|**2025-04-29**|**A Complete Characterization of Passive Unitary Normalizable (PUN) Gaussian States**|Tiju Cherian John et.al.|[2504.20979](http://arxiv.org/abs/2504.20979)|null|
+|**2025-04-29**|**Energy-Based Coarse-Graining in Molecular Dynamics: A Flow-Based Framework Without Data**|Maximilian Stupp et.al.|[2504.20940](http://arxiv.org/abs/2504.20940)|null|
+|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
+|**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
+|**2025-04-29**|**CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation**|Jianyu Wu et.al.|[2504.20830](http://arxiv.org/abs/2504.20830)|null|
+|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730](http://arxiv.org/abs/2504.20730)|null|
+|**2025-04-29**|**DICOM Compatible, 3D Multimodality Image Encryption using Hyperchaotic Signal**|Anandik N Anand et.al.|[2504.20689](http://arxiv.org/abs/2504.20689)|null|
+|**2025-04-29**|**ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting**|Yu Zhang et.al.|[2504.20630](http://arxiv.org/abs/2504.20630)|null|
 |**2025-04-29**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
 |**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007](http://arxiv.org/abs/2504.20007)|null|
@@ -2720,6 +2730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966](http://arxiv.org/abs/2504.20966)|null|
+|**2025-04-29**|**Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition**|Zhengfu He et.al.|[2504.20938](http://arxiv.org/abs/2504.20938)|null|
+|**2025-04-29**|**Bayesian Deep End-to-End Learning for MIMO-OFDM System with Delay-Domain Sparse Precoder**|Nilesh Kumar Jha et.al.|[2504.20777](http://arxiv.org/abs/2504.20777)|null|
+|**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[2504.20763](http://arxiv.org/abs/2504.20763)|null|
+|**2025-04-29**|**Grokking in the Wild: Data Augmentation for Real-World Multi-Hop Reasoning with Transformers**|Roman Abramov et.al.|[2504.20752](http://arxiv.org/abs/2504.20752)|null|
+|**2025-04-29**|**Inference of high-dimensional weak instrumental variable regression models without ridge-regularization**|Jiarong Ding et.al.|[2504.20686](http://arxiv.org/abs/2504.20686)|null|
+|**2025-04-29**|**SFi-Former: Sparse Flow Induced Attention for Graph Transformer**|Zhonghao Li et.al.|[2504.20666](http://arxiv.org/abs/2504.20666)|null|
+|**2025-04-29**|**Quantum-Assisted Tomographic Image Refinement with Limited Qubits for High-Resolution Imaging**|Hyunju Lee et.al.|[2504.20654](http://arxiv.org/abs/2504.20654)|null|
+|**2025-04-29**|**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**|Yichu Xu et.al.|[2504.20509](http://arxiv.org/abs/2504.20509)|null|
+|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
 |**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
 |**2025-04-29**|**Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data**|Yifan Gu et.al.|[2504.19924](http://arxiv.org/abs/2504.19924)|null|
