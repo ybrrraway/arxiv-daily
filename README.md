@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692](http://arxiv.org/abs/2505.03692)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Rational Retrieval Acts: Leveraging Pragmatic Reasoning to Improve Sparse Retrieval**|Arthur Satouf et.al.|[2505.03676](http://arxiv.org/abs/2505.03676)|**[link](https://github.com/arthur-75/Rational-Retrieval-Acts)**|
+|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
+|**2025-05-06**|**Prediction Models That Learn to Avoid Missing Values**|Lena Stempfle et.al.|[2505.03393](http://arxiv.org/abs/2505.03393)|null|
+|**2025-05-06**|**Geospatial Mechanistic Interpretability of Large Language Models**|Stef De Sabbata et.al.|[2505.03368](http://arxiv.org/abs/2505.03368)|**[link](https://github.com/sdesabbata/geospatial-mechanistic-interpretability)**|
+|**2025-05-06**|**IAFormer: Interaction-Aware Transformer network for collider data analysis**|W. Esmail et.al.|[2505.03258](http://arxiv.org/abs/2505.03258)|null|
+|**2025-05-06**|**TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion**|Haoyue Liu et.al.|[2505.03116](http://arxiv.org/abs/2505.03116)|null|
+|**2025-05-05**|**Fabrication-Directed Entanglement for Designing Chiral and Anisotropic Metamaterial Foams**|Daniel Revier et.al.|[2505.03064](http://arxiv.org/abs/2505.03064)|null|
+|**2025-05-05**|**Variational diffusion transformers for conditional sampling of supernovae spectra**|Yunyi Shen et.al.|[2505.03063](http://arxiv.org/abs/2505.03063)|null|
 |**2025-05-05**|**A Unifying Framework to Enable Artificial Intelligence in High Performance Computing Workflows**|Jens Domke et.al.|[2505.02738](http://arxiv.org/abs/2505.02738)|null|
 |**2025-05-05**|**DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2505.02628](http://arxiv.org/abs/2505.02628)|null|
 |**2025-05-05**|**DELTA: Dense Depth from Events and LiDAR using Transformer's Attention**|Vincent Brebion et.al.|[2505.02593](http://arxiv.org/abs/2505.02593)|null|
@@ -1068,6 +1078,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
 |**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
@@ -1272,6 +1283,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734](http://arxiv.org/abs/2505.03734)|null|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
+|**2025-05-06**|**IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages**|Sharvi Endait et.al.|[2505.03688](http://arxiv.org/abs/2505.03688)|null|
+|**2025-05-06**|**Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation**|Yihang Wang et.al.|[2505.03652](http://arxiv.org/abs/2505.03652)|null|
+|**2025-05-06**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|null|
+|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
+|**2025-05-06**|**OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**|Mariya Davydova et.al.|[2505.03570](http://arxiv.org/abs/2505.03570)|null|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
+|**2025-05-06**|**1 $^{st}$ Place Solution of WWW 2025 EReL@MIR Workshop Multimodal CTR Prediction Challenge**|Junwei Xu et.al.|[2505.03543](http://arxiv.org/abs/2505.03543)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
 |**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830](http://arxiv.org/abs/2505.02830)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
