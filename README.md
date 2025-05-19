@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442](http://arxiv.org/abs/2505.10442)|null|
 |**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
-|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|
+|**2025-05-16**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|
 |**2025-05-15**|**Electric Bus Charging Schedules Relying on Real Data-Driven Targets Based on Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10262](http://arxiv.org/abs/2505.10262)|null|
 |**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120](http://arxiv.org/abs/2505.10120)|null|
 |**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109](http://arxiv.org/abs/2505.10109)|null|
@@ -1142,7 +1142,7 @@
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328](http://arxiv.org/abs/2411.18328)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 
-<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## kv cache
 
@@ -1352,7 +1352,7 @@
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 
-<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## multimodal
 
@@ -2479,7 +2479,7 @@
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**|Shimin Chen et.al.|[2411.18211](http://arxiv.org/abs/2411.18211)|**[link](https://github.com/timemarker-llm/timemarker)**|
 
-<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

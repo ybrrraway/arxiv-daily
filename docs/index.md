@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2855,7 +2855,7 @@ layout: default
 |**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442](http://arxiv.org/abs/2505.10442)|null|
 |**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
-|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|
+|**2025-05-16**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|
 |**2025-05-15**|**Electric Bus Charging Schedules Relying on Real Data-Driven Targets Based on Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10262](http://arxiv.org/abs/2505.10262)|null|
 |**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120](http://arxiv.org/abs/2505.10120)|null|
 |**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109](http://arxiv.org/abs/2505.10109)|null|
