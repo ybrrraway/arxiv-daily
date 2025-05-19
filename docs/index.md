@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Mechanistic inference of stochastic gene expression from structured single-cell data**|Christopher E. Miles et.al.|[2505.11460](http://arxiv.org/abs/2505.11460)|null|
+|**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454](http://arxiv.org/abs/2505.11454)|null|
+|**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
+|**2025-05-16**|**Visual Planning: Let's Think Only with Images**|Yi Xu et.al.|[2505.11409](http://arxiv.org/abs/2505.11409)|null|
+|**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
+|**2025-05-16**|**Wave turbulence, thermalization and multimode locking in optical fibers**|M. Ferraro et.al.|[2505.11299](http://arxiv.org/abs/2505.11299)|null|
+|**2025-05-16**|**Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining**|Raghuveer Thirukovalluru et.al.|[2505.11293](http://arxiv.org/abs/2505.11293)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/abs/2505.10541)|**[link](https://github.com/welldonepf/stme)**|
@@ -2850,6 +2860,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis**|Yuan-Zheng Lei et.al.|[2505.11491](http://arxiv.org/abs/2505.11491)|null|
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
+|**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
+|**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
+|**2025-05-16**|**The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems**|Petr Kasalický et.al.|[2505.11388](http://arxiv.org/abs/2505.11388)|null|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**STRIDE: Sparse Techniques for Regression in Deep Gaussian Processes**|Simon Urbainczyk et.al.|[2505.11355](http://arxiv.org/abs/2505.11355)|null|
+|**2025-05-16**|**Depth first representations of $k^2$ -trees**|Gabriel Carmona et.al.|[2505.11302](http://arxiv.org/abs/2505.11302)|null|
+|**2025-05-16**|**Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining**|Raghuveer Thirukovalluru et.al.|[2505.11293](http://arxiv.org/abs/2505.11293)|null|
+|**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267](http://arxiv.org/abs/2505.11267)|null|
 |**2025-05-15**|**Variational Seasonal-Trend Decomposition with Sparse Continuous-Domain Regularization**|Julien Fageot et.al.|[2505.10486](http://arxiv.org/abs/2505.10486)|null|
 |**2025-05-15**|**A possible periodic RM evolution in the repeating FRB 20220529**|Yi-Fang Liang et.al.|[2505.10463](http://arxiv.org/abs/2505.10463)|null|
 |**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442](http://arxiv.org/abs/2505.10442)|null|
@@ -3977,6 +3997,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|null|
+|**2025-05-16**|**Accurate KV Cache Quantization with Outlier Tokens Tracing**|Yi Su et.al.|[2505.10938](http://arxiv.org/abs/2505.10938)|null|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
