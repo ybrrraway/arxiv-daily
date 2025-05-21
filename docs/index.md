@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2872,8 +2872,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**On expectations and variances in the hard-core model on bounded degree graphs**|Ewan Davies et.al.|[2505.13396](http://arxiv.org/abs/2505.13396)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|**[link](https://github.com/fsoft-aic/competesmoe)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
 |**2025-05-19**|**GMM-Based Comprehensive Feature Extraction and Relative Distance Preservation For Few-Shot Cross-Modal Retrieval**|Chengsong Sun et.al.|[2505.13306](http://arxiv.org/abs/2505.13306)|null|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293](http://arxiv.org/abs/2505.13293)|null|
 |**2025-05-19**|**Rapidly Varying Completely Random Measures for Modeling Extremely Sparse Networks**|Valentin Kilian et.al.|[2505.13206](http://arxiv.org/abs/2505.13206)|null|
