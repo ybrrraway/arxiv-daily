@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
+|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001](http://arxiv.org/abs/2505.17001)|null|
+|**2025-05-22**|**Fast Low Energy Reconstruction using Convolutional Neural Networks**|IceCube Collaboration et.al.|[2505.16777](http://arxiv.org/abs/2505.16777)|null|
+|**2025-05-22**|**Maximum Total Correlation Reinforcement Learning**|Bang You et.al.|[2505.16734](http://arxiv.org/abs/2505.16734)|null|
+|**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725](http://arxiv.org/abs/2505.16725)|null|
+|**2025-05-22**|**R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**|Huanjin Yao et.al.|[2505.16673](http://arxiv.org/abs/2505.16673)|null|
+|**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665](http://arxiv.org/abs/2505.16665)|null|
+|**2025-05-22**|**Steering Large Language Models for Machine Translation Personalization**|Daniel Scalena et.al.|[2505.16612](http://arxiv.org/abs/2505.16612)|null|
+|**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535](http://arxiv.org/abs/2505.16535)|null|
 |**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
 |**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791](http://arxiv.org/abs/2505.15791)|null|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
@@ -1188,9 +1198,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|null|
+|**2025-05-22**|**NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics**|Zhihang Cai et.al.|[2505.16210](http://arxiv.org/abs/2505.16210)|null|
+|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|null|
 |**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
 |**2025-05-21**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|null|
-|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|null|
+|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|**[link](https://github.com/TAP-LLM/SplitFedLLM)**|
 |**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
 |**2025-05-21**|**FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management**|Xiang Liu et.al.|[2505.15347](http://arxiv.org/abs/2505.15347)|null|
 |**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269](http://arxiv.org/abs/2505.15269)|null|
@@ -1415,6 +1429,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012](http://arxiv.org/abs/2505.17012)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
+|**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002](http://arxiv.org/abs/2505.17002)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|null|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985](http://arxiv.org/abs/2505.16985)|null|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
+|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976](http://arxiv.org/abs/2505.16976)|null|
 |**2025-05-21**|**Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM**|Penghao Wu et.al.|[2505.15816](http://arxiv.org/abs/2505.15816)|**[link](https://github.com/penghao-wu/proxyv)**|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
 |**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
