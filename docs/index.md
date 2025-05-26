@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
+|**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117](http://arxiv.org/abs/2505.18117)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**|Bryan Wong et.al.|[2505.17982](http://arxiv.org/abs/2505.17982)|null|
+|**2025-05-23**|**T2I-Eval-R1: Reinforcement Learning-Driven Reasoning for Interpretable Text-to-Image Evaluation**|Zi-Ao Ma et.al.|[2505.17897](http://arxiv.org/abs/2505.17897)|null|
+|**2025-05-23**|**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**|Ziwei Zhou et.al.|[2505.17862](http://arxiv.org/abs/2505.17862)|**[link](https://github.com/lliar-liar/daily-omni)**|
+|**2025-05-23**|**TEDI: Trustworthy and Ethical Dataset Indicators to Analyze and Compare Dataset Documentation**|Wiebke Hutiri et.al.|[2505.17841](http://arxiv.org/abs/2505.17841)|null|
+|**2025-05-23**|**VLM Models and Automated Grading of Atopic Dermatitis**|Marc Lalonde et.al.|[2505.17835](http://arxiv.org/abs/2505.17835)|null|
+|**2025-05-23**|**Searching for extreme mass ratio inspirals in LISA: from identification to parameter estimation**|Stefan H. Strub et.al.|[2505.17814](http://arxiv.org/abs/2505.17814)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|**[link](https://github.com/mbzuai-oryx/arb)**|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
@@ -2900,6 +2910,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051](http://arxiv.org/abs/2505.18051)|null|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
+|**2025-05-23**|**A variational quantum eigensolver tailored to multi-band tight-binding simulations of electronic structures**|Dongkeun Lee et.al.|[2505.18027](http://arxiv.org/abs/2505.18027)|null|
+|**2025-05-23**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2505.17997](http://arxiv.org/abs/2505.17997)|null|
+|**2025-05-23**|**KITINet: Kinetics Theory Inspired Network Architectures with PDE Simulation Approaches**|Mingquan Feng et.al.|[2505.17919](http://arxiv.org/abs/2505.17919)|null|
+|**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909](http://arxiv.org/abs/2505.17909)|null|
+|**2025-05-23**|**Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning**|Yan Zhong et.al.|[2505.17875](http://arxiv.org/abs/2505.17875)|null|
+|**2025-05-23**|**The emergence of sparse attention: impact of data distribution and benefits of repetition**|Nicolas Zucchet et.al.|[2505.17863](http://arxiv.org/abs/2505.17863)|null|
+|**2025-05-23**|**A sparse $hp$ -finite element method for piecewise-smooth differential equations with periodic boundary conditions**|Daniel VandenHeuvel et.al.|[2505.17849](http://arxiv.org/abs/2505.17849)|null|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001](http://arxiv.org/abs/2505.17001)|null|
@@ -4077,6 +4097,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration**|Peilin Chen et.al.|[2505.17787](http://arxiv.org/abs/2505.17787)|null|
+|**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
+|**2025-05-22**|**ECHO-LLaMA: Efficient Caching for High-Performance LLaMA Training**|Maryam Dialameh et.al.|[2505.17331](http://arxiv.org/abs/2505.17331)|null|
+|**2025-05-22**|**Zebra-Llama: Towards Extremely Efficient Hybrid Models**|Mingyu Yang et.al.|[2505.17272](http://arxiv.org/abs/2505.17272)|null|
+|**2025-05-22**|**RAP: Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|null|
+|**2025-05-22**|**Robustifying Vision-Language Models via Dynamic Token Reweighting**|Tanqiu Jiang et.al.|[2505.17132](http://arxiv.org/abs/2505.17132)|null|
 |**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|null|
 |**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
 |**2025-05-22**|**NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics**|Zhihang Cai et.al.|[2505.16210](http://arxiv.org/abs/2505.16210)|null|
