@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156](http://arxiv.org/abs/2505.20156)|null|
+|**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152](http://arxiv.org/abs/2505.20152)|null|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
+|**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106](http://arxiv.org/abs/2505.20106)|null|
+|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
+|**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038](http://arxiv.org/abs/2505.20038)|null|
+|**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
+|**2025-05-26**|**Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)**|Subba Reddy Oota et.al.|[2505.20029](http://arxiv.org/abs/2505.20029)|null|
 |**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
 |**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117](http://arxiv.org/abs/2505.18117)|null|
 |**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
@@ -2910,6 +2920,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning**|Thang Nguyen et.al.|[2505.20096](http://arxiv.org/abs/2505.20096)|null|
+|**2025-05-26**|**SAEs Are Good for Steering -- If You Select the Right Features**|Dana Arad et.al.|[2505.20063](http://arxiv.org/abs/2505.20063)|null|
+|**2025-05-26**|**TabPFN: One Model to Rule Them All?**|Qiong Zhang et.al.|[2505.20003](http://arxiv.org/abs/2505.20003)|null|
+|**2025-05-26**|**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**|Zhongzhan Huang et.al.|[2505.19959](http://arxiv.org/abs/2505.19959)|null|
+|**2025-05-26**|**Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models**|Huan Zhang et.al.|[2505.19943](http://arxiv.org/abs/2505.19943)|null|
+|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938](http://arxiv.org/abs/2505.19938)|null|
+|**2025-05-26**|**Logic Gate Neural Networks are Good for Verification**|Fabian Kresse et.al.|[2505.19932](http://arxiv.org/abs/2505.19932)|null|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-26**|**DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning**|Leander Diaz-Bone et.al.|[2505.19850](http://arxiv.org/abs/2505.19850)|null|
+|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
 |**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051](http://arxiv.org/abs/2505.18051)|null|
 |**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
@@ -4097,6 +4117,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression**|Kunjun Li et.al.|[2505.19602](http://arxiv.org/abs/2505.19602)|null|
+|**2025-05-26**|**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization**|Dingyu Yao et.al.|[2505.19586](http://arxiv.org/abs/2505.19586)|null|
+|**2025-05-24**|**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs**|Tengxuan Liu et.al.|[2505.18610](http://arxiv.org/abs/2505.18610)|null|
+|**2025-05-24**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|null|
+|**2025-05-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al.|[2505.18231](http://arxiv.org/abs/2505.18231)|null|
 |**2025-05-23**|**Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration**|Peilin Chen et.al.|[2505.17787](http://arxiv.org/abs/2505.17787)|null|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
 |**2025-05-22**|**ECHO-LLaMA: Efficient Caching for High-Performance LLaMA Training**|Maryam Dialameh et.al.|[2505.17331](http://arxiv.org/abs/2505.17331)|null|
