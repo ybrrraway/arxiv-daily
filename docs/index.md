@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**Quantum Acoustics with Tunable Nonlinearity in the Superstrong Coupling Regime**|Marco Scigliuzzo et.al.|[2505.24865](http://arxiv.org/abs/2505.24865)|null|
+|**2025-05-30**|**Reading Recognition in the Wild**|Charig Yang et.al.|[2505.24848](http://arxiv.org/abs/2505.24848)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
+|**2025-05-30**|**FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**|Junyu Luo et.al.|[2505.24714](http://arxiv.org/abs/2505.24714)|null|
+|**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625](http://arxiv.org/abs/2505.24625)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
 |**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
@@ -2957,6 +2967,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784](http://arxiv.org/abs/2505.24784)|null|
+|**2025-05-30**|**Robust Distributed Phase Retrieval for Multi-View Compressive Networked Sensing With Outliers**|Ming-Hsun Yang et.al.|[2505.24651](http://arxiv.org/abs/2505.24651)|null|
+|**2025-05-30**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
+|**2025-05-30**|**Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems**|Abhishek Chandra et.al.|[2505.24578](http://arxiv.org/abs/2505.24578)|null|
+|**2025-05-30**|**Enhancing the Accuracy of Spatio-Temporal Models for Wind Speed Prediction by Incorporating Bias-Corrected Crowdsourced Data**|Eamonn Organ et.al.|[2505.24506](http://arxiv.org/abs/2505.24506)|null|
+|**2025-05-30**|**Train One Sparse Autoencoder Across Multiple Sparsity Budgets to Preserve Interpretability and Accuracy**|Nikita Balagansky et.al.|[2505.24473](http://arxiv.org/abs/2505.24473)|null|
+|**2025-05-30**|**SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization**|Jin Wang et.al.|[2505.24437](http://arxiv.org/abs/2505.24437)|null|
+|**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
+|**2025-05-30**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
+|**2025-05-30**|**KEVER^2: Knowledge-Enhanced Visual Emotion Reasoning and Retrieval**|Fanhang Man et.al.|[2505.24342](http://arxiv.org/abs/2505.24342)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-29**|**Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**|Jan Glaubitz et.al.|[2505.23753](http://arxiv.org/abs/2505.23753)|**[link](https://github.com/jglaubitz/paper-2025-sbl-priornormalization)**|
@@ -4187,6 +4207,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|null|
+|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-05-30**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|null|
+|**2025-05-30**|**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**|Zefan Cai et.al.|[2505.24133](http://arxiv.org/abs/2505.24133)|null|
+|**2025-05-30**|**SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|null|
+|**2025-05-29**|**EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving**|Yuyang Tian et.al.|[2505.23970](http://arxiv.org/abs/2505.23970)|null|
 |**2025-05-29**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416](http://arxiv.org/abs/2505.23416)|**[link](https://github.com/snu-mllab/kvzip)**|
 |**2025-05-28**|**Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference**|Donghyeon Joo et.al.|[2505.22913](http://arxiv.org/abs/2505.22913)|**[link](https://github.com/dhjoo98/mustafar)**|
 |**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
