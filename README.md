@@ -1262,7 +1262,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|null|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|null|
 |**2025-05-30**|**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**|Zefan Cai et.al.|[2505.24133](http://arxiv.org/abs/2505.24133)|null|
 |**2025-05-30**|**SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|null|
