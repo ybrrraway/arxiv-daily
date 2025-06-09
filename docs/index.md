@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -2998,7 +2998,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
-|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/abs/2506.05333)|null|
+|**2025-06-06**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/abs/2506.05333)|null|
 |**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
 |**2025-06-05**|**Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach**|Shaoxuan Chen et.al.|[2506.05245](http://arxiv.org/abs/2506.05245)|null|
