@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
+|**2025-06-09**|**Orbit dimensions in linear and Gaussian quantum optics**|Eliott Z. Mamon et.al.|[2506.07995](http://arxiv.org/abs/2506.07995)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
+|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
 |**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251](http://arxiv.org/abs/2506.06251)|null|
 |**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242](http://arxiv.org/abs/2506.06242)|null|
@@ -3007,6 +3017,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Mediation Analysis for Sparse and Irregularly Spaced Longitudinal Outcomes with Application to the MrOS Sleep Study**|Rui Ren et.al.|[2506.07953](http://arxiv.org/abs/2506.07953)|null|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
+|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|null|
+|**2025-06-09**|**MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs**|Ke Wang et.al.|[2506.07899](http://arxiv.org/abs/2506.07899)|null|
+|**2025-06-09**|**Lengthscale-informed sparse grids for kernel methods in high dimensions**|Elliot J. Addy et.al.|[2506.07797](http://arxiv.org/abs/2506.07797)|null|
+|**2025-06-09**|**Heavy Lasso: sparse penalized regression under heavy-tailed noise via data-augmented soft-thresholding**|The Tien Mai et.al.|[2506.07790](http://arxiv.org/abs/2506.07790)|null|
+|**2025-06-09**|**Refuting Perfect Matchings in Spectral Expanders is Hard**|Ari Biswas et.al.|[2506.07700](http://arxiv.org/abs/2506.07700)|null|
+|**2025-06-09**|**Training Superior Sparse Autoencoders for Instruct Models**|Jiaming Li et.al.|[2506.07691](http://arxiv.org/abs/2506.07691)|null|
+|**2025-06-09**|**ProSplat: Improved Feed-Forward 3D Gaussian Splatting for Wide-Baseline Sparse Views**|Xiaohan Lu et.al.|[2506.07670](http://arxiv.org/abs/2506.07670)|null|
 |**2025-06-06**|**An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds**|Siyu Chen et.al.|[2506.06259](http://arxiv.org/abs/2506.06259)|null|
 |**2025-06-06**|**Venus Cloud Research: Progress and Perspectives**|Longkang Dai et.al.|[2506.06164](http://arxiv.org/abs/2506.06164)|null|
 |**2025-06-06**|**Bidirectional Image-Event Guided Low-Light Image Enhancement**|Zhanwen Liu et.al.|[2506.06120](http://arxiv.org/abs/2506.06120)|null|
@@ -4287,7 +4307,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
+|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
+|**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
+|**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|null|
+|**2025-06-08**|**Paged Attention Meets FlexAttention: Unlocking Long-Context Efficiency in Deployed Inference**|Thomas Joshi et.al.|[2506.07311](http://arxiv.org/abs/2506.07311)|null|
+|**2025-06-09**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
 |**2025-06-04**|**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs**|Wanyun Cui et.al.|[2506.05410](http://arxiv.org/abs/2506.05410)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
 |**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
