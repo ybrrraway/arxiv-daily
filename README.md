@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
+|**2025-06-10**|**SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**|Yizhao Gao et.al.|[2506.08889](http://arxiv.org/abs/2506.08889)|null|
+|**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
+|**2025-06-10**|**Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports**|Sidhika Balachandar et.al.|[2506.08740](http://arxiv.org/abs/2506.08740)|null|
+|**2025-06-10**|**Exploration by Random Reward Perturbation**|Haozhe Ma et.al.|[2506.08737](http://arxiv.org/abs/2506.08737)|null|
+|**2025-06-10**|**sparseGeoHOPCA: A Geometric Solution to Sparse Higher-Order PCA Without Covariance Estimation**|Renjie Xu et.al.|[2506.08670](http://arxiv.org/abs/2506.08670)|null|
+|**2025-06-10**|**k-Planar and Fan-Crossing Drawings and Transductions of Planar Graphs**|Petr Hliněný et.al.|[2506.08585](http://arxiv.org/abs/2506.08585)|null|
+|**2025-06-10**|**Optimization over Sparse Support-Preserving Sets: Two-Step Projection with Global Optimality Guarantees**|William de Vazelhes et.al.|[2506.08558](http://arxiv.org/abs/2506.08558)|null|
+|**2025-06-10**|**RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation**|Taiqin Chen et.al.|[2506.08418](http://arxiv.org/abs/2506.08418)|null|
+|**2025-06-10**|**Composite Optimization with Indicator Functions: Stationary Duality and a Semismooth Newton Method**|Penghe Zhang et.al.|[2506.08374](http://arxiv.org/abs/2506.08374)|null|
 |**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
 |**2025-06-09**|**Mediation Analysis for Sparse and Irregularly Spaced Longitudinal Outcomes with Application to the MrOS Sleep Study**|Rui Ren et.al.|[2506.07953](http://arxiv.org/abs/2506.07953)|null|
 |**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
@@ -1311,6 +1321,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|null|
@@ -1588,6 +1599,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990](http://arxiv.org/abs/2506.08990)|null|
+|**2025-06-10**|**Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System**|Yuan Guo et.al.|[2506.08972](http://arxiv.org/abs/2506.08972)|null|
+|**2025-06-10**|**BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models**|Amina Mollaysa et.al.|[2506.08936](http://arxiv.org/abs/2506.08936)|null|
+|**2025-06-10**|**What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities**|Wendong Bu et.al.|[2506.08933](http://arxiv.org/abs/2506.08933)|null|
+|**2025-06-10**|**MIRAGE: Multimodal foundation model and benchmark for comprehensive retinal OCT image analysis**|José Morano et.al.|[2506.08900](http://arxiv.org/abs/2506.08900)|null|
+|**2025-06-10**|**Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams**|Tauhid Tanjim et.al.|[2506.08892](http://arxiv.org/abs/2506.08892)|null|
+|**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
+|**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
+|**2025-06-10**|**Multimodal Representation Alignment for Cross-modal Information Retrieval**|Fan Xu et.al.|[2506.08774](http://arxiv.org/abs/2506.08774)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
