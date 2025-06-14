@@ -3054,7 +3054,7 @@ layout: default
 |**2025-06-12**|**Faster CONGEST Approximation Algorithms for Maximum Weighted Independent Set in Sparse Graphs**|Salwa Faour et.al.|[2506.10845](http://arxiv.org/abs/2506.10845)|null|
 |**2025-06-12**|**Advanced fraud detection using machine learning models: enhancing financial transaction security**|Nudrat Fariha et.al.|[2506.10842](http://arxiv.org/abs/2506.10842)|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813](http://arxiv.org/abs/2506.10813)|null|
-|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|null|
+|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|**[link](https://github.com/terrierteam/pyterrier_rag)**|
 |**2025-06-12**|**Size-adaptive Hypothesis Testing for Fairness**|Antonio Ferrara et.al.|[2506.10586](http://arxiv.org/abs/2506.10586)|null|
 |**2025-06-12**|**Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture**|Chengxu Zuo et.al.|[2506.10580](http://arxiv.org/abs/2506.10580)|null|
 |**2025-06-11**|**Resa: Transparent Reasoning Models via SAEs**|Shangshang Wang et.al.|[2506.09967](http://arxiv.org/abs/2506.09967)|null|
