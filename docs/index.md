@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
+|**2025-06-13**|**Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients**|Chapa Sirithunge et.al.|[2506.11906](http://arxiv.org/abs/2506.11906)|null|
+|**2025-06-13**|**MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser**|Armina Fani et.al.|[2506.11860](http://arxiv.org/abs/2506.11860)|null|
+|**2025-06-13**|**Bistable random momentum transfer in a linear on-chip resonator**|Tingyi Gu et.al.|[2506.11859](http://arxiv.org/abs/2506.11859)|null|
+|**2025-06-13**|**3D Skin Segmentation Methods in Medical Imaging: A Comparison**|Martina Paccini et.al.|[2506.11852](http://arxiv.org/abs/2506.11852)|null|
+|**2025-06-13**|**Auditory-Tactile Congruence for Synthesis of Adaptive Pain Expressions in RoboPatients**|Saitarun Nadipineni et.al.|[2506.11827](http://arxiv.org/abs/2506.11827)|null|
+|**2025-06-13**|**Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?**|Simeon Junker et.al.|[2506.11807](http://arxiv.org/abs/2506.11807)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization**|Wenqi Liu et.al.|[2506.11712](http://arxiv.org/abs/2506.11712)|null|
 |**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
 |**2025-06-13**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
 |**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955](http://arxiv.org/abs/2506.10955)|null|
@@ -3047,6 +3057,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
+|**2025-06-13**|**A DC-Reformulation for Gradient- $L^0$ -Constrained Problems in Function Spaces**|Bastian Dittrich et.al.|[2506.11917](http://arxiv.org/abs/2506.11917)|null|
+|**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
+|**2025-06-13**|**Learning to Integrate**|Oliver G. Ernst et.al.|[2506.11801](http://arxiv.org/abs/2506.11801)|null|
+|**2025-06-13**|**SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation**|Markus Gambietz et.al.|[2506.11786](http://arxiv.org/abs/2506.11786)|null|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
+|**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
+|**2025-06-13**|**Practical colinear chaining on sequences revisited**|Nicola Rizzo et.al.|[2506.11750](http://arxiv.org/abs/2506.11750)|null|
+|**2025-06-13**|**Fusion of multi-source precipitation records via coordinate-based generative model**|Sencan Sun et.al.|[2506.11698](http://arxiv.org/abs/2506.11698)|null|
+|**2025-06-13**|**Greed is slow on sparse graphs of oriented valued constraints**|Artem Kaznatcheev et.al.|[2506.11662](http://arxiv.org/abs/2506.11662)|null|
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|null|
 |**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
 |**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875](http://arxiv.org/abs/2506.10875)|null|
@@ -4367,6 +4387,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
+|**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
+|**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-11**|**Latent Multi-Head Attention for Small Language Models**|Sushant Mehta et.al.|[2506.09342](http://arxiv.org/abs/2506.09342)|null|
 |**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|null|
