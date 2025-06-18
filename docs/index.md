@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -3072,7 +3072,7 @@ layout: default
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
 |**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440](http://arxiv.org/abs/2506.13440)|null|
 |**2025-06-16**|**Delving Into the Psychology of Machines: Exploring the Structure of Self-Regulated Learning via LLM-Generated Survey Responses**|Leonie V. D. E. Vogelsmeier et.al.|[2506.13384](http://arxiv.org/abs/2506.13384)|null|
-|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369](http://arxiv.org/abs/2506.13369)|null|
+|**2025-06-17**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369](http://arxiv.org/abs/2506.13369)|null|
 |**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345](http://arxiv.org/abs/2506.13345)|null|
 |**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|null|
 |**2025-06-16**|**The Mixed-Sparse-Smooth-Model Toolbox (MSSM): Efficient Estimation and Selection of Large Multi-Level Statistical Models**|Joshua Krause et.al.|[2506.13132](http://arxiv.org/abs/2506.13132)|null|
