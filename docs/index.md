@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
+|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696](http://arxiv.org/abs/2506.14696)|null|
+|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629](http://arxiv.org/abs/2506.14629)|null|
+|**2025-06-17**|**Exploring MLLMs Perception of Network Visualization Principles**|Jacob Miller et.al.|[2506.14611](http://arxiv.org/abs/2506.14611)|null|
+|**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532](http://arxiv.org/abs/2506.14532)|null|
+|**2025-06-17**|**I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs**|Yu Qi et.al.|[2506.14495](http://arxiv.org/abs/2506.14495)|null|
+|**2025-06-17**|**LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops**|Jiyuan Fu et.al.|[2506.14493](http://arxiv.org/abs/2506.14493)|null|
+|**2025-06-17**|**Dense360: Dense Understanding from Omnidirectional Panoramas**|Yikang Zhou et.al.|[2506.14471](http://arxiv.org/abs/2506.14471)|null|
+|**2025-06-17**|**Polarization switching on the open surfaces of the wurtzite ferroelectric nitrides: ferroelectric subsystems and electrochemical reactivity**|Yongtao Liu et.al.|[2506.14452](http://arxiv.org/abs/2506.14452)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
@@ -3067,6 +3077,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
+|**2025-06-17**|**SkinCells: Sparse Skinning using Voronoi Cells**|Egor Larionov et.al.|[2506.14714](http://arxiv.org/abs/2506.14714)|null|
+|**2025-06-17**|**250 Magnetic Tunnel Junctions-Based Probabilistic Ising Machine**|Shuhan Yang et.al.|[2506.14590](http://arxiv.org/abs/2506.14590)|null|
+|**2025-06-17**|**QUEST: Quality-aware Semi-supervised Table Extraction for Business Documents**|Eliott Thomas et.al.|[2506.14568](http://arxiv.org/abs/2506.14568)|null|
+|**2025-06-17**|**Bayesian Hybrid Machine Learning of Gallstone Risk**|Chitradipa Chakraborty et.al.|[2506.14561](http://arxiv.org/abs/2506.14561)|null|
+|**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
+|**2025-06-17**|**RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition**|Tim Cofala et.al.|[2506.14412](http://arxiv.org/abs/2506.14412)|null|
+|**2025-06-17**|**ImpliRet: Benchmarking the Implicit Fact Retrieval Challenge**|Zeinab Sadat Taghavi et.al.|[2506.14407](http://arxiv.org/abs/2506.14407)|null|
+|**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
+|**2025-06-17**|**IntelliLung: Advancing Safe Mechanical Ventilation using Offline RL with Hybrid Actions and Clinically Aligned Rewards**|Muhammad Hamza Yousuf et.al.|[2506.14375](http://arxiv.org/abs/2506.14375)|null|
 |**2025-06-16**|**Computational lower bounds in latent models: clustering, sparse-clustering, biclustering**|Bertrand Even et.al.|[2506.13647](http://arxiv.org/abs/2506.13647)|null|
 |**2025-06-16**|**Parallel Branch Model Predictive Control on GPUs**|Luyao Zhang et.al.|[2506.13624](http://arxiv.org/abs/2506.13624)|null|
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
@@ -4407,6 +4427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
 |**2025-06-16**|**Multipole Attention for Efficient Long Context Reasoning**|Coleman Hooper et.al.|[2506.13059](http://arxiv.org/abs/2506.13059)|null|
 |**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
