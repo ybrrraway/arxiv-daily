@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204](http://arxiv.org/abs/2506.17204)|null|
+|**2025-06-20**|**Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity**|Samin Yeasar Arnob et.al.|[2506.17155](http://arxiv.org/abs/2506.17155)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**PCG-Informed Neural Solvers for High-Resolution Homogenization of Periodic Microstructures**|Yu Xing et.al.|[2506.17087](http://arxiv.org/abs/2506.17087)|null|
+|**2025-06-20**|**Complexity of sparse polynomial solving 3: Infinity**|Gregorio Malajovich et.al.|[2506.17086](http://arxiv.org/abs/2506.17086)|null|
+|**2025-06-20**|**Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**|Wang Zhao et.al.|[2506.17074](http://arxiv.org/abs/2506.17074)|null|
+|**2025-06-20**|**RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering**|Ines Besrour et.al.|[2506.16988](http://arxiv.org/abs/2506.16988)|null|
+|**2025-06-20**|**Space-time tradeoff for sparse quantum state preparation**|Jingquan Luo et.al.|[2506.16964](http://arxiv.org/abs/2506.16964)|null|
+|**2025-06-20**|**EHCube4P: Learning Epistatic Patterns Through Hypercube Graph Convolution Neural Network for Protein Fitness Function Estimation**|Muhammad Daud et.al.|[2506.16921](http://arxiv.org/abs/2506.16921)|null|
+|**2025-06-20**|**Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes**|Chao Chen et.al.|[2506.16805](http://arxiv.org/abs/2506.16805)|null|
 |**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
 |**2025-06-18**|**Near-Field SWIPT with gMIMO in the Upper Mid-Band: Opportunities, Challenges, and the Way Forward**|Özlem Tugfe Demir et.al.|[2506.15670](http://arxiv.org/abs/2506.15670)|null|
@@ -1381,6 +1391,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?**|Adithya Bhaskar et.al.|[2506.17121](http://arxiv.org/abs/2506.17121)|null|
+|**2025-06-19**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|null|
+|**2025-06-18**|**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding**|Minsoo Kim et.al.|[2506.15745](http://arxiv.org/abs/2506.15745)|null|
 |**2025-06-18**|**eLLM: Elastic Memory Management Framework for Efficient LLM Serving**|Jiale Xu et.al.|[2506.15155](http://arxiv.org/abs/2506.15155)|null|
 |**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
@@ -1668,6 +1681,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202](http://arxiv.org/abs/2506.17202)|null|
+|**2025-06-20**|**MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation**|Shoubin Yu et.al.|[2506.17113](http://arxiv.org/abs/2506.17113)|null|
+|**2025-06-20**|**MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models**|Xiaolong Wang et.al.|[2506.17046](http://arxiv.org/abs/2506.17046)|null|
+|**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968](http://arxiv.org/abs/2506.16968)|null|
+|**2025-06-20**|**Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs**|Haoran Sun et.al.|[2506.16962](http://arxiv.org/abs/2506.16962)|null|
+|**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Jiaqi Chen et.al.|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
+|**2025-06-20**|**With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You**|Fabian Gröger et.al.|[2506.16895](http://arxiv.org/abs/2506.16895)|null|
+|**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[2506.16876](http://arxiv.org/abs/2506.16876)|null|
+|**2025-06-20**|**RS-Coded Adaptive Dynamic Network for Reliable Long-Term Information Transmission in Disturbed Multimode Fiber**|Yang Hu et.al.|[2506.16859](http://arxiv.org/abs/2506.16859)|null|
 |**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
 |**2025-06-18**|**Estimate Hitting Time by Hitting Probability for Elitist Evolutionary Algorithms**|Jun He et.al.|[2506.15602](http://arxiv.org/abs/2506.15602)|null|
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
