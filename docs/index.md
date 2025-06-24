@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model**|Bao Thach et.al.|[2506.18779](http://arxiv.org/abs/2506.18779)|null|
+|**2025-06-23**|**LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults**|Marianne Bossema et.al.|[2506.18711](http://arxiv.org/abs/2506.18711)|null|
+|**2025-06-23**|**SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification**|Youcef Sklab et.al.|[2506.18683](http://arxiv.org/abs/2506.18683)|null|
+|**2025-06-23**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557](http://arxiv.org/abs/2506.18557)|null|
+|**2025-06-23**|**MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis**|Yuting Zhang et.al.|[2506.18512](http://arxiv.org/abs/2506.18512)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
 |**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202](http://arxiv.org/abs/2506.17202)|null|
 |**2025-06-20**|**MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation**|Shoubin Yu et.al.|[2506.17113](http://arxiv.org/abs/2506.17113)|null|
@@ -3097,6 +3107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data**|Aviral Prakash et.al.|[2506.18855](http://arxiv.org/abs/2506.18855)|null|
+|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847](http://arxiv.org/abs/2506.18847)|null|
+|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802](http://arxiv.org/abs/2506.18802)|null|
+|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[2506.18785](http://arxiv.org/abs/2506.18785)|null|
+|**2025-06-23**|**Neural Total Variation Distance Estimators for Changepoint Detection in News Data**|Csaba Zsolnai et.al.|[2506.18764](http://arxiv.org/abs/2506.18764)|null|
+|**2025-06-23**|**Universal Solvability for Robot Motion Planning on Graphs**|Anubhav Dhar et.al.|[2506.18755](http://arxiv.org/abs/2506.18755)|null|
+|**2025-06-23**|**Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI**|Daniel M. Lang et.al.|[2506.18720](http://arxiv.org/abs/2506.18720)|null|
+|**2025-06-23**|**Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation**|Jingming Liu et.al.|[2506.18670](http://arxiv.org/abs/2506.18670)|null|
+|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
+|**2025-06-23**|**TOI-1846b: A super-Earth in the radius valley orbiting a nearby M dwarf**|Abderahmane Soubkiou et.al.|[2506.18550](http://arxiv.org/abs/2506.18550)|null|
 |**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204](http://arxiv.org/abs/2506.17204)|null|
 |**2025-06-20**|**Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity**|Samin Yeasar Arnob et.al.|[2506.17155](http://arxiv.org/abs/2506.17155)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
@@ -4467,6 +4487,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation**|Xunzhi Xiang et.al.|[2506.18226](http://arxiv.org/abs/2506.18226)|null|
+|**2025-06-15**|**GTA: Grouped-head latenT Attention**|Luoyang Sun et.al.|[2506.17286](http://arxiv.org/abs/2506.17286)|null|
 |**2025-06-20**|**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?**|Adithya Bhaskar et.al.|[2506.17121](http://arxiv.org/abs/2506.17121)|null|
 |**2025-06-19**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|null|
 |**2025-06-18**|**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding**|Minsoo Kim et.al.|[2506.15745](http://arxiv.org/abs/2506.15745)|null|
