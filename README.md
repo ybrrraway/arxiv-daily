@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**The mass of the exo-Venus Gliese 12 b, as revealed by HARPS-N, ESPRESSO, and CARMENES**|Daisy A. Turner et.al.|[2506.20564](http://arxiv.org/abs/2506.20564)|null|
+|**2025-06-25**|**Revisiting CHAMPAGNE: Sparse Bayesian Learning as Reweighted Sparse Coding**|Dylan Sechet et.al.|[2506.20534](http://arxiv.org/abs/2506.20534)|null|
+|**2025-06-25**|**Papanicolaou Stain Unmixing for RGB Image Using Weighted Nucleus Sparsity and Total Variation Regularization**|Nanxin Gong et.al.|[2506.20450](http://arxiv.org/abs/2506.20450)|**[link](https://github.com/ChrisG0ng/SUnWNS-TV)**|
+|**2025-06-25**|**Scalable Subset Selection in Linear Mixed Models**|Ryan Thompson et.al.|[2506.20425](http://arxiv.org/abs/2506.20425)|null|
+|**2025-06-25**|**On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data**|Malik Shahid Sultan et.al.|[2506.20347](http://arxiv.org/abs/2506.20347)|null|
+|**2025-06-25**|**Robust estimation of a Markov chain transition matrix from multiple sample paths**|Lasse Leskelä et.al.|[2506.20325](http://arxiv.org/abs/2506.20325)|null|
+|**2025-06-25**|**Multivariate Long-term Profile Monitoring with Application to the KW51 Railway Bridge**|Philipp Wittenberg et.al.|[2506.20295](http://arxiv.org/abs/2506.20295)|null|
+|**2025-06-25**|**Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|[2506.20293](http://arxiv.org/abs/2506.20293)|null|
+|**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234](http://arxiv.org/abs/2506.20234)|null|
+|**2025-06-25**|**Tomography for Plasma Imaging: a Unifying Framework for Bayesian Inference**|D. Hamm et.al.|[2506.20232](http://arxiv.org/abs/2506.20232)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
 |**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
@@ -1411,6 +1421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation**|Xunzhi Xiang et.al.|[2506.18226](http://arxiv.org/abs/2506.18226)|null|
@@ -1705,6 +1716,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
+|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
+|**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
+|**2025-06-25**|**Noise-tolerant tomography of multimode linear optical interferometers with single photons**|Yu. A. Biriukov et.al.|[2506.20490](http://arxiv.org/abs/2506.20490)|null|
+|**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
+|**2025-06-25**|**Multimodal Behaviour Trees for Robotic Laboratory Task Automation**|Hatem Fakhruldeen et.al.|[2506.20399](http://arxiv.org/abs/2506.20399)|null|
+|**2025-06-25**|**Programmable spatiotemporal OAM optical toroidal beams with completely tunable properties**|Andrew V. Komonen et.al.|[2506.20365](http://arxiv.org/abs/2506.20365)|null|
+|**2025-06-25**|**The role of audio-visual integration in the time course of phonetic encoding in self-supervised speech models**|Yi Wang et.al.|[2506.20361](http://arxiv.org/abs/2506.20361)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
+|**2025-06-25**|**Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**|Zhigong Zhou et.al.|[2506.20330](http://arxiv.org/abs/2506.20330)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
