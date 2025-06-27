@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval**|Hani Alomari et.al.|[2506.21538](http://arxiv.org/abs/2506.21538)|null|
+|**2025-06-26**|**TopK Language Models**|Ryosuke Takahashi et.al.|[2506.21468](http://arxiv.org/abs/2506.21468)|null|
+|**2025-06-26**|**Quantum Assisted Ghost Gutzwiller Ansatz**|P. V. Sriluckshmy et.al.|[2506.21431](http://arxiv.org/abs/2506.21431)|null|
+|**2025-06-26**|**Generalizable Neural Electromagnetic Inverse Scattering**|Yizhe Cheng et.al.|[2506.21349](http://arxiv.org/abs/2506.21349)|null|
+|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
+|**2025-06-26**|**Estimating Technical Loss without Power Flows: A Practical, Data-Driven Approach for Loss Estimation in Distribution Grids**|Mohini Bariya et.al.|[2506.21311](http://arxiv.org/abs/2506.21311)|null|
+|**2025-06-26**|**Edge Clique Partition and Cover Beyond Independence**|Fedor V. Fomin et.al.|[2506.21216](http://arxiv.org/abs/2506.21216)|null|
+|**2025-06-26**|**Prokhorov Metric Convergence of the Partial Sum Process for Reconstructed Functional Data**|Tim Kutta et.al.|[2506.21172](http://arxiv.org/abs/2506.21172)|null|
+|**2025-06-26**|**Tree-based Semantic Losses: Application to Sparsely-supervised Large Multi-class Hyperspectral Segmentation**|Junwen Wang et.al.|[2506.21150](http://arxiv.org/abs/2506.21150)|null|
 |**2025-06-25**|**The mass of the exo-Venus Gliese 12 b, as revealed by HARPS-N, ESPRESSO, and CARMENES**|Daisy A. Turner et.al.|[2506.20564](http://arxiv.org/abs/2506.20564)|null|
 |**2025-06-25**|**Revisiting CHAMPAGNE: Sparse Bayesian Learning as Reweighted Sparse Coding**|Dylan Sechet et.al.|[2506.20534](http://arxiv.org/abs/2506.20534)|null|
 |**2025-06-25**|**Papanicolaou Stain Unmixing for RGB Image Using Weighted Nucleus Sparsity and Total Variation Regularization**|Nanxin Gong et.al.|[2506.20450](http://arxiv.org/abs/2506.20450)|**[link](https://github.com/ChrisG0ng/SUnWNS-TV)**|
@@ -1716,6 +1726,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549](http://arxiv.org/abs/2506.21549)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
+|**2025-06-26**|**Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort**|Franco Rugolon et.al.|[2506.21429](http://arxiv.org/abs/2506.21429)|null|
+|**2025-06-26**|**Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning**|Prajwal Koirala et.al.|[2506.21427](http://arxiv.org/abs/2506.21427)|null|
+|**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
+|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
 |**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
