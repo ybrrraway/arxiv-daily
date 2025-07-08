@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222](http://arxiv.org/abs/2507.05222)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163](http://arxiv.org/abs/2507.05163)|null|
+|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099](http://arxiv.org/abs/2507.05099)|null|
+|**2025-07-07**|**Sequential Attention-based Sampling for Histopathological Analysis**|Tarun G et.al.|[2507.05077](http://arxiv.org/abs/2507.05077)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
+|**2025-07-07**|**Efficient implicit-explicit sparse stochastic method for high dimensional semi-linear nonlocal diffusion equations**|Changtao Sheng et.al.|[2507.04973](http://arxiv.org/abs/2507.04973)|null|
+|**2025-07-07**|**Semantically Consistent Discrete Diffusion for 3D Biological Graph Modeling**|Chinmay Prabhakar et.al.|[2507.04856](http://arxiv.org/abs/2507.04856)|null|
+|**2025-07-07**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750](http://arxiv.org/abs/2507.04750)|null|
+|**2025-07-07**|**CueLearner: Bootstrapping and local policy adaptation from relative feedback**|Giulio Schiavi et.al.|[2507.04730](http://arxiv.org/abs/2507.04730)|null|
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-03**|**AREE-Based Decoupled Design of Hybrid Beamformers in mmWave XL-MIMO Systems**|Jiazhe Li et.al.|[2507.02802](http://arxiv.org/abs/2507.02802)|null|
 |**2025-07-03**|**Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving**|Matthieu Zimmer et.al.|[2507.02726](http://arxiv.org/abs/2507.02726)|null|
@@ -1471,6 +1481,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-03**|**HGCA: Hybrid GPU-CPU Attention for Long Context LLM Inference**|Weishu Deng et.al.|[2507.03153](http://arxiv.org/abs/2507.03153)|null|
 |**2025-07-01**|**VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator**|Zhican Wang et.al.|[2507.00797](http://arxiv.org/abs/2507.00797)|null|
 |**2025-07-01**|**EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens**|Chaoqun Yang et.al.|[2507.00715](http://arxiv.org/abs/2507.00715)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
@@ -1771,6 +1783,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**Sequential multiple importance sampling for high-dimensional Bayesian inference**|Li Binbin et.al.|[2507.05114](http://arxiv.org/abs/2507.05114)|null|
+|**2025-07-07**|**Violation of local realism with spatially multimode parametric down-conversion pumped by spatially incoherent light**|Cheng Li et.al.|[2507.05106](http://arxiv.org/abs/2507.05106)|null|
+|**2025-07-07**|**INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling**|Xin Dong et.al.|[2507.05056](http://arxiv.org/abs/2507.05056)|null|
 |**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
 |**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
 |**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
