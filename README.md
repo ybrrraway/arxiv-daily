@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
+|**2025-07-11**|**Robust Contextual State Estimation with Limited Measurement Data**|J. G. De la Varga et.al.|[2507.08767](http://arxiv.org/abs/2507.08767)|null|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
+|**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier et.al.|[2507.08713](http://arxiv.org/abs/2507.08713)|null|
+|**2025-07-11**|**SGPMIL: Sparse Gaussian Process Multiple Instance Learning**|Andreas Lolos et.al.|[2507.08711](http://arxiv.org/abs/2507.08711)|null|
+|**2025-07-11**|**Qualitative Assessment of Low Power Wide Area Network Protocols and their Security Aspect**|Wesley dos Reis Bezerra et.al.|[2507.08677](http://arxiv.org/abs/2507.08677)|null|
+|**2025-07-11**|**Warm-starting outer approximation for parametrized convex MINLP**|Erik Tamm et.al.|[2507.08595](http://arxiv.org/abs/2507.08595)|null|
+|**2025-07-11**|**Quantum Algorithms for Projection-Free Sparse Convex Optimization**|Jianhao He et.al.|[2507.08543](http://arxiv.org/abs/2507.08543)|null|
+|**2025-07-11**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529](http://arxiv.org/abs/2507.08529)|null|
+|**2025-07-11**|**Evaluating SAE interpretability without explanations**|Gonçalo Paulo et.al.|[2507.08473](http://arxiv.org/abs/2507.08473)|null|
 |**2025-07-10**|**Finding sparse induced subgraphs on graphs of bounded induced matching treewidth**|Hans L. Bodlaender et.al.|[2507.07975](http://arxiv.org/abs/2507.07975)|null|
 |**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907](http://arxiv.org/abs/2507.07907)|null|
@@ -1511,6 +1521,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|null|
+|**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|null|
+|**2025-07-10**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
 |**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
 |**2025-07-07**|**Helix Parallelism: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding**|Nidhi Bhatia et.al.|[2507.07120](http://arxiv.org/abs/2507.07120)|null|
@@ -1817,6 +1830,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
+|**2025-07-11**|**Multilingual Multimodal Software Developer for Code Generation**|Linzheng Chai et.al.|[2507.08719](http://arxiv.org/abs/2507.08719)|null|
+|**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[2507.08716](http://arxiv.org/abs/2507.08716)|null|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664](http://arxiv.org/abs/2507.08664)|null|
+|**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen et.al.|[2507.08590](http://arxiv.org/abs/2507.08590)|null|
+|**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513](http://arxiv.org/abs/2507.08513)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
+|**2025-07-11**|**F3-Net: Foundation Model for Full Abnormality Segmentation of Medical Images with Flexible Input Modality Requirement**|Seyedeh Sahar Taheri Otaghsara et.al.|[2507.08460](http://arxiv.org/abs/2507.08460)|null|
+|**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
 |**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000](http://arxiv.org/abs/2507.08000)|null|
 |**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
