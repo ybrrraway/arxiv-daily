@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LoRA
@@ -1178,7 +1178,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
 |**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-14**|**AssertCoder: LLM-Based Assertion Generation via Multimodal Specification Extraction**|Enyuan Tian et.al.|[2507.10338](http://arxiv.org/abs/2507.10338)|null|
 |**2025-07-14**|**DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs**|Jiahe Zhao et.al.|[2507.10302](http://arxiv.org/abs/2507.10302)|null|
 |**2025-07-14**|**FaceLLM: A Multimodal Large Language Model for Face Understanding**|Hatef Otroshi Shahreza et.al.|[2507.10300](http://arxiv.org/abs/2507.10300)|null|
