@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
+|**2025-07-16**|**Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation**|Michael Potter et.al.|[2507.12424](http://arxiv.org/abs/2507.12424)|null|
+|**2025-07-16**|**Social polarization promoted by sparse higher-order interactions**|Hugo Pérez-Martínez et.al.|[2507.12325](http://arxiv.org/abs/2507.12325)|null|
+|**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205](http://arxiv.org/abs/2507.12205)|null|
+|**2025-07-16**|**Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control**|Anton Klenitskiy et.al.|[2507.12202](http://arxiv.org/abs/2507.12202)|null|
+|**2025-07-16**|**RadioDiff-3D: A 3D $\times$ 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**|Xiucheng Wang et.al.|[2507.12166](http://arxiv.org/abs/2507.12166)|null|
+|**2025-07-16**|**SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models**|Chen Li et.al.|[2507.12156](http://arxiv.org/abs/2507.12156)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
+|**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512](http://arxiv.org/abs/2507.11512)|null|
 |**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia et.al.|[2507.11481](http://arxiv.org/abs/2507.11481)|null|
 |**2025-07-15**|**Lower bounds for dominating set reconfiguration on sparse (directed) graphs**|Jona Dirks et.al.|[2507.11446](http://arxiv.org/abs/2507.11446)|null|
@@ -1541,6 +1551,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**|Yi Zhao et.al.|[2507.11953](http://arxiv.org/abs/2507.11953)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
 |**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273](http://arxiv.org/abs/2507.11273)|null|
 |**2025-07-11**|**Lizard: An Efficient Linearization Framework for Large Language Models**|Chien Van Nguyen et.al.|[2507.09025](http://arxiv.org/abs/2507.09025)|null|
@@ -1853,6 +1864,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**A graphene platform for nano scale coherent interaction of surface plasmons with resonant atomic ensembles**|Ali A. Kamli et.al.|[2507.12421](http://arxiv.org/abs/2507.12421)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Modal Analysis of Multimode Waveguides Based on Large Step Size AdaMax from Far-Field Amplitudes**|Jingtong Li et.al.|[2507.12299](http://arxiv.org/abs/2507.12299)|null|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
+|**2025-07-16**|**A solid-state temporally multiplexed quantum memory array at the single-photon level**|Markus Teller et.al.|[2507.12200](http://arxiv.org/abs/2507.12200)|null|
+|**2025-07-16**|**Novel multifunctional plasmonic fiber probe: Enabling plasmonic heating and SERS sensing for biomedical applications**|Muhammad Fayyaz Kashif et.al.|[2507.12134](http://arxiv.org/abs/2507.12134)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252](http://arxiv.org/abs/2507.11252)|null|
