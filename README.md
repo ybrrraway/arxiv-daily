@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296](http://arxiv.org/abs/2507.13296)|null|
+|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
+|**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
+|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/abs/2507.13158)|null|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**High Performance Parallel Solvers for the time-harmonic Maxwell Equations**|Elise Fressart et.al.|[2507.13066](http://arxiv.org/abs/2507.13066)|null|
+|**2025-07-17**|**Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data**|Sanjeev Ramkumar Sudha et.al.|[2507.13053](http://arxiv.org/abs/2507.13053)|null|
+|**2025-07-17**|**Teach Old SAEs New Domain Tricks with Boosting**|Nikita Koriagin et.al.|[2507.12990](http://arxiv.org/abs/2507.12990)|null|
 |**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
 |**2025-07-16**|**Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation**|Michael Potter et.al.|[2507.12424](http://arxiv.org/abs/2507.12424)|null|
 |**2025-07-16**|**Social polarization promoted by sparse higher-order interactions**|Hugo Pérez-Martínez et.al.|[2507.12325](http://arxiv.org/abs/2507.12325)|null|
@@ -1864,6 +1874,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
+|**2025-07-17**|**HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals**|Guimin Hu et.al.|[2507.13318](http://arxiv.org/abs/2507.13318)|null|
+|**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
+|**2025-07-17**|**FocusView: Understanding and Customizing Informational Video Watching Experiences for Viewers with ADHD**|Hanxiu 'Hazel' Zhu et.al.|[2507.13309](http://arxiv.org/abs/2507.13309)|null|
+|**2025-07-17**|**Voxtral**|Alexander H. Liu et.al.|[2507.13264](http://arxiv.org/abs/2507.13264)|null|
+|**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/abs/2507.13255)|null|
+|**2025-07-17**|**Resources for bosonic metrology: quantum-enhanced precision from a superselection rule perspective**|Astghik Saharyan et.al.|[2507.13245](http://arxiv.org/abs/2507.13245)|null|
+|**2025-07-17**|**From the up-converting multimodal luminescent thermometer to ratiometric visual power density meter based on Er3+,Yb3+ emission**|Anam Javaid et.al.|[2507.13217](http://arxiv.org/abs/2507.13217)|null|
+|**2025-07-17**|**Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing**|Marina Y. Aoyama et.al.|[2507.13200](http://arxiv.org/abs/2507.13200)|null|
+|**2025-07-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al.|[2507.13152](http://arxiv.org/abs/2507.13152)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
 |**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
