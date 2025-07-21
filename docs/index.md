@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Multimode Nanobeam Photonic Crystal Cavities for Purcell Enhanced Quantum Dot Emission**|Junyeob Song et.al.|[2507.14090](http://arxiv.org/abs/2507.14090)|null|
+|**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Shuliang Liu et.al.|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
+|**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045](http://arxiv.org/abs/2507.14045)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**Broadband and long-duration optical memory in Yb:YSO**|T. Sanchez Mejia et.al.|[2507.13973](http://arxiv.org/abs/2507.13973)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
+|**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Francesco Ortu et.al.|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
+|**2025-07-18**|**GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation**|Weiqi Yang et.al.|[2507.13803](http://arxiv.org/abs/2507.13803)|null|
+|**2025-07-18**|**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**|Palash Nandi et.al.|[2507.13761](http://arxiv.org/abs/2507.13761)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
 |**2025-07-17**|**HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals**|Guimin Hu et.al.|[2507.13318](http://arxiv.org/abs/2507.13318)|null|
 |**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
@@ -3267,6 +3277,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Sparse Navigable Graphs for Nearest Neighbor Search: Algorithms and Hardness**|Sanjeev Khanna et.al.|[2507.14060](http://arxiv.org/abs/2507.14060)|null|
+|**2025-07-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al.|[2507.13954](http://arxiv.org/abs/2507.13954)|null|
+|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
+|**2025-07-18**|**An Enhanced Model-based Approach for Short Text Clustering**|Enhao Cheng et.al.|[2507.13793](http://arxiv.org/abs/2507.13793)|null|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757](http://arxiv.org/abs/2507.13757)|null|
+|**2025-07-18**|**Learning Deformable Body Interactions With Adaptive Spatial Tokenization**|Hao Wang et.al.|[2507.13707](http://arxiv.org/abs/2507.13707)|null|
+|**2025-07-18**|**Density Evolution Analysis of Sparse-Block IDMA**|Jean-Francois Chamberland et.al.|[2507.13689](http://arxiv.org/abs/2507.13689)|null|
+|**2025-07-18**|**CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer**|Teerapong Panboonyuen et.al.|[2507.13655](http://arxiv.org/abs/2507.13655)|null|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
+|**2025-07-17**|**SCOPE for Hexapod Gait Generation**|Jim O'Connor et.al.|[2507.13539](http://arxiv.org/abs/2507.13539)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
 |**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296](http://arxiv.org/abs/2507.13296)|null|
 |**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
@@ -4807,6 +4827,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-16**|**IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**|Yi Zhao et.al.|[2507.11953](http://arxiv.org/abs/2507.11953)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
 |**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273](http://arxiv.org/abs/2507.11273)|null|
