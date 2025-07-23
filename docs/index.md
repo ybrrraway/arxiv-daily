@@ -1176,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
+|**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
+|**2025-07-22**|**Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs**|Yujin Han et.al.|[2507.16663](http://arxiv.org/abs/2507.16663)|null|
+|**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596](http://arxiv.org/abs/2507.16596)|null|
+|**2025-07-22**|**Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models**|Mohamad Ballout et.al.|[2507.16572](http://arxiv.org/abs/2507.16572)|null|
+|**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Xiaoyan Wang et.al.|[2507.16524](http://arxiv.org/abs/2507.16524)|null|
+|**2025-07-22**|**C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning**|Xiuwei Chen et.al.|[2507.16518](http://arxiv.org/abs/2507.16518)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**True Multimodal In-Context Learning Needs Attention to the Visual Context**|Shuo Chen et.al.|[2507.15807](http://arxiv.org/abs/2507.15807)|null|
 |**2025-07-21**|**Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs**|Ruochu Yang et.al.|[2507.15782](http://arxiv.org/abs/2507.15782)|null|
@@ -3287,6 +3297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Partitioned Sparse Variational Gaussian Process for Fast, Distributed Spatial Modeling**|Michael Grosskopf et.al.|[2507.16771](http://arxiv.org/abs/2507.16771)|null|
+|**2025-07-22**|**Accommodating the Analysis Model in Multiple Imputation for the Weibull Mixture Cure Model:Performance under Penalized Likelihood**|Changchang Xu et.al.|[2507.16690](http://arxiv.org/abs/2507.16690)|null|
+|**2025-07-22**|**Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis**|Sara Giordano et.al.|[2507.16641](http://arxiv.org/abs/2507.16641)|null|
+|**2025-07-22**|**Scaling Linear Attention with Sparse State Expansion**|Yuqi Pan et.al.|[2507.16577](http://arxiv.org/abs/2507.16577)|null|
+|**2025-07-22**|**Symbolic Graph Intelligence: Hypervector Message Passing for Learning Graph-Level Patterns with Tsetlin Machines**|Christian D. Blakely et.al.|[2507.16537](http://arxiv.org/abs/2507.16537)|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
+|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
+|**2025-07-22**|**Improving Predictions on Highly Unbalanced Data Using Open Source Synthetic Data Upsampling**|Ivona Krchova et.al.|[2507.16419](http://arxiv.org/abs/2507.16419)|null|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
+|**2025-07-22**|**Diff-ANO: Towards Fast High-Resolution Ultrasound Computed Tomography via Conditional Consistency Models and Adjoint Neural Operators**|Xiang Cao et.al.|[2507.16344](http://arxiv.org/abs/2507.16344)|null|
 |**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**Identifying Solution Constraints for ODE Systems**|Nicolae Tarfulea et.al.|[2507.15805](http://arxiv.org/abs/2507.15805)|null|
@@ -4847,6 +4867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
 |**2025-07-14**|**LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models**|Dachuan Shi et.al.|[2507.14204](http://arxiv.org/abs/2507.14204)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-16**|**IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**|Yi Zhao et.al.|[2507.11953](http://arxiv.org/abs/2507.11953)|null|
