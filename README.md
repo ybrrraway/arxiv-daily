@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Direct correlation of line intensity mapping and CMB lensing from lightcone evolution**|Delon Shen et.al.|[2507.17752](http://arxiv.org/abs/2507.17752)|null|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745](http://arxiv.org/abs/2507.17745)|null|
+|**2025-07-23**|**The smallest singular value of sparse discrete random matrices**|Kexin Yu et.al.|[2507.17741](http://arxiv.org/abs/2507.17741)|null|
+|**2025-07-23**|**Monocular Semantic Scene Completion via Masked Recurrent Networks**|Xuzhi Wang et.al.|[2507.17661](http://arxiv.org/abs/2507.17661)|null|
+|**2025-07-23**|**QuMAB: Query-based Multi-annotator Behavior Pattern Learning**|Liyun Zhang et.al.|[2507.17653](http://arxiv.org/abs/2507.17653)|null|
+|**2025-07-23**|**When and Where Localization Fails: An Analysis of the Iterative Closest Point in Evolving Environment**|Abdel-Raouf Dannaoui et.al.|[2507.17531](http://arxiv.org/abs/2507.17531)|null|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**MyGO: Make your Goals Obvious, Avoiding Semantic Confusion in Prostate Cancer Lesion Region Segmentation**|Zhengcheng Lin et.al.|[2507.17269](http://arxiv.org/abs/2507.17269)|null|
+|**2025-07-23**|**End-to-end reconstruction of ultra-high energy particle observables from radio detection of extensive air showers**|Kewen Zhang et.al.|[2507.17266](http://arxiv.org/abs/2507.17266)|null|
 |**2025-07-22**|**A Partitioned Sparse Variational Gaussian Process for Fast, Distributed Spatial Modeling**|Michael Grosskopf et.al.|[2507.16771](http://arxiv.org/abs/2507.16771)|null|
 |**2025-07-22**|**Accommodating the Analysis Model in Multiple Imputation for the Weibull Mixture Cure Model:Performance under Penalized Likelihood**|Changchang Xu et.al.|[2507.16690](http://arxiv.org/abs/2507.16690)|null|
 |**2025-07-22**|**Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis**|Sara Giordano et.al.|[2507.16641](http://arxiv.org/abs/2507.16641)|null|
@@ -1907,6 +1917,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models**|Liwenhan Xie et.al.|[2507.17734](http://arxiv.org/abs/2507.17734)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Audio-Vision Contrastive Learning for Phonological Class Recognition**|Daiqi Liu et.al.|[2507.17682](http://arxiv.org/abs/2507.17682)|null|
+|**2025-07-23**|**Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras**|Lingdong Kong et.al.|[2507.17664](http://arxiv.org/abs/2507.17664)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**QuMAB: Query-based Multi-annotator Behavior Pattern Learning**|Liyun Zhang et.al.|[2507.17653](http://arxiv.org/abs/2507.17653)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[2507.17596](http://arxiv.org/abs/2507.17596)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
